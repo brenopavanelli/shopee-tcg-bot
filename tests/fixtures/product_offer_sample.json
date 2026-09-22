@@ -1,0 +1,35 @@
+{
+  "data": {
+    "productOfferV2": {
+      "nodes": [
+        {
+          "itemId": 27391045821,
+          "shopId": 88213,
+          "productName": "Pokemon TCG Scarlet & Violet Elite Trainer Box Original",
+          "priceMin": "349.90",
+          "priceDiscountRate": 15,
+          "ratingStar": "4.9",
+          "sales": 87,
+          "shopType": [1],
+          "imageUrl": "https://cf.shopee.com.br/file/exemplo1.jpg",
+          "productLink": "https://shopee.com.br/product/88213/27391045821",
+          "offerLink": "https://s.shopee.com.br/exemplo1"
+        },
+        {
+          "itemId": 19204837651,
+          "shopId": 55102,
+          "productName": "Booster Box Pokemon TCG Lacrado",
+          "priceMin": "289.00",
+          "priceDiscountRate": 0,
+          "ratingStar": "4.7",
+          "sales": 14,
+          "shopType": [],
+          "imageUrl": "https://cf.shopee.com.br/file/exemplo2.jpg",
+          "productLink": "https://shopee.com.br/product/55102/19204837651",
+          "offerLink": ""
+        }
+      ],
+      "pageInfo": { "page": 1, "limit": 20, "hasNextPage": false }
+    }
+  }
+}
