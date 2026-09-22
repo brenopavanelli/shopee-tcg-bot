@@ -1,0 +1,2 @@
+# shopee-tcg-bot
+
