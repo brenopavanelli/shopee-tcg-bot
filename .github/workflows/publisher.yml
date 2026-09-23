@@ -2,9 +2,10 @@ name: Publicador de Ofertas
 
 on:
   schedule:
-    - cron: "*/20 * * * *"
+    - cron: "*/20 9-23,0-2 * * *"
+    - cron: "0 3-8 * * *"
   workflow_dispatch:
-
+  
 concurrency:
   group: tcgbot-state
   cancel-in-progress: false
