@@ -6,8 +6,8 @@ concurrency:
 
 on:
   schedule:
-    - cron: "*/20 9-23,0-2 * * *"
-    - cron: "0 3-8 * * *"
+    - cron: "3,23,43 9-23,0-2 * * *"
+    - cron: "13 3-8 * * *"
   workflow_dispatch:
 
 jobs:
