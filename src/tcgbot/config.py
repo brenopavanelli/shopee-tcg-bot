@@ -22,6 +22,7 @@ def _get_list(name: str, default: list[str]) -> list[str]:
 
 @dataclass(frozen=True)
 class Config:
+    queue_max_age_hours: int = field(default_factory=lambda: _get_int("QUEUE_MAX_AGE_HOURS", 6))
     min_rating_ideal: float = field(default_factory=lambda: _get_float("MIN_RATING_IDEAL", 4.8))
     min_rating_fallback: float = field(default_factory=lambda: _get_float("MIN_RATING_FALLBACK", 4.7))
     min_sales_ideal: int = field(default_factory=lambda: _get_int("MIN_SALES_IDEAL", 20))
