@@ -20,5 +20,49 @@
     "discount_rate": 0,
     "keyword": "Pokemon Elite Trainer Box",
     "offer_link": "https://s.shopee.com.br/8KpihXV7MD"
+  },
+  {
+    "item_id": 58212779395,
+    "shop_id": 1648678573,
+    "title": "Pokémon ETB Chaos Rising Elite Trainer Box Inglês - Mega Evolution TCG",
+    "normalized_title": "pokemon etb chaos rising elite trainer box ingles mega evolution tcg",
+    "published_at": "2026-09-22T23:04:05.705263+00:00",
+    "price": 499.99,
+    "discount_rate": 0,
+    "keyword": "Pokemon Elite Trainer Box",
+    "offer_link": "https://s.shopee.com.br/8AWIVEVkhC"
+  },
+  {
+    "item_id": 58258990463,
+    "shop_id": 479251059,
+    "title": "Protetor de Cartas Sleeve Central Shield 63 x 88mm Padrão Básico Transparente Pokémon Magic TCG",
+    "normalized_title": "protetor de cartas sleeve central shield 63 x 88mm padrao basico transparente pokemon magic tcg",
+    "published_at": "2026-09-22T23:09:03.850862+00:00",
+    "price": 16.68,
+    "discount_rate": 33,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/7fa1tKRZDH"
+  },
+  {
+    "item_id": 53666400287,
+    "shop_id": 464326997,
+    "title": "BOX POKÉMON COLEÇÃO MEGA FORÇAS ZERAORA DRAGONITE DARKRAI EX COPAG EVOLUÇÃO CARTAS BOOSTERS TCG CARD",
+    "normalized_title": "box pokemon colecao mega forcas zeraora dragonite darkrai ex copag evolucao cartas boosters tcg card",
+    "published_at": "2026-09-22T23:25:22.331280+00:00",
+    "price": 139.99,
+    "discount_rate": 54,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/8V98srOOWc"
+  },
+  {
+    "item_id": 23699466714,
+    "shop_id": 464326997,
+    "title": "BOX POKÉMON COLEÇÃO MEGA LUAR GENGAR CLEFABLE EX COPAG CAOS ASCENDENTE EVOLUÇÃO TCG CARTAS BOOSTERS",
+    "normalized_title": "box pokemon colecao mega luar gengar clefable ex copag caos ascendente evolucao tcg cartas boosters",
+    "published_at": "2026-09-22T23:27:09.908019+00:00",
+    "price": 134.99,
+    "discount_rate": 55,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/AKan8yqiGQ"
   }
 ]
