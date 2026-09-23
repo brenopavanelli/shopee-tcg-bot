@@ -1,0 +1,33 @@
+name: Coletor de Ofertas
+
+on:
+  schedule:
+    - cron: "23 */3 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: tcgbot-state
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt && pip install -e .
+      - name: Coletar
+        env:
+          SHOPEE_APP_ID: ${{ secrets.SHOPEE_APP_ID }}
+          SHOPEE_APP_SECRET: ${{ secrets.SHOPEE_APP_SECRET }}
+          SHOPEE_DRY_RUN: "false"
+        run: python -m tcgbot.collector
+      - name: Salvar estado
+        run: |
+          git config user.name "tcgbot"
+          git config user.email "tcgbot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "chore: atualiza estado (coletor)"
+          git push
