@@ -64,5 +64,38 @@
     "discount_rate": 55,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/AKan8yqiGQ"
+  },
+  {
+    "item_id": 58215951285,
+    "shop_id": 1704759227,
+    "title": "Álbum Pokémon Pikachu 240 Cartas Porta Cards TCG Pasta Colecionador Presente para Fãs Vários Modelos",
+    "normalized_title": "album pokemon pikachu 240 cartas porta cards tcg pasta colecionador presente para fas varios modelos",
+    "published_at": "2026-09-23T15:36:50.412556+00:00",
+    "price": 34.99,
+    "discount_rate": 50,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/6q0utnUju8"
+  },
+  {
+    "item_id": 58254431532,
+    "shop_id": 1549181086,
+    "title": "Sleeve Central Shields Básico 63mm x 88mm 100 Protetor de Carta Transparente Tamanho Padrão Pokemon Magic TCG",
+    "normalized_title": "sleeve central shields basico 63mm x 88mm 100 protetor de carta transparente tamanho padrao pokemon magic tcg",
+    "published_at": "2026-09-23T15:37:14.024257+00:00",
+    "price": 16.9,
+    "discount_rate": 58,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/4fwRiJ29Ic"
+  },
+  {
+    "item_id": 28743217032,
+    "shop_id": 445721324,
+    "title": "Blister Unitário Pokémon Pacote Individual Cartas Oficiais TCG Coleções Megaevolução Copag",
+    "normalized_title": "blister unitario pokemon pacote individual cartas oficiais tcg colecoes megaevolucao copag",
+    "published_at": "2026-09-23T15:37:21.377813+00:00",
+    "price": 15.9,
+    "discount_rate": 36,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/4qFruc1Vxf"
   }
 ]
