@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 27391045821,
-    "shop_id": 88213,
-    "title": "Pokemon TCG Scarlet & Violet Elite Trainer Box Original",
-    "normalized_title": "pokemon tcg scarlet violet elite trainer box original",
-    "published_at": "2026-09-22T18:12:03.634258+00:00",
-    "price": 349.9,
-    "discount_rate": 15,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/exemplo1"
-  },
-  {
     "item_id": 22099407991,
     "shop_id": 502301086,
     "title": "Box Em Acrílico Para Elite Trainer Box ETB Pokémon US (19,5x9,5x17,5cm) - PPKB-ETB-US-OPEN",
@@ -251,5 +240,16 @@
     "discount_rate": 0,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/7AdpdpQhQH"
+  },
+  {
+    "item_id": 45563969587,
+    "shop_id": 464326997,
+    "title": "BOOSTER BOX MEGAEVOLUÇÃO ESCURIDÃO ABSOLUTA ME05 COPAG POKÉMON TCG CARTAS DISPLAY MEGA DARKRAI EX",
+    "normalized_title": "booster box megaevolucao escuridao absoluta me05 copag pokemon tcg cartas display mega darkrai ex",
+    "published_at": "2026-09-25T18:43:52.138151+00:00",
+    "price": 429.99,
+    "discount_rate": 58,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/qjkVCZGQW"
   }
 ]
