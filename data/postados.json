@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 22099407991,
-    "shop_id": 502301086,
-    "title": "Box Em Acrílico Para Elite Trainer Box ETB Pokémon US (19,5x9,5x17,5cm) - PPKB-ETB-US-OPEN",
-    "normalized_title": "box em acrilico para elite trainer box etb pokemon us 19 5x9 5x17 5cm ppkb etb us open",
-    "published_at": "2026-09-22T18:52:16.744452+00:00",
-    "price": 89.5,
-    "discount_rate": 0,
-    "keyword": "Pokemon Elite Trainer Box",
-    "offer_link": "https://s.shopee.com.br/8KpihXV7MD"
-  },
-  {
     "item_id": 58212779395,
     "shop_id": 1648678573,
     "title": "Pokémon ETB Chaos Rising Elite Trainer Box Inglês - Mega Evolution TCG",
@@ -251,5 +240,16 @@
     "discount_rate": 58,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/qjkVCZGQW"
+  },
+  {
+    "item_id": 58212745907,
+    "shop_id": 464326997,
+    "title": "BOX POKÉMON COLEÇÃO ILUSTRAÇÃO PARCEIRO INICIAL SÉRIE 2 COPAG MEGA EVOLUÇÃO CARTAS BOOSTERS 30 ANOS",
+    "normalized_title": "box pokemon colecao ilustracao parceiro inicial serie 2 copag mega evolucao cartas boosters 30 anos",
+    "published_at": "2026-09-25T21:56:05.897201+00:00",
+    "price": 199.99,
+    "discount_rate": 57,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/8fSdmaOMtZ"
   }
 ]
