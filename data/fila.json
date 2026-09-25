@@ -1,6 +1,114 @@
 [
   {
     "offer": {
+      "item_id": 21898020732,
+      "shop_id": 1456485786,
+      "title": "Deck Box Pokémon TCG  Estilo Game Boy Personalizável  para 60 cartas com Sleeves",
+      "price": 29.9,
+      "rating": 4.9,
+      "sales": 264,
+      "shop_type": [
+        2
+      ],
+      "image_url": "https://cf.shopee.com.br/file/br-11134207-7r98o-mccapahauuso60",
+      "product_link": "https://shopee.com.br/product/1456485786/21898020732",
+      "offer_link": "https://s.shopee.com.br/6L4gaoso6G",
+      "discount_rate": 19
+    },
+    "keyword": "Pokemon TCG",
+    "queued_at": "2026-09-25T05:06:53.413339+00:00"
+  },
+  {
+    "offer": {
+      "item_id": 58265791151,
+      "shop_id": 1549181086,
+      "title": "Pasta Álbum Para Cartas Pokemon | Magic | TCG - Com 360 Slots - Capa Dura Com Ziper Legionários  - Fichário Porta Cards",
+      "price": 289.0,
+      "rating": 5.0,
+      "sales": 218,
+      "shop_type": [
+        2
+      ],
+      "image_url": "https://cf.shopee.com.br/file/br-11134207-820lh-msehj61oihaca0",
+      "product_link": "https://shopee.com.br/product/1549181086/58265791151",
+      "offer_link": "https://s.shopee.com.br/6q0ymoQZ4k",
+      "discount_rate": 0
+    },
+    "keyword": "Pokemon TCG",
+    "queued_at": "2026-09-25T05:06:53.413410+00:00"
+  },
+  {
+    "offer": {
+      "item_id": 40880601200,
+      "shop_id": 1651121464,
+      "title": "Álbum de Cartas TCG – Para Pokémon, Magic e Outros Jogos, Protege e Organiza, 240/540 Cartas",
+      "price": 35.9,
+      "rating": 4.7,
+      "sales": 284,
+      "shop_type": [],
+      "image_url": "https://cf.shopee.com.br/file/br-11134207-820mf-mnvhjxbmaa6a04",
+      "product_link": "https://shopee.com.br/product/1651121464/40880601200",
+      "offer_link": "https://s.shopee.com.br/6fhYaVRCPj",
+      "discount_rate": 43
+    },
+    "keyword": "Pokemon TCG",
+    "queued_at": "2026-09-25T05:06:53.413456+00:00"
+  },
+  {
+    "offer": {
+      "item_id": 58256232047,
+      "shop_id": 1679540190,
+      "title": "Álbum Fichário Pokémon Capa Dura Zíper 400 Cartas + 50 Folhas Porta Cards TCG Pronta Entrega",
+      "price": 35.9,
+      "rating": 4.8,
+      "sales": 206,
+      "shop_type": [],
+      "image_url": "https://cf.shopee.com.br/file/br-11134201-820l9-mma5v4178e12f0",
+      "product_link": "https://shopee.com.br/product/1679540190/58256232047",
+      "offer_link": "https://s.shopee.com.br/7fa5mLNONx",
+      "discount_rate": 46
+    },
+    "keyword": "Pokemon TCG",
+    "queued_at": "2026-09-25T05:06:53.413514+00:00"
+  },
+  {
+    "offer": {
+      "item_id": 22094058133,
+      "shop_id": 1455674925,
+      "title": "Porta Cartas Caixa Deck Box para Pokémon TCG - Vários personagens (200 cartas)",
+      "price": 35.5,
+      "rating": 5.0,
+      "sales": 254,
+      "shop_type": [
+        2
+      ],
+      "image_url": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgtyjycmoqv4e7",
+      "product_link": "https://shopee.com.br/product/1455674925/22094058133",
+      "offer_link": "https://s.shopee.com.br/7VGfa2O1iw",
+      "discount_rate": 22
+    },
+    "keyword": "Pokemon TCG",
+    "queued_at": "2026-09-25T05:06:53.413571+00:00"
+  },
+  {
+    "offer": {
+      "item_id": 58202822330,
+      "shop_id": 1651121464,
+      "title": "Álbum Pokémon TCG Porta Cartas para Colecionadores – 240 ou 400 Cartas, Várias Opções",
+      "price": 35.9,
+      "rating": 4.7,
+      "sales": 165,
+      "shop_type": [],
+      "image_url": "https://cf.shopee.com.br/file/sg-11134201-8260h-mj6sx3z1g7pg36",
+      "product_link": "https://shopee.com.br/product/1651121464/58202822330",
+      "offer_link": "https://s.shopee.com.br/7KxFNjOf3v",
+      "discount_rate": 40
+    },
+    "keyword": "Pokemon TCG",
+    "queued_at": "2026-09-25T05:06:53.413611+00:00"
+  },
+  {
+    "offer": {
       "item_id": 45563969587,
       "shop_id": 464326997,
       "title": "BOOSTER BOX MEGAEVOLUÇÃO ESCURIDÃO ABSOLUTA ME05 COPAG POKÉMON TCG CARTAS DISPLAY MEGA DARKRAI EX",
@@ -16,14 +124,14 @@
       "discount_rate": 58
     },
     "keyword": "Pokemon booster box",
-    "queued_at": "2026-09-24T21:37:02.399182+00:00"
+    "queued_at": "2026-09-25T05:06:54.284728+00:00"
   },
   {
     "offer": {
       "item_id": 58212745907,
       "shop_id": 464326997,
       "title": "BOX POKÉMON COLEÇÃO ILUSTRAÇÃO PARCEIRO INICIAL SÉRIE 2 COPAG MEGA EVOLUÇÃO CARTAS BOOSTERS 30 ANOS",
-      "price": 179.99,
+      "price": 199.99,
       "rating": 5.0,
       "sales": 12,
       "shop_type": [
@@ -32,17 +140,17 @@
       "image_url": "https://cf.shopee.com.br/file/sg-11134201-824ga-mplsbwm7gidda7",
       "product_link": "https://shopee.com.br/product/464326997/58212745907",
       "offer_link": "https://s.shopee.com.br/113AhVYd5b",
-      "discount_rate": 62
+      "discount_rate": 57
     },
     "keyword": "Pokemon booster box",
-    "queued_at": "2026-09-24T21:37:02.399267+00:00"
+    "queued_at": "2026-09-25T05:06:54.284839+00:00"
   },
   {
     "offer": {
       "item_id": 58210763081,
       "shop_id": 464326997,
       "title": "BOX POKÉMON COLEÇÃO MEGA ZYGARDE EX COPAG MEGAEVOLUÇÃO EQUILÍBRIO PERFEITO TCG CARTAS BOOSTERS CARDS",
-      "price": 159.99,
+      "price": 169.99,
       "rating": 4.7,
       "sales": 10,
       "shop_type": [
@@ -51,9 +159,9 @@
       "image_url": "https://cf.shopee.com.br/file/sg-11134201-822yd-moa3on1bfggd40",
       "product_link": "https://shopee.com.br/product/464326997/58210763081",
       "offer_link": "https://s.shopee.com.br/1Lg167XMPh",
-      "discount_rate": 56
+      "discount_rate": 53
     },
     "keyword": "Pokemon booster box",
-    "queued_at": "2026-09-24T21:37:02.399336+00:00"
+    "queued_at": "2026-09-25T05:06:54.284894+00:00"
   }
 ]
