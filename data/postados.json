@@ -218,5 +218,16 @@
     "discount_rate": 20,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/1gItjcKg2l"
+  },
+  {
+    "item_id": 58212779395,
+    "shop_id": 1648678573,
+    "title": "Pokémon ETB Chaos Rising Elite Trainer Box Inglês - Mega Evolution TCG",
+    "normalized_title": "pokemon etb chaos rising elite trainer box ingles mega evolution tcg",
+    "published_at": "2026-09-26T05:06:58.934482+00:00",
+    "price": 499.99,
+    "discount_rate": 0,
+    "keyword": "Pokemon Elite Trainer Box",
+    "offer_link": "https://s.shopee.com.br/50ZJ0Mxx1G"
   }
 ]
