@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58205056904,
-    "shop_id": 1679540190,
-    "title": "Álbum Pokémon TCG 240/400/540 Cartas Pikachu Eevee Charizard Pasta Premium Pronta Entrega Brasil",
-    "normalized_title": "album pokemon tcg 240 400 540 cartas pikachu eevee charizard pasta premium pronta entrega brasil",
-    "published_at": "2026-09-24T21:33:59.607923+00:00",
-    "price": 39.0,
-    "discount_rate": 50,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/5VVZbHvyn5"
-  },
-  {
     "item_id": 23095035076,
     "shop_id": 450761307,
     "title": "Pokémon Booster Box Caixa Lacrada Escuridão Absoluta Copag",
@@ -207,5 +196,16 @@
     "discount_rate": 51,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/5LCEz8z4eX"
+  },
+  {
+    "item_id": 58210763081,
+    "shop_id": 464326997,
+    "title": "BOX POKÉMON COLEÇÃO MEGA ZYGARDE EX COPAG MEGAEVOLUÇÃO EQUILÍBRIO PERFEITO TCG CARTAS BOOSTERS CARDS",
+    "normalized_title": "box pokemon colecao mega zygarde ex copag megaevolucao equilibrio perfeito tcg cartas boosters cards",
+    "published_at": "2026-09-27T21:34:41.978540+00:00",
+    "price": 169.99,
+    "discount_rate": 53,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/4fwYBv1c0b"
   }
 ]
