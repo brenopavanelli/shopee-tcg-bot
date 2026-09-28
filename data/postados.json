@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 23095035076,
-    "shop_id": 450761307,
-    "title": "Pokémon Booster Box Caixa Lacrada Escuridão Absoluta Copag",
-    "normalized_title": "pokemon booster box caixa lacrada escuridao absoluta copag",
-    "published_at": "2026-09-24T23:58:45.248831+00:00",
-    "price": 389.9,
-    "discount_rate": 0,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/1AdVfcR7J"
-  },
-  {
     "item_id": 28635139159,
     "shop_id": 1495203153,
     "title": "[Pokémon] Cartão \" Super Electric Breaker \" sv8 Booster Box (30 Pacotes) Caixa Selada Versão Coreana",
@@ -218,5 +207,16 @@
     "discount_rate": 0,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/9ped1wyToO"
+  },
+  {
+    "item_id": 58267314384,
+    "shop_id": 1643050727,
+    "title": "Protetor de Cartas Sleeve Shield Central - Pokémon Magic Photocard TCG - Transparente 63mm x 88mm",
+    "normalized_title": "protetor de cartas sleeve shield central pokemon magic photocard tcg transparente 63mm x 88mm",
+    "published_at": "2026-09-28T03:08:17.083964+00:00",
+    "price": 14.99,
+    "discount_rate": 64,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/9V1mdKzkUM"
   }
 ]
