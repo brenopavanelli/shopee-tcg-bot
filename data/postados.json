@@ -1,27 +1,5 @@
 [
   {
-    "item_id": 45563969587,
-    "shop_id": 464326997,
-    "title": "BOOSTER BOX MEGAEVOLUÇÃO ESCURIDÃO ABSOLUTA ME05 COPAG POKÉMON TCG CARTAS DISPLAY MEGA DARKRAI EX",
-    "normalized_title": "booster box megaevolucao escuridao absoluta me05 copag pokemon tcg cartas display mega darkrai ex",
-    "published_at": "2026-09-25T18:43:52.138151+00:00",
-    "price": 429.99,
-    "discount_rate": 58,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/qjkVCZGQW"
-  },
-  {
-    "item_id": 58212745907,
-    "shop_id": 464326997,
-    "title": "BOX POKÉMON COLEÇÃO ILUSTRAÇÃO PARCEIRO INICIAL SÉRIE 2 COPAG MEGA EVOLUÇÃO CARTAS BOOSTERS 30 ANOS",
-    "normalized_title": "box pokemon colecao ilustracao parceiro inicial serie 2 copag mega evolucao cartas boosters 30 anos",
-    "published_at": "2026-09-25T21:56:05.897201+00:00",
-    "price": 199.99,
-    "discount_rate": 57,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/8fSdmaOMtZ"
-  },
-  {
     "item_id": 58264087090,
     "shop_id": 486900728,
     "title": "Booster Box Pokémon TCG Megaevolução - Caixa com 4 - ME01 - ME05",
@@ -207,5 +185,16 @@
     "discount_rate": 0,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/5VVgaWM7Xf"
+  },
+  {
+    "item_id": 22099407991,
+    "shop_id": 502301086,
+    "title": "Box Em Acrílico Para Elite Trainer Box ETB Pokémon US (19,5x9,5x17,5cm) - PPKB-ETB-US-OPEN",
+    "normalized_title": "box em acrilico para elite trainer box etb pokemon us 19 5x9 5x17 5cm ppkb etb us open",
+    "published_at": "2026-09-28T22:33:38.592094+00:00",
+    "price": 89.5,
+    "discount_rate": 0,
+    "keyword": "Pokemon Elite Trainer Box",
+    "offer_link": "https://s.shopee.com.br/1Ak2Ph3i6"
   }
 ]
