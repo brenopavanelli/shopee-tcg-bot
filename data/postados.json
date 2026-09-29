@@ -1,27 +1,5 @@
 [
   {
-    "item_id": 23699466714,
-    "shop_id": 464326997,
-    "title": "BOX POKÉMON COLEÇÃO MEGA LUAR GENGAR CLEFABLE EX COPAG CAOS ASCENDENTE EVOLUÇÃO TCG CARTAS BOOSTERS",
-    "normalized_title": "box pokemon colecao mega luar gengar clefable ex copag caos ascendente evolucao tcg cartas boosters",
-    "published_at": "2026-09-26T17:22:37.452429+00:00",
-    "price": 134.99,
-    "discount_rate": 55,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/4qFtGYK2JA"
-  },
-  {
-    "item_id": 58215951285,
-    "shop_id": 1704759227,
-    "title": "Álbum Pokémon Pikachu 240 Cartas Porta Cards TCG Pasta Colecionador Presente para Fãs Vários Modelos",
-    "normalized_title": "album pokemon pikachu 240 cartas porta cards tcg pasta colecionador presente para fas varios modelos",
-    "published_at": "2026-09-26T19:57:02.974221+00:00",
-    "price": 34.99,
-    "discount_rate": 50,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/70KNO2qGkC"
-  },
-  {
     "item_id": 58254431532,
     "shop_id": 1549181086,
     "title": "Sleeve Central Shields Básico 63mm x 88mm 100 Protetor de Carta Transparente Tamanho Padrão Pokemon Magic TCG",
@@ -196,5 +174,16 @@
     "discount_rate": 33,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/5VVhJFNu0N"
+  },
+  {
+    "item_id": 58201418599,
+    "shop_id": 1679540190,
+    "title": "Álbum Pokémon TCG 240 Cartas – Pikachu Eevee Charizard – Pasta Premium Pronta Entrega Brasil",
+    "normalized_title": "album pokemon tcg 240 cartas pikachu eevee charizard pasta premium pronta entrega brasil",
+    "published_at": "2026-09-29T20:01:20.173457+00:00",
+    "price": 34.99,
+    "discount_rate": 50,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/9AOzfz9wZF"
   }
 ]
