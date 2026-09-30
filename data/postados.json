@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 22995026943,
-    "shop_id": 464326997,
-    "title": "BOX POKÉMON COLEÇÃO MEGA GRENINJA EX COPAG MEGAEVOLUÇÃO TCG CARTAS BOOSTERS CARDS ESCURIDÃO ABSOLUTA",
-    "normalized_title": "box pokemon colecao mega greninja ex copag megaevolucao tcg cartas boosters cards escuridao absoluta",
-    "published_at": "2026-09-27T18:38:16.334940+00:00",
-    "price": 177.99,
-    "discount_rate": 51,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/5LCEz8z4eX"
-  },
-  {
     "item_id": 58210763081,
     "shop_id": 464326997,
     "title": "BOX POKÉMON COLEÇÃO MEGA ZYGARDE EX COPAG MEGAEVOLUÇÃO EQUILÍBRIO PERFEITO TCG CARTAS BOOSTERS CARDS",
@@ -185,5 +174,16 @@
     "discount_rate": 58,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/9zy6fW6lsI"
+  },
+  {
+    "item_id": 28743217032,
+    "shop_id": 445721324,
+    "title": "Blister Unitário Pokémon Pacote Individual Cartas Oficiais TCG Coleções Megaevolução Copag",
+    "normalized_title": "blister unitario pokemon pacote individual cartas oficiais tcg colecoes megaevolucao copag",
+    "published_at": "2026-09-30T20:16:56.888865+00:00",
+    "price": 15.9,
+    "discount_rate": 36,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/AAHWrp68XL"
   }
 ]
