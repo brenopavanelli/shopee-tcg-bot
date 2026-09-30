@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58210763106,
-    "shop_id": 464326997,
-    "title": "BOX COLEÇÃO TREINADOR AVANÇADO ETB MEGA GRENINJA EX CAOS ASCENDENTE ME04 POKÉMON TCG BOOSTERS CARTAS",
-    "normalized_title": "box colecao treinador avancado etb mega greninja ex caos ascendente me04 pokemon tcg boosters cartas",
-    "published_at": "2026-09-27T05:42:43.180985+00:00",
-    "price": 389.99,
-    "discount_rate": 51,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/4fwT4FKfe9"
-  },
-  {
     "item_id": 53664025919,
     "shop_id": 464326997,
     "title": "BOX COLEÇÃO TREINADOR AVANÇADO MEGA DARKRAI ESCURIDÃO ABSOLUTA ETB ME05 POKÉMON TCG BOOSTER CARTA EX",
@@ -185,5 +174,16 @@
     "discount_rate": 51,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/1Lg9laDl1g"
+  },
+  {
+    "item_id": 58215951285,
+    "shop_id": 1704759227,
+    "title": "Álbum Pokémon Pikachu 240 Cartas Porta Cards TCG Pasta Colecionador Presente para Fãs Vários Modelos",
+    "normalized_title": "album pokemon pikachu 240 cartas porta cards tcg pasta colecionador presente para fas varios modelos",
+    "published_at": "2026-09-30T08:41:28.235027+00:00",
+    "price": 34.99,
+    "discount_rate": 50,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/AKax485VCK"
   }
 ]
