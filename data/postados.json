@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58210763081,
-    "shop_id": 464326997,
-    "title": "BOX POKÉMON COLEÇÃO MEGA ZYGARDE EX COPAG MEGAEVOLUÇÃO EQUILÍBRIO PERFEITO TCG CARTAS BOOSTERS CARDS",
-    "normalized_title": "box pokemon colecao mega zygarde ex copag megaevolucao equilibrio perfeito tcg cartas boosters cards",
-    "published_at": "2026-09-27T21:34:41.978540+00:00",
-    "price": 169.99,
-    "discount_rate": 53,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/4fwYBv1c0b"
-  },
-  {
     "item_id": 22298099588,
     "shop_id": 263468055,
     "title": "Cartas Pokemon TCG Originais - Lotes com até 100 cartas sem repetidas - Cartas Brilhantes Garantidas",
@@ -185,5 +174,16 @@
     "discount_rate": 36,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/AAHWrp68XL"
+  },
+  {
+    "item_id": 21898020732,
+    "shop_id": 1456485786,
+    "title": "Deck Box Pokémon TCG  Estilo Game Boy Personalizável  para 60 cartas com Sleeves",
+    "normalized_title": "deck box pokemon tcg estilo game boy personalizavel para 60 cartas com sleeves",
+    "published_at": "2026-09-30T23:54:48.573597+00:00",
+    "price": 34.9,
+    "discount_rate": 13,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/9KiSjmTzB1"
   }
 ]
