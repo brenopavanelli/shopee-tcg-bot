@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 22299486739,
-    "shop_id": 332601056,
-    "title": "Sleeve Central Shield Matte Standard 100 un - Magic Pokémon Photocard Kpop TCG - Protetor de Cartas",
-    "normalized_title": "sleeve central shield matte standard 100 un magic pokemon photocard kpop tcg protetor de cartas",
-    "published_at": "2026-09-28T09:43:04.096200+00:00",
-    "price": 17.43,
-    "discount_rate": 47,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/7VGkOhNeT2"
-  },
-  {
     "item_id": 23095035076,
     "shop_id": 450761307,
     "title": "Pokémon Booster Box Caixa Lacrada Escuridão Absoluta Copag",
@@ -174,5 +163,16 @@
     "discount_rate": 50,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/9zy9X0RRp5"
+  },
+  {
+    "item_id": 58210763106,
+    "shop_id": 464326997,
+    "title": "BOX COLEÇÃO TREINADOR AVANÇADO ETB MEGA GRENINJA EX CAOS ASCENDENTE ME04 POKÉMON TCG BOOSTERS CARTAS",
+    "normalized_title": "box colecao treinador avancado etb mega greninja ex caos ascendente me04 pokemon tcg boosters cartas",
+    "published_at": "2026-10-01T10:05:16.186310+00:00",
+    "price": 361.99,
+    "discount_rate": 55,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/8AWWH5ybSJ"
   }
 ]
