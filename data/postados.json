@@ -1,27 +1,5 @@
 [
   {
-    "item_id": 22298099588,
-    "shop_id": 263468055,
-    "title": "Cartas Pokemon TCG Originais - Lotes com até 100 cartas sem repetidas - Cartas Brilhantes Garantidas",
-    "normalized_title": "cartas pokemon tcg originais lotes com ate 100 cartas sem repetidas cartas brilhantes garantidas",
-    "published_at": "2026-09-27T23:55:58.703372+00:00",
-    "price": 20.0,
-    "discount_rate": 0,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/9ped1wyToO"
-  },
-  {
-    "item_id": 58267314384,
-    "shop_id": 1643050727,
-    "title": "Protetor de Cartas Sleeve Shield Central - Pokémon Magic Photocard TCG - Transparente 63mm x 88mm",
-    "normalized_title": "protetor de cartas sleeve shield central pokemon magic photocard tcg transparente 63mm x 88mm",
-    "published_at": "2026-09-28T03:08:17.083964+00:00",
-    "price": 14.99,
-    "discount_rate": 64,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/9V1mdKzkUM"
-  },
-  {
     "item_id": 22299486739,
     "shop_id": 332601056,
     "title": "Sleeve Central Shield Matte Standard 100 un - Magic Pokémon Photocard Kpop TCG - Protetor de Cartas",
@@ -185,5 +163,16 @@
     "discount_rate": 13,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/9KiSjmTzB1"
+  },
+  {
+    "item_id": 22298099588,
+    "shop_id": 263468055,
+    "title": "Cartas Pokemon TCG Originais - Lotes com até 100 cartas sem repetidas - Cartas Brilhantes Garantidas",
+    "normalized_title": "cartas pokemon tcg originais lotes com ate 100 cartas sem repetidas cartas brilhantes garantidas",
+    "published_at": "2026-10-01T03:40:25.568821+00:00",
+    "price": 9.99,
+    "discount_rate": 50,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/9zy9X0RRp5"
   }
 ]
