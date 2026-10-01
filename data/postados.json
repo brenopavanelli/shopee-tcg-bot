@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 23095035076,
-    "shop_id": 450761307,
-    "title": "Pokémon Booster Box Caixa Lacrada Escuridão Absoluta Copag",
-    "normalized_title": "pokemon booster box caixa lacrada escuridao absoluta copag",
-    "published_at": "2026-09-28T17:16:04.912992+00:00",
-    "price": 389.9,
-    "discount_rate": 0,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/5VVgaWM7Xf"
-  },
-  {
     "item_id": 22099407991,
     "shop_id": 502301086,
     "title": "Box Em Acrílico Para Elite Trainer Box ETB Pokémon US (19,5x9,5x17,5cm) - PPKB-ETB-US-OPEN",
@@ -185,5 +174,16 @@
     "discount_rate": 58,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/2Vs9WgKAxE"
+  },
+  {
+    "item_id": 58267314384,
+    "shop_id": 1643050727,
+    "title": "Protetor de Cartas Sleeve Shield Central - Pokémon Magic Photocard TCG - Transparente 63mm x 88mm",
+    "normalized_title": "protetor de cartas sleeve shield central pokemon magic photocard tcg transparente 63mm x 88mm",
+    "published_at": "2026-10-01T20:44:38.086555+00:00",
+    "price": 14.99,
+    "discount_rate": 64,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/qjvXcV3av"
   }
 ]
