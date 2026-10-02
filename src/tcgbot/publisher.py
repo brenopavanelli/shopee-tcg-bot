@@ -1,17 +1,24 @@
 import logging
 import os
 
+from tcgbot.collector import HISTORY_PATH, QUEUE_PATH, collect
 from tcgbot.config import config
-from tcgbot.logging_setup import setup_logging
-from tcgbot.models import Offer
 from tcgbot.dedup import normalize_title
-from tcgbot.storage import load_history, save_history, prune_old, build_record
+from tcgbot.logging_setup import setup_logging
 from tcgbot.message import build_message
+from tcgbot.models import Offer
+from tcgbot.queue_store import load_queue, pop_next, prune_expired, save_queue
+from tcgbot.storage import build_record, load_history, prune_old, save_history
 from tcgbot.telegram_client import send_offer
-from tcgbot.queue_store import load_queue, save_queue, prune_expired, pop_next
-from tcgbot.collector import collect, QUEUE_PATH, HISTORY_PATH
 
 logger = logging.getLogger(__name__)
+
+
+def main() -> int:
+    shopee_dry = os.getenv("SHOPEE_DRY_RUN", "true").lower() != "false"
+    telegram_dry = os.getenv("TELEGRAM_DRY_RUN", "true").lower() != "false"
+    ok = publish(shopee_dry_run=shopee_dry, telegram_dry_run=telegram_dry)
+    return 0 if ok else 1
 
 
 def publish(shopee_dry_run: bool = True, telegram_dry_run: bool = True) -> bool:
@@ -45,6 +52,4 @@ def publish(shopee_dry_run: bool = True, telegram_dry_run: bool = True) -> bool:
 
 
 if __name__ == "__main__":
-    shopee_dry = os.getenv("SHOPEE_DRY_RUN", "true").lower() != "false"
-    telegram_dry = os.getenv("TELEGRAM_DRY_RUN", "true").lower() != "false"
-    publish(shopee_dry_run=shopee_dry, telegram_dry_run=telegram_dry)
+    main()
