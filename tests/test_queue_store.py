@@ -1,6 +1,7 @@
 from datetime import datetime, timedelta, timezone
+
 from tcgbot.models import Offer
-from tcgbot.queue_store import prune_expired, enqueue, pop_next
+from tcgbot.queue_store import enqueue, pop_next, prune_expired
 
 
 def _offer(item_id=1):

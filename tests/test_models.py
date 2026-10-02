@@ -1,5 +1,6 @@
 import json
 from pathlib import Path
+
 from tcgbot.models import Offer
 
 FIXTURE = Path(__file__).parent / "fixtures" / "product_offer_sample.json"
