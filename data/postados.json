@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 22099407991,
-    "shop_id": 502301086,
-    "title": "Box Em Acrílico Para Elite Trainer Box ETB Pokémon US (19,5x9,5x17,5cm) - PPKB-ETB-US-OPEN",
-    "normalized_title": "box em acrilico para elite trainer box etb pokemon us 19 5x9 5x17 5cm ppkb etb us open",
-    "published_at": "2026-09-28T22:33:38.592094+00:00",
-    "price": 89.5,
-    "discount_rate": 0,
-    "keyword": "Pokemon Elite Trainer Box",
-    "offer_link": "https://s.shopee.com.br/1Ak2Ph3i6"
-  },
-  {
     "item_id": 45055621702,
     "shop_id": 223145265,
     "title": "Kit de Cartas Pokémon TCG Originais com BRILHANTES COPAG Foil, Reverse Foil, Holografica, Brilhante",
@@ -185,5 +174,16 @@
     "discount_rate": 64,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/qjvXcV3av"
+  },
+  {
+    "item_id": 22299486739,
+    "shop_id": 332601056,
+    "title": "Sleeve Central Shield Matte Standard 100 un - Magic Pokémon Photocard Kpop TCG - Protetor de Cartas",
+    "normalized_title": "sleeve central shield matte standard 100 un magic pokemon photocard kpop tcg protetor de cartas",
+    "published_at": "2026-10-02T00:26:34.771514+00:00",
+    "price": 17.43,
+    "discount_rate": 47,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/113LjvUQFy"
   }
 ]
