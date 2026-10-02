@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 45055621702,
-    "shop_id": 223145265,
-    "title": "Kit de Cartas Pokémon TCG Originais com BRILHANTES COPAG Foil, Reverse Foil, Holografica, Brilhante",
-    "normalized_title": "kit de cartas pokemon tcg originais com brilhantes copag foil reverse foil holografica brilhante",
-    "published_at": "2026-09-29T02:16:18.859600+00:00",
-    "price": 17.9,
-    "discount_rate": 50,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/7ptanJMNn8"
-  },
-  {
     "item_id": 58212779395,
     "shop_id": 1648678573,
     "title": "Pokémon ETB Chaos Rising Elite Trainer Box Inglês - Mega Evolution TCG",
@@ -185,5 +174,16 @@
     "discount_rate": 47,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/113LjvUQFy"
+  },
+  {
+    "item_id": 58202822330,
+    "shop_id": 1651121464,
+    "title": "Álbum Pokémon TCG Porta Cartas para Colecionadores – 240 ou 400 Cartas, Várias Opções",
+    "normalized_title": "album pokemon tcg porta cartas para colecionadores 240 ou 400 cartas varias opcoes",
+    "published_at": "2026-10-02T06:07:48.173640+00:00",
+    "price": 35.9,
+    "discount_rate": 40,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/5AsvgkZktT"
   }
 ]
