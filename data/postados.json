@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 23995141735,
-    "shop_id": 1758140429,
-    "title": "Álbum Porta Cartas Pokémon 400 Espaços Couro PU Impermeável Com Zíper Alça Organizador De Cards TCG",
-    "normalized_title": "album porta cartas pokemon 400 espacos couro pu impermeavel com ziper alca organizador de cards tcg",
-    "published_at": "2026-09-30T09:39:27.785938+00:00",
-    "price": 49.97,
-    "discount_rate": 28,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/AUuNGR4rrN"
-  },
-  {
     "item_id": 58254431532,
     "shop_id": 1549181086,
     "title": "Sleeve Central Shields Básico 63mm x 88mm 100 Protetor de Carta Transparente Tamanho Padrão Pokemon Magic TCG",
@@ -361,5 +350,16 @@
     "discount_rate": 50,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/3Vkhhgg6Gz"
+  },
+  {
+    "item_id": 23995141735,
+    "shop_id": 1758140429,
+    "title": "Álbum Porta Cartas Pokémon 400 Espaços Couro PU Impermeável Com Zíper Alça Organizador De Cards TCG",
+    "normalized_title": "album porta cartas pokemon 400 espacos couro pu impermeavel com ziper alca organizador de cards tcg",
+    "published_at": "2026-10-03T10:01:40.532448+00:00",
+    "price": 49.97,
+    "discount_rate": 28,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/3LRHVNgjbw"
   }
 ]
