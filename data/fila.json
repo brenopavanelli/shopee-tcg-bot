@@ -1,1 +1,93 @@
-[]
+[
+  {
+    "offer": {
+      "item_id": 19278035622,
+      "shop_id": 565538714,
+      "title": "50 Cartas Pokémon + 10 Brilhantes - Pokémon TCG COPAG ORIGINAIS SEM REPETIÇÃO",
+      "price": 34.9,
+      "rating": 4.9,
+      "sales": 121,
+      "shop_type": [],
+      "image_url": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfvas8klhjwl93",
+      "product_link": "https://shopee.com.br/product/565538714/19278035622",
+      "offer_link": "https://s.shopee.com.br/4B0QoQiLLY",
+      "discount_rate": 30
+    },
+    "keyword": "Pokemon TCG",
+    "queued_at": "2026-10-03T11:45:46.123690+00:00"
+  },
+  {
+    "offer": {
+      "item_id": 23798217575,
+      "shop_id": 256080800,
+      "title": "Sleeve Central Shield 63 x 88mm Padrão Básico Protetor de Cartas Transparente Pokémon Magic TCG - ED",
+      "price": 17.89,
+      "rating": 5.0,
+      "sales": 92,
+      "shop_type": [
+        2
+      ],
+      "image_url": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbrdenpcygd532",
+      "product_link": "https://shopee.com.br/product/256080800/23798217575",
+      "offer_link": "https://s.shopee.com.br/40h0c7iygX",
+      "discount_rate": 16
+    },
+    "keyword": "Pokemon TCG",
+    "queued_at": "2026-10-03T11:45:46.123790+00:00"
+  },
+  {
+    "offer": {
+      "item_id": 55911200949,
+      "shop_id": 353929526,
+      "title": "Porta Deck Pokémon TCG Game Boy Personalizável | 60 Cartas Sleeves",
+      "price": 27.9,
+      "rating": 4.7,
+      "sales": 50,
+      "shop_type": [
+        2
+      ],
+      "image_url": "https://cf.shopee.com.br/file/br-11134207-820mc-mrhfrk72mux0ec",
+      "product_link": "https://shopee.com.br/product/353929526/55911200949",
+      "offer_link": "https://s.shopee.com.br/4LJr0jhi0d",
+      "discount_rate": 44
+    },
+    "keyword": "Pokemon TCG",
+    "queued_at": "2026-10-03T11:45:46.123867+00:00"
+  },
+  {
+    "offer": {
+      "item_id": 23905818011,
+      "shop_id": 445721324,
+      "title": "Pokémon TCG Blister Triplo Com Promo Cartas Mega Evolução Pacotes Quad Pack Triplo Pack Oficial",
+      "price": 79.9,
+      "rating": 4.9,
+      "sales": 89,
+      "shop_type": [
+        2
+      ],
+      "image_url": "https://cf.shopee.com.br/file/br-11134207-81zu1-mksnypbxv4757c",
+      "product_link": "https://shopee.com.br/product/445721324/23905818011",
+      "offer_link": "https://s.shopee.com.br/qjyqIv26y",
+      "discount_rate": 0
+    },
+    "keyword": "Pokemon TCG",
+    "queued_at": "2026-10-03T11:45:46.123906+00:00"
+  },
+  {
+    "offer": {
+      "item_id": 58267787476,
+      "shop_id": 1679540190,
+      "title": "Fichário Álbum Pokémon Tcg 900 Cartas Zíper Chega Hoje Rápido",
+      "price": 159.99,
+      "rating": 5.0,
+      "sales": 25,
+      "shop_type": [],
+      "image_url": "https://cf.shopee.com.br/file/sg-11134201-825a7-mswehcgvv9c163",
+      "product_link": "https://shopee.com.br/product/1679540190/58267787476",
+      "offer_link": "https://s.shopee.com.br/gQYdzvfRx",
+      "discount_rate": 46
+    },
+    "keyword": "Pokemon TCG",
+    "queued_at": "2026-10-03T11:45:46.123936+00:00"
+  }
+]
