@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58210763106,
-    "shop_id": 464326997,
-    "title": "BOX COLEÇÃO TREINADOR AVANÇADO ETB MEGA GRENINJA EX CAOS ASCENDENTE ME04 POKÉMON TCG BOOSTERS CARTAS",
-    "normalized_title": "box colecao treinador avancado etb mega greninja ex caos ascendente me04 pokemon tcg boosters cartas",
-    "published_at": "2026-10-01T10:05:16.186310+00:00",
-    "price": 361.99,
-    "discount_rate": 55,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/8AWWH5ybSJ"
-  },
-  {
     "item_id": 23699466714,
     "shop_id": 464326997,
     "title": "BOX POKÉMON COLEÇÃO MEGA LUAR GENGAR CLEFABLE EX COPAG CAOS ASCENDENTE EVOLUÇÃO TCG CARTAS BOOSTERS",
@@ -438,5 +427,16 @@
     "discount_rate": 50,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/4LJohDcvaE"
+  },
+  {
+    "item_id": 58210763106,
+    "shop_id": 464326997,
+    "title": "BOX COLEÇÃO TREINADOR AVANÇADO ETB MEGA GRENINJA EX CAOS ASCENDENTE ME04 POKÉMON TCG BOOSTERS CARTAS",
+    "normalized_title": "box colecao treinador avancado etb mega greninja ex caos ascendente me04 pokemon tcg boosters cartas",
+    "published_at": "2026-10-04T10:15:50.804756+00:00",
+    "price": 361.99,
+    "discount_rate": 55,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/AAHfSAZnFK"
   }
 ]
