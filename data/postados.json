@@ -1,49 +1,5 @@
 [
   {
-    "item_id": 58265791151,
-    "shop_id": 1549181086,
-    "title": "Pasta Álbum Para Cartas Pokemon | Magic | TCG - Com 360 Slots - Capa Dura Com Ziper Legionários  - Fichário Porta Cards",
-    "normalized_title": "pasta album para cartas pokemon magic tcg com 360 slots capa dura com ziper legionarios fichario porta cards",
-    "published_at": "2026-10-02T14:45:49.789322+00:00",
-    "price": 237.99,
-    "discount_rate": 18,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/113Mj5pcLm"
-  },
-  {
-    "item_id": 22099407991,
-    "shop_id": 502301086,
-    "title": "Box Em Acrílico Para Elite Trainer Box ETB Pokémon US (19,5x9,5x17,5cm) - PPKB-ETB-US-OPEN",
-    "normalized_title": "box em acrilico para elite trainer box etb pokemon us 19 5x9 5x17 5cm ppkb etb us open",
-    "published_at": "2026-10-02T15:01:34.833021+00:00",
-    "price": 89.5,
-    "discount_rate": 0,
-    "keyword": "Pokemon Elite Trainer Box",
-    "offer_link": "https://s.shopee.com.br/1qcSkL0hbn"
-  },
-  {
-    "item_id": 53664025919,
-    "shop_id": 464326997,
-    "title": "BOX COLEÇÃO TREINADOR AVANÇADO MEGA DARKRAI ESCURIDÃO ABSOLUTA ETB ME05 POKÉMON TCG BOOSTER CARTA EX",
-    "normalized_title": "box colecao treinador avancado mega darkrai escuridao absoluta etb me05 pokemon tcg booster carta ex",
-    "published_at": "2026-10-02T15:15:56.304340+00:00",
-    "price": 387.99,
-    "discount_rate": 52,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/1BMnVbJs1J"
-  },
-  {
-    "item_id": 23095035076,
-    "shop_id": 450761307,
-    "title": "Pokémon Booster Box Caixa Lacrada Escuridão Absoluta Copag",
-    "normalized_title": "pokemon booster box caixa lacrada escuridao absoluta copag",
-    "published_at": "2026-10-02T15:31:09.870582+00:00",
-    "price": 399.9,
-    "discount_rate": 0,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/qjx6zL8hH"
-  },
-  {
     "item_id": 45563969587,
     "shop_id": 464326997,
     "title": "BOOSTER BOX MEGAEVOLUÇÃO ESCURIDÃO ABSOLUTA ME05 COPAG POKÉMON TCG CARTAS DISPLAY MEGA DARKRAI EX",
@@ -438,5 +394,16 @@
     "discount_rate": 22,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/9pep4bswMB"
+  },
+  {
+    "item_id": 23095035076,
+    "shop_id": 450761307,
+    "title": "Pokémon Booster Box Caixa Lacrada Escuridão Absoluta Copag",
+    "normalized_title": "pokemon booster box caixa lacrada escuridao absoluta copag",
+    "published_at": "2026-10-05T15:31:13.099046+00:00",
+    "price": 409.9,
+    "discount_rate": 0,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/9V1yewcKbG"
   }
 ]
