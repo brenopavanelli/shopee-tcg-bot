@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58264087090,
-    "shop_id": 486900728,
-    "title": "Booster Box Pokémon TCG Megaevolução - Caixa com 4 - ME01 - ME05",
-    "normalized_title": "booster box pokemon tcg megaevolucao caixa com 4 me01 me05",
-    "published_at": "2026-10-02T17:45:55.071286+00:00",
-    "price": 369.0,
-    "discount_rate": 26,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/1VzduDIbLb"
-  },
-  {
     "item_id": 58201418599,
     "shop_id": 1679540190,
     "title": "Álbum Pokémon TCG 240 Cartas – Pikachu Eevee Charizard – Pasta Premium Pronta Entrega Brasil",
@@ -394,5 +383,16 @@
     "discount_rate": 57,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/8Kq1Gngly9"
+  },
+  {
+    "item_id": 58208632798,
+    "shop_id": 1732438108,
+    "title": "Booster box Combo de booster Coleções Pokémon TCG cartras - Copag",
+    "normalized_title": "booster box combo de booster colecoes pokemon tcg cartras copag",
+    "published_at": "2026-10-05T18:01:27.697887+00:00",
+    "price": 234.99,
+    "discount_rate": 22,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/80DAsBi2e7"
   }
 ]
