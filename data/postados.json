@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58210763081,
-    "shop_id": 464326997,
-    "title": "BOX POKÉMON COLEÇÃO MEGA ZYGARDE EX COPAG MEGAEVOLUÇÃO EQUILÍBRIO PERFEITO TCG CARTAS BOOSTERS CARDS",
-    "normalized_title": "box pokemon colecao mega zygarde ex copag megaevolucao equilibrio perfeito tcg cartas boosters cards",
-    "published_at": "2026-10-02T16:31:14.420279+00:00",
-    "price": 159.99,
-    "discount_rate": 56,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/BUGJlNg3D"
-  },
-  {
     "item_id": 28635139159,
     "shop_id": 1495203153,
     "title": "[Pokémon] Cartão \" Super Electric Breaker \" sv8 Booster Box (30 Pacotes) Caixa Selada Versão Coreana",
@@ -394,5 +383,16 @@
     "discount_rate": 33,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/1gJ7LbO1vK"
+  },
+  {
+    "item_id": 47210827756,
+    "shop_id": 1557676975,
+    "title": "Álbum Pokémon TCG Porta Cartas Fichário Coleção Cards 6 Modelos",
+    "normalized_title": "album pokemon tcg porta cartas fichario colecao cards 6 modelos",
+    "published_at": "2026-10-05T16:31:14.497145+00:00",
+    "price": 49.98,
+    "discount_rate": 65,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/8pmHslwkO1"
   }
 ]
