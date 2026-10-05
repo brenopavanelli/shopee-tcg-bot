@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 28635139159,
-    "shop_id": 1495203153,
-    "title": "[Pokémon] Cartão \" Super Electric Breaker \" sv8 Booster Box (30 Pacotes) Caixa Selada Versão Coreana",
-    "normalized_title": "pokemon cartao super electric breaker sv8 booster box 30 pacotes caixa selada versao coreana",
-    "published_at": "2026-10-02T16:45:53.252125+00:00",
-    "price": 268.0,
-    "discount_rate": 37,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/LngW4N2iC"
-  },
-  {
     "item_id": 58217678437,
     "shop_id": 1776253370,
     "title": "Kit 3 Box Pokémon Coleção Mega Forças Zeraora Dragonite e Darkrai Ex Copag Escuridão e Mega Evolução TCG 8 Boosters",
@@ -394,5 +383,16 @@
     "discount_rate": 65,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/8pmHslwkO1"
+  },
+  {
+    "item_id": 58210763081,
+    "shop_id": 464326997,
+    "title": "BOX POKÉMON COLEÇÃO MEGA ZYGARDE EX COPAG MEGAEVOLUÇÃO EQUILÍBRIO PERFEITO TCG CARTAS BOOSTERS CARDS",
+    "normalized_title": "box pokemon colecao mega zygarde ex copag megaevolucao equilibrio perfeito tcg cartas boosters cards",
+    "published_at": "2026-10-05T16:45:54.404973+00:00",
+    "price": 169.99,
+    "discount_rate": 53,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/9fLOrFbhGH"
   }
 ]
