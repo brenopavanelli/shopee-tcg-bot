@@ -1,27 +1,5 @@
 [
   {
-    "item_id": 58258990463,
-    "shop_id": 479251059,
-    "title": "Protetor de Cartas Sleeve Central Shield 63 x 88mm Padrão Básico Transparente Pokémon Magic TCG",
-    "normalized_title": "protetor de cartas sleeve central shield 63 x 88mm padrao basico transparente pokemon magic tcg",
-    "published_at": "2026-10-02T16:01:35.424839+00:00",
-    "price": 16.94,
-    "discount_rate": 33,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/1AoY5YEHg"
-  },
-  {
-    "item_id": 47210827756,
-    "shop_id": 1557676975,
-    "title": "Álbum Pokémon TCG Porta Cartas Fichário Coleção Cards 6 Modelos",
-    "normalized_title": "album pokemon tcg porta cartas fichario colecao cards 6 modelos",
-    "published_at": "2026-10-02T16:15:51.341140+00:00",
-    "price": 49.98,
-    "discount_rate": 65,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/60S3gTS3pr"
-  },
-  {
     "item_id": 58210763081,
     "shop_id": 464326997,
     "title": "BOX POKÉMON COLEÇÃO MEGA ZYGARDE EX COPAG MEGAEVOLUÇÃO EQUILÍBRIO PERFEITO TCG CARTAS BOOSTERS CARDS",
@@ -405,5 +383,16 @@
     "discount_rate": 60,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/8pmHrierxC"
+  },
+  {
+    "item_id": 58258990463,
+    "shop_id": 479251059,
+    "title": "Protetor de Cartas Sleeve Central Shield 63 x 88mm Padrão Básico Transparente Pokémon Magic TCG",
+    "normalized_title": "protetor de cartas sleeve central shield 63 x 88mm padrao basico transparente pokemon magic tcg",
+    "published_at": "2026-10-05T16:15:53.710036+00:00",
+    "price": 16.94,
+    "discount_rate": 33,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/1gJ7LbO1vK"
   }
 ]
