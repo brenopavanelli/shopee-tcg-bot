@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "offer": {
+      "item_id": 40880601200,
+      "shop_id": 1651121464,
+      "title": "Álbum de Cartas TCG – Para Pokémon, Magic e Outros Jogos, Protege e Organiza, 240/540 Cartas",
+      "price": 35.9,
+      "rating": 4.7,
+      "sales": 279,
+      "shop_type": [],
+      "image_url": "https://cf.shopee.com.br/file/br-11134207-820mf-mnvhjxbmaa6a04",
+      "product_link": "https://shopee.com.br/product/1651121464/40880601200",
+      "offer_link": "https://s.shopee.com.br/9fLOsItZh8",
+      "discount_rate": 28
+    },
+    "keyword": "Pokemon TCG",
+    "queued_at": "2026-10-05T14:01:43.483439+00:00"
+  }
+]
