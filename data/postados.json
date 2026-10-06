@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 23995141735,
-    "shop_id": 1758140429,
-    "title": "Álbum Porta Cartas Pokémon 400 Espaços Couro PU Impermeável Com Zíper Alça Organizador De Cards TCG",
-    "normalized_title": "album porta cartas pokemon 400 espacos couro pu impermeavel com ziper alca organizador de cards tcg",
-    "published_at": "2026-10-03T10:01:40.532448+00:00",
-    "price": 49.97,
-    "discount_rate": 28,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/3LRHVNgjbw"
-  },
-  {
     "item_id": 58215847596,
     "shop_id": 1809886276,
     "title": "Booster Pokémon TCG Variados Pacotinho 8 Cartas genericas Coleção",
@@ -405,5 +394,16 @@
     "discount_rate": 50,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/gQa9lRpxA"
+  },
+  {
+    "item_id": 23995141735,
+    "shop_id": 1758140429,
+    "title": "Álbum Porta Cartas Pokémon 400 Espaços Couro PU Impermeável Com Zíper Alça Organizador De Cards TCG",
+    "normalized_title": "album porta cartas pokemon 400 espacos couro pu impermeavel com ziper alca organizador de cards tcg",
+    "published_at": "2026-10-06T10:16:34.176893+00:00",
+    "price": 57.99,
+    "discount_rate": 16,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/1qcXXuNOaN"
   }
 ]
