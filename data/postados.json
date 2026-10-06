@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 28743217032,
-    "shop_id": 445721324,
-    "title": "Blister Unitário Pokémon Pacote Individual Cartas Oficiais TCG Coleções Megaevolução Copag",
-    "normalized_title": "blister unitario pokemon pacote individual cartas oficiais tcg colecoes megaevolucao copag",
-    "published_at": "2026-10-03T20:31:14.328619+00:00",
-    "price": 15.9,
-    "discount_rate": 36,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/3qNY6Iepb5"
-  },
-  {
     "item_id": 21898020732,
     "shop_id": 1456485786,
     "title": "Deck Box Pokémon TCG  Estilo Game Boy Personalizável  para 60 cartas com Sleeves",
@@ -328,5 +317,16 @@
     "discount_rate": 58,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/qk0M4RCcD"
+  },
+  {
+    "item_id": 28743217032,
+    "shop_id": 445721324,
+    "title": "Blister Unitário Pokémon Pacote Individual Cartas Oficiais TCG Coleções Megaevolução Copag",
+    "normalized_title": "blister unitario pokemon pacote individual cartas oficiais tcg colecoes megaevolucao copag",
+    "published_at": "2026-10-06T21:01:43.252607+00:00",
+    "price": 21.9,
+    "discount_rate": 0,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/113QYNQZHG"
   }
 ]
