@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 23095035076,
-    "shop_id": 450761307,
-    "title": "Pokémon Booster Box Caixa Lacrada Escuridão Absoluta Copag",
-    "normalized_title": "pokemon booster box caixa lacrada escuridao absoluta copag",
-    "published_at": "2026-10-05T15:31:13.099046+00:00",
-    "price": 409.9,
-    "discount_rate": 0,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/9V1yewcKbG"
-  },
-  {
     "item_id": 45563969587,
     "shop_id": 464326997,
     "title": "BOOSTER BOX MEGAEVOLUÇÃO ESCURIDÃO ABSOLUTA ME05 COPAG POKÉMON TCG CARTAS DISPLAY MEGA DARKRAI EX",
@@ -317,5 +306,16 @@
     "discount_rate": 22,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/1BMwdMvIGA"
+  },
+  {
+    "item_id": 23095035076,
+    "shop_id": 450761307,
+    "title": "Pokémon Booster Box Caixa Lacrada Escuridão Absoluta Copag",
+    "normalized_title": "pokemon booster box caixa lacrada escuridao absoluta copag",
+    "published_at": "2026-10-08T15:31:18.696333+00:00",
+    "price": 409.9,
+    "discount_rate": 0,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/113WS2tHma"
   }
 ]
