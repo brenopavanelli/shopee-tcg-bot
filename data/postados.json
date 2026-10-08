@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 47210827756,
-    "shop_id": 1557676975,
-    "title": "Álbum Pokémon TCG Porta Cartas Fichário Coleção Cards 6 Modelos",
-    "normalized_title": "album pokemon tcg porta cartas fichario colecao cards 6 modelos",
-    "published_at": "2026-10-05T16:31:14.497145+00:00",
-    "price": 49.98,
-    "discount_rate": 65,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/8pmHslwkO1"
-  },
-  {
     "item_id": 58210763081,
     "shop_id": 464326997,
     "title": "BOX POKÉMON COLEÇÃO MEGA ZYGARDE EX COPAG MEGAEVOLUÇÃO EQUILÍBRIO PERFEITO TCG CARTAS BOOSTERS CARDS",
@@ -317,5 +306,16 @@
     "discount_rate": 33,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/8fSxZ9Sk2L"
+  },
+  {
+    "item_id": 58254862841,
+    "shop_id": 1720086046,
+    "title": "Álbum para Cards Pokémon TCG 240 Cartas Coleção Segura com Capas Sortidas",
+    "normalized_title": "album para cards pokemon tcg 240 cartas colecao segura com capas sortidas",
+    "published_at": "2026-10-08T16:31:16.612617+00:00",
+    "price": 34.99,
+    "discount_rate": 56,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/50Zg61Hzmp"
   }
 ]
