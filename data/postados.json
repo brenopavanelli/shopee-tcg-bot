@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 22094058133,
-    "shop_id": 1455674925,
-    "title": "Porta Cartas Caixa Deck Box para Pokémon TCG - Vários personagens (200 cartas)",
-    "normalized_title": "porta cartas caixa deck box para pokemon tcg varios personagens 200 cartas",
-    "published_at": "2026-10-05T14:31:11.806796+00:00",
-    "price": 35.5,
-    "discount_rate": 22,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/9pep4bswMB"
-  },
-  {
     "item_id": 23095035076,
     "shop_id": 450761307,
     "title": "Pokémon Booster Box Caixa Lacrada Escuridão Absoluta Copag",
@@ -317,5 +306,16 @@
     "discount_rate": 40,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/1gJDEHtOFD"
+  },
+  {
+    "item_id": 22094058133,
+    "shop_id": 1455674925,
+    "title": "Porta Cartas Caixa Deck Box para Pokémon TCG - Vários personagens (200 cartas)",
+    "normalized_title": "porta cartas caixa deck box para pokemon tcg varios personagens 200 cartas",
+    "published_at": "2026-10-08T14:31:29.050721+00:00",
+    "price": 35.5,
+    "discount_rate": 22,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/1BMwdMvIGA"
   }
 ]
