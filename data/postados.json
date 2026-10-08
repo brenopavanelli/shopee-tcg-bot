@@ -1,27 +1,5 @@
 [
   {
-    "item_id": 58217678437,
-    "shop_id": 1776253370,
-    "title": "Kit 3 Box Pokémon Coleção Mega Forças Zeraora Dragonite e Darkrai Ex Copag Escuridão e Mega Evolução TCG 8 Boosters",
-    "normalized_title": "kit 3 box pokemon colecao mega forcas zeraora dragonite e darkrai ex copag escuridao e mega evolucao tcg 8 boosters",
-    "published_at": "2026-10-05T17:31:19.055611+00:00",
-    "price": 199.9,
-    "discount_rate": 0,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/W7AacbPwX"
-  },
-  {
-    "item_id": 58212745907,
-    "shop_id": 464326997,
-    "title": "BOX POKÉMON COLEÇÃO ILUSTRAÇÃO PARCEIRO INICIAL SÉRIE 2 COPAG MEGA EVOLUÇÃO CARTAS BOOSTERS 30 ANOS",
-    "normalized_title": "box pokemon colecao ilustracao parceiro inicial serie 2 copag mega evolucao cartas boosters 30 anos",
-    "published_at": "2026-10-05T17:45:53.402475+00:00",
-    "price": 199.99,
-    "discount_rate": 57,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/8Kq1Gngly9"
-  },
-  {
     "item_id": 58208632798,
     "shop_id": 1732438108,
     "title": "Booster box Combo de booster Coleções Pokémon TCG cartras - Copag",
@@ -328,5 +306,16 @@
     "discount_rate": 37,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/W7Fr7vBnZ"
+  },
+  {
+    "item_id": 58212745907,
+    "shop_id": 464326997,
+    "title": "BOX POKÉMON COLEÇÃO ILUSTRAÇÃO PARCEIRO INICIAL SÉRIE 2 COPAG MEGA EVOLUÇÃO CARTAS BOOSTERS 30 ANOS",
+    "normalized_title": "box pokemon colecao ilustracao parceiro inicial serie 2 copag mega evolucao cartas boosters 30 anos",
+    "published_at": "2026-10-08T17:46:03.094072+00:00",
+    "price": 179.99,
+    "discount_rate": 62,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/Lnpeovp8W"
   }
 ]
