@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58254431532,
-    "shop_id": 1549181086,
-    "title": "Sleeve Central Shields Básico 63mm x 88mm 100 Protetor de Carta Transparente Tamanho Padrão Pokemon Magic TCG",
-    "normalized_title": "sleeve central shields basico 63mm x 88mm 100 protetor de carta transparente tamanho padrao pokemon magic tcg",
-    "published_at": "2026-10-06T17:31:14.751097+00:00",
-    "price": 16.9,
-    "discount_rate": 58,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/qk0M4RCcD"
-  },
-  {
     "item_id": 28743217032,
     "shop_id": 445721324,
     "title": "Blister Unitário Pokémon Pacote Individual Cartas Oficiais TCG Coleções Megaevolução Copag",
@@ -339,5 +328,16 @@
     "discount_rate": 58,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/BURZO0wu7"
+  },
+  {
+    "item_id": 58254431532,
+    "shop_id": 1549181086,
+    "title": "Sleeve Central Shields Básico 63mm x 88mm 100 Protetor de Carta Transparente Tamanho Padrão Pokemon Magic TCG",
+    "normalized_title": "sleeve central shields basico 63mm x 88mm 100 protetor de carta transparente tamanho padrao pokemon magic tcg",
+    "published_at": "2026-10-09T17:31:19.543538+00:00",
+    "price": 16.9,
+    "discount_rate": 58,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/905nxlRTMR"
   }
 ]
