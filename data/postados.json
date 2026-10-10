@@ -1,27 +1,5 @@
 [
   {
-    "item_id": 46916682946,
-    "shop_id": 1630011990,
-    "title": "Pokémon Box Treinador Avançado Caos Ascendentes Copag Booster Box Treinador Avançado Português",
-    "normalized_title": "pokemon box treinador avancado caos ascendentes copag booster box treinador avancado portugues",
-    "published_at": "2026-10-07T08:15:52.436593+00:00",
-    "price": 499.99,
-    "discount_rate": 0,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/7faKTZjJK5"
-  },
-  {
-    "item_id": 58210763106,
-    "shop_id": 464326997,
-    "title": "BOX COLEÇÃO TREINADOR AVANÇADO ETB MEGA GRENINJA EX CAOS ASCENDENTE ME04 POKÉMON TCG BOOSTERS CARTAS",
-    "normalized_title": "box colecao treinador avancado etb mega greninja ex caos ascendente me04 pokemon tcg boosters cartas",
-    "published_at": "2026-10-07T10:15:55.661782+00:00",
-    "price": 361.99,
-    "discount_rate": 55,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/9fLTdvckOv"
-  },
-  {
     "item_id": 21699828567,
     "shop_id": 1082038328,
     "title": "Sleeve Pokémon Original Central Protetor de Cartas Shield TCG 63 x 88mm Padrão Transparente Magic",
@@ -361,5 +339,16 @@
     "discount_rate": 40,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/8V9XMqTNNO"
+  },
+  {
+    "item_id": 58210763106,
+    "shop_id": 464326997,
+    "title": "BOX COLEÇÃO TREINADOR AVANÇADO ETB MEGA GRENINJA EX CAOS ASCENDENTE ME04 POKÉMON TCG BOOSTERS CARTAS",
+    "normalized_title": "box colecao treinador avancado etb mega greninja ex caos ascendente me04 pokemon tcg boosters cartas",
+    "published_at": "2026-10-10T10:15:59.610470+00:00",
+    "price": 361.99,
+    "discount_rate": 55,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/4LJyQAgb1A"
   }
 ]
