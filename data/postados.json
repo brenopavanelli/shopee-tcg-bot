@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 22298099588,
-    "shop_id": 263468055,
-    "title": "Cartas Pokemon TCG Originais - Lotes com até 100 cartas sem repetidas - Cartas Brilhantes Garantidas",
-    "normalized_title": "cartas pokemon tcg originais lotes com ate 100 cartas sem repetidas cartas brilhantes garantidas",
-    "published_at": "2026-10-07T03:45:57.572830+00:00",
-    "price": 9.99,
-    "discount_rate": 50,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/1AtMXUNJ6"
-  },
-  {
     "item_id": 46916682946,
     "shop_id": 1630011990,
     "title": "Pokémon Box Treinador Avançado Caos Ascendentes Copag Booster Box Treinador Avançado Português",
@@ -361,5 +350,16 @@
     "discount_rate": 13,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/1qcdQaskuE"
+  },
+  {
+    "item_id": 22298099588,
+    "shop_id": 263468055,
+    "title": "Cartas Pokemon TCG Originais - Lotes com até 100 cartas sem repetidas - Cartas Brilhantes Garantidas",
+    "normalized_title": "cartas pokemon tcg originais lotes com ate 100 cartas sem repetidas cartas brilhantes garantidas",
+    "published_at": "2026-10-10T04:15:52.612126+00:00",
+    "price": 12.0,
+    "discount_rate": 40,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/8V9XMqTNNO"
   }
 ]
