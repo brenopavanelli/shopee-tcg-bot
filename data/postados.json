@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58264087090,
-    "shop_id": 486900728,
-    "title": "Booster Box Pokémon TCG Megaevolução - Caixa com 4 - ME01 - ME05",
-    "normalized_title": "booster box pokemon tcg megaevolucao caixa com 4 me01 me05",
-    "published_at": "2026-10-08T18:31:19.183843+00:00",
-    "price": 409.0,
-    "discount_rate": 9,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/qk6Fjtv7b"
-  },
-  {
     "item_id": 58208632798,
     "shop_id": 1732438108,
     "title": "Booster box Combo de booster Coleções Pokémon TCG cartras - Copag",
@@ -416,5 +405,16 @@
     "discount_rate": 53,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/8fT3LdCpcV"
+  },
+  {
+    "item_id": 58215696428,
+    "shop_id": 454657733,
+    "title": "Box Coleção Ilustração Parceiro Inicial Série 3 - Pokémon TCG",
+    "normalized_title": "box colecao ilustracao parceiro inicial serie 3 pokemon tcg",
+    "published_at": "2026-10-11T18:31:21.370288+00:00",
+    "price": 149.9,
+    "discount_rate": 0,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/70KpMZJB0D"
   }
 ]
