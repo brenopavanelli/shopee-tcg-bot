@@ -1,27 +1,5 @@
 [
   {
-    "item_id": 22094058133,
-    "shop_id": 1455674925,
-    "title": "Porta Cartas Caixa Deck Box para Pokémon TCG - Vários personagens (200 cartas)",
-    "normalized_title": "porta cartas caixa deck box para pokemon tcg varios personagens 200 cartas",
-    "published_at": "2026-10-08T14:31:29.050721+00:00",
-    "price": 35.5,
-    "discount_rate": 22,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/1BMwdMvIGA"
-  },
-  {
-    "item_id": 23095035076,
-    "shop_id": 450761307,
-    "title": "Pokémon Booster Box Caixa Lacrada Escuridão Absoluta Copag",
-    "normalized_title": "pokemon booster box caixa lacrada escuridao absoluta copag",
-    "published_at": "2026-10-08T15:31:18.696333+00:00",
-    "price": 409.9,
-    "discount_rate": 0,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/113WS2tHma"
-  },
-  {
     "item_id": 45563969587,
     "shop_id": 464326997,
     "title": "BOOSTER BOX MEGAEVOLUÇÃO ESCURIDÃO ABSOLUTA ME05 COPAG POKÉMON TCG CARTAS DISPLAY MEGA DARKRAI EX",
@@ -427,5 +405,16 @@
     "discount_rate": 50,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/4VdTOAaeKL"
+  },
+  {
+    "item_id": 40601233643,
+    "shop_id": 1495203153,
+    "title": "[Pokémon] Cartão Scarlet & Violet Heat Wave Arena Booster Box sv9a 1Box/Selado/Coreano",
+    "normalized_title": "pokemon cartao scarlet violet heat wave arena booster box sv9a 1box selado coreano",
+    "published_at": "2026-10-11T15:31:19.511271+00:00",
+    "price": 278.0,
+    "discount_rate": 61,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/8AWmaOQfbT"
   }
 ]
