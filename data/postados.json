@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58208632798,
-    "shop_id": 1732438108,
-    "title": "Booster box Combo de booster Coleções Pokémon TCG cartras - Copag",
-    "normalized_title": "booster box combo de booster colecoes pokemon tcg cartras copag",
-    "published_at": "2026-10-08T18:45:52.372966+00:00",
-    "price": 429.99,
-    "discount_rate": 14,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/2VsKEnnZk1"
-  },
-  {
     "item_id": 58201418599,
     "shop_id": 1679540190,
     "title": "Álbum Pokémon TCG 240 Cartas – Pikachu Eevee Charizard – Pasta Premium Pronta Entrega Brasil",
@@ -416,5 +405,16 @@
     "discount_rate": 0,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/70KpMZJB0D"
+  },
+  {
+    "item_id": 58215808712,
+    "shop_id": 1549181086,
+    "title": "Pasta Binder 360 Slots Álbum Para Cards TCG Pokémon Magic Yu-Gi-Oh / 360 Cards Porta Cartas com Elástico",
+    "normalized_title": "pasta binder 360 slots album para cards tcg pokemon magic yu gi oh 360 cards porta cartas com elastico",
+    "published_at": "2026-10-11T18:45:55.519955+00:00",
+    "price": 69.9,
+    "discount_rate": 30,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/6q1PAGJoLC"
   }
 ]
