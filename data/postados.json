@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58201418599,
-    "shop_id": 1679540190,
-    "title": "Álbum Pokémon TCG 240 Cartas – Pikachu Eevee Charizard – Pasta Premium Pronta Entrega Brasil",
-    "normalized_title": "album pokemon tcg 240 cartas pikachu eevee charizard pasta premium pronta entrega brasil",
-    "published_at": "2026-10-08T20:31:11.634904+00:00",
-    "price": 49.0,
-    "discount_rate": 0,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/2VsKDoqDYI"
-  },
-  {
     "item_id": 53666400287,
     "shop_id": 464326997,
     "title": "BOX POKÉMON COLEÇÃO MEGA FORÇAS ZERAORA DRAGONITE DARKRAI EX COPAG EVOLUÇÃO CARTAS BOOSTERS TCG CARD",
@@ -471,5 +460,16 @@
     "discount_rate": 14,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/9APIxjKZVn"
+  },
+  {
+    "item_id": 58259311650,
+    "shop_id": 1674805831,
+    "title": "Álbum Pokémon TCG 240 Cartas – Pikachu Eevee Charizard – Pasta Premium Pronta Entrega Brasil",
+    "normalized_title": "album pokemon tcg 240 cartas pikachu eevee charizard pasta premium pronta entrega brasil",
+    "published_at": "2026-10-11T20:45:52.853748+00:00",
+    "price": 32.9,
+    "discount_rate": 53,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/2gBpCnhd2s"
   }
 ]
