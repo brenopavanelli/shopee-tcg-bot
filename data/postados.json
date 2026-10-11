@@ -449,5 +449,16 @@
     "discount_rate": 31,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/8KqByCNkCY"
+  },
+  {
+    "item_id": 58264087090,
+    "shop_id": 486900728,
+    "title": "Booster Box Pokémon TCG Megaevolução - Caixa com 4 - ME01 - ME05",
+    "normalized_title": "booster box pokemon tcg megaevolucao caixa com 4 me01 me05",
+    "published_at": "2026-10-11T19:45:56.143501+00:00",
+    "price": 434.0,
+    "discount_rate": 4,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/8V9cAVN6rb"
   }
 ]
