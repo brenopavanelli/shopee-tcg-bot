@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 53666400287,
-    "shop_id": 464326997,
-    "title": "BOX POKÉMON COLEÇÃO MEGA FORÇAS ZERAORA DRAGONITE DARKRAI EX COPAG EVOLUÇÃO CARTAS BOOSTERS TCG CARD",
-    "normalized_title": "box pokemon colecao mega forcas zeraora dragonite darkrai ex copag evolucao cartas boosters tcg card",
-    "published_at": "2026-10-09T00:15:52.537885+00:00",
-    "price": 137.99,
-    "discount_rate": 54,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/4qGF15eh0F"
-  },
-  {
     "item_id": 58257797685,
     "shop_id": 464326997,
     "title": "BOX COLEÇÃO TREINADOR AVANÇADO ETB MEGA ZYGARDE EX EQUILÍBRIO PERFEITO ME3 POKÉMON TCG BOOSTER CARTA",
@@ -570,5 +559,16 @@
     "discount_rate": 56,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/8AWn1C6T1l"
+  },
+  {
+    "item_id": 53666400287,
+    "shop_id": 464326997,
+    "title": "BOX POKÉMON COLEÇÃO MEGA FORÇAS ZERAORA DRAGONITE DARKRAI EX COPAG EVOLUÇÃO CARTAS BOOSTERS TCG CARD",
+    "normalized_title": "box pokemon colecao mega forcas zeraora dragonite darkrai ex copag evolucao cartas boosters tcg card",
+    "published_at": "2026-10-12T00:45:55.208144+00:00",
+    "price": 137.99,
+    "discount_rate": 54,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/9V29MLJIpd"
   }
 ]
