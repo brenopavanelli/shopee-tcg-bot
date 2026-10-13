@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 22298099588,
-    "shop_id": 263468055,
-    "title": "Cartas Pokemon TCG Originais - Lotes com até 100 cartas sem repetidas - Cartas Brilhantes Garantidas",
-    "normalized_title": "cartas pokemon tcg originais lotes com ate 100 cartas sem repetidas cartas brilhantes garantidas",
-    "published_at": "2026-10-10T04:15:52.612126+00:00",
-    "price": 12.0,
-    "discount_rate": 40,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/8V9XMqTNNO"
-  },
-  {
     "item_id": 58210763106,
     "shop_id": 464326997,
     "title": "BOX COLEÇÃO TREINADOR AVANÇADO ETB MEGA GRENINJA EX CAOS ASCENDENTE ME04 POKÉMON TCG BOOSTERS CARTAS",
@@ -570,5 +559,16 @@
     "discount_rate": 13,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/40hCnFcYLG"
+  },
+  {
+    "item_id": 22298099588,
+    "shop_id": 263468055,
+    "title": "Cartas Pokemon TCG Originais - Lotes com até 100 cartas sem repetidas - Cartas Brilhantes Garantidas",
+    "normalized_title": "cartas pokemon tcg originais lotes com ate 100 cartas sem repetidas cartas brilhantes garantidas",
+    "published_at": "2026-10-13T04:15:59.217204+00:00",
+    "price": 9.99,
+    "discount_rate": 50,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/3g4MOddp0y"
   }
 ]
