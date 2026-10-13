@@ -1,82 +1,5 @@
 [
   {
-    "item_id": 21699828567,
-    "shop_id": 1082038328,
-    "title": "Sleeve Pokémon Original Central Protetor de Cartas Shield TCG 63 x 88mm Padrão Transparente Magic",
-    "normalized_title": "sleeve pokemon original central protetor de cartas shield tcg 63 x 88mm padrao transparente magic",
-    "published_at": "2026-10-10T11:31:15.935482+00:00",
-    "price": 19.79,
-    "discount_rate": 33,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/9peyi51gVP"
-  },
-  {
-    "item_id": 58267861838,
-    "shop_id": 1903569870,
-    "title": "BoraMix  Álbum Pokémon TCG Porta Cartas para Colecionadores–400 Cartas, Várias Opções",
-    "normalized_title": "boramix album pokemon tcg porta cartas para colecionadores 400 cartas varias opcoes",
-    "published_at": "2026-10-10T11:46:01.513996+00:00",
-    "price": 58.0,
-    "discount_rate": 42,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/9zyOuO13AS"
-  },
-  {
-    "item_id": 23499172051,
-    "shop_id": 958172560,
-    "title": "Kit 55 Cartas Pokémon Charizard – Cards Ouro Prata Preto TCG Cartinhas Coleção",
-    "normalized_title": "kit 55 cartas pokemon charizard cards ouro prata preto tcg cartinhas colecao",
-    "published_at": "2026-10-10T12:01:32.477053+00:00",
-    "price": 29.99,
-    "discount_rate": 0,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/AAHp6h0PpV"
-  },
-  {
-    "item_id": 58265791151,
-    "shop_id": 1549181086,
-    "title": "Pasta Álbum Para Cartas Pokemon | Magic | TCG - Com 360 Slots - Capa Dura Com Ziper Legionários  - Fichário Porta Cards",
-    "normalized_title": "pasta album para cartas pokemon magic tcg com 360 slots capa dura com ziper legionarios fichario porta cards",
-    "published_at": "2026-10-10T12:15:54.844922+00:00",
-    "price": 169.99,
-    "discount_rate": 41,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/AKbFIzzmUY"
-  },
-  {
-    "item_id": 58267082891,
-    "shop_id": 1209756667,
-    "title": "Porta Cartas Pokemon Magic TCG Caixa Organizadora MDF 8 Divisórias para Cards e Colecionáveis",
-    "normalized_title": "porta cartas pokemon magic tcg caixa organizadora mdf 8 divisorias para cards e colecionaveis",
-    "published_at": "2026-10-10T12:31:22.961092+00:00",
-    "price": 28.9,
-    "discount_rate": 28,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/AUufVIz99b"
-  },
-  {
-    "item_id": 55911200949,
-    "shop_id": 353929526,
-    "title": "Porta Deck Pokémon TCG Game Boy Personalizável | 60 Cartas Sleeves",
-    "normalized_title": "porta deck pokemon tcg game boy personalizavel 60 cartas sleeves",
-    "published_at": "2026-10-10T12:45:53.899040+00:00",
-    "price": 27.9,
-    "discount_rate": 44,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/5LCZLoIodc"
-  },
-  {
-    "item_id": 46916682946,
-    "shop_id": 1630011990,
-    "title": "Pokémon Box Treinador Avançado Caos Ascendentes Copag Booster Box Treinador Avançado Português",
-    "normalized_title": "pokemon box treinador avancado caos ascendentes copag booster box treinador avancado portugues",
-    "published_at": "2026-10-10T21:01:36.793515+00:00",
-    "price": 499.99,
-    "discount_rate": 0,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/9pezLFSVQy"
-  },
-  {
     "item_id": 58267314384,
     "shop_id": 1643050727,
     "title": "Protetor de Cartas Sleeve Shield Central - Pokémon Magic Photocard TCG - Transparente 63mm x 88mm",
@@ -570,5 +493,16 @@
     "discount_rate": 51,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/6L58ppDRkE"
+  },
+  {
+    "item_id": 49168662818,
+    "shop_id": 464326997,
+    "title": "BOX COM FICHÁRIO PORTUGUÊS COLEÇÃO CELEBRAÇÃO 30 ANOS POKÉMON TCG BOOSTER CARTA CARD PASTA PT-BR",
+    "normalized_title": "box com fichario portugues colecao celebracao 30 anos pokemon tcg booster carta card pasta pt br",
+    "published_at": "2026-10-13T22:31:17.518069+00:00",
+    "price": 329.99,
+    "discount_rate": 16,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/8pmX2F22XY"
   }
 ]
