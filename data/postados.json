@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 47210827756,
-    "shop_id": 1557676975,
-    "title": "Álbum Pokémon TCG Porta Cartas Fichário Coleção Cards 6 Modelos",
-    "normalized_title": "album pokemon tcg porta cartas fichario colecao cards 6 modelos",
-    "published_at": "2026-10-11T17:15:57.644569+00:00",
-    "price": 49.98,
-    "discount_rate": 65,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/4LK3BrbHfI"
-  },
-  {
     "item_id": 23295179408,
     "shop_id": 1186084572,
     "title": "Caixa Estojo para Cartas Pokémon | Deck box Pokemon TCG | Card Gaming Pokemon",
@@ -493,5 +482,16 @@
     "discount_rate": 25,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/AAHvmpP3l3"
+  },
+  {
+    "item_id": 23598541177,
+    "shop_id": 1151997948,
+    "title": "Caixa para Cartas Pokémon Deck BOX Cards Case Game Boy 100 Cartas Pokemon TCG",
+    "normalized_title": "caixa para cartas pokemon deck box cards case game boy 100 cartas pokemon tcg",
+    "published_at": "2026-10-14T17:16:00.157693+00:00",
+    "price": 29.99,
+    "discount_rate": 57,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/9KionISERw"
   }
 ]
