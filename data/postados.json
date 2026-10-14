@@ -493,5 +493,16 @@
     "discount_rate": 57,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/9KionISERw"
+  },
+  {
+    "item_id": 23299433836,
+    "shop_id": 454657733,
+    "title": "Desafio Estratégico Amigos de Jornada EV9 - Pokémon TCG",
+    "normalized_title": "desafio estrategico amigos de jornada ev9 pokemon tcg",
+    "published_at": "2026-10-14T17:31:20.567699+00:00",
+    "price": 199.9,
+    "discount_rate": 0,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/9V2EzbRb6z"
   }
 ]
