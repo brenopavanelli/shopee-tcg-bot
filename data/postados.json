@@ -1,38 +1,5 @@
 [
   {
-    "item_id": 40601233643,
-    "shop_id": 1495203153,
-    "title": "[Pokémon] Cartão Scarlet & Violet Heat Wave Arena Booster Box sv9a 1Box/Selado/Coreano",
-    "normalized_title": "pokemon cartao scarlet violet heat wave arena booster box sv9a 1box selado coreano",
-    "published_at": "2026-10-11T15:31:19.511271+00:00",
-    "price": 278.0,
-    "discount_rate": 61,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/8AWmaOQfbT"
-  },
-  {
-    "item_id": 40055086572,
-    "shop_id": 1495203153,
-    "title": "[Pokémon] Cartão Scarlet & Violet-The Glory of Team Rocket booster 2025 Novo !/Caixa Selada/Versão Coreana .",
-    "normalized_title": "pokemon cartao scarlet violet the glory of team rocket booster 2025 novo caixa selada versao coreana",
-    "published_at": "2026-10-11T15:45:57.380756+00:00",
-    "price": 325.0,
-    "discount_rate": 42,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/AKbHANIQCu"
-  },
-  {
-    "item_id": 23095035076,
-    "shop_id": 450761307,
-    "title": "Pokémon Booster Box Caixa Lacrada Escuridão Absoluta Copag",
-    "normalized_title": "pokemon booster box caixa lacrada escuridao absoluta copag",
-    "published_at": "2026-10-11T16:01:35.398210+00:00",
-    "price": 409.9,
-    "discount_rate": 0,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/AKbGLsG88s"
-  },
-  {
     "item_id": 58258990463,
     "shop_id": 479251059,
     "title": "Protetor de Cartas Sleeve Central Shield 63 x 88mm Padrão Básico Transparente Pokémon Magic TCG",
@@ -504,5 +471,16 @@
     "discount_rate": 50,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/1gJMpfb7Lr"
+  },
+  {
+    "item_id": 58266878470,
+    "shop_id": 1764302341,
+    "title": "Booster Avulso Pokémon TCG Coreano Ninja Spinner / Electric Breaker. Original Lacrado",
+    "normalized_title": "booster avulso pokemon tcg coreano ninja spinner electric breaker original lacrado",
+    "published_at": "2026-10-14T16:01:43.881251+00:00",
+    "price": 27.9,
+    "discount_rate": 0,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/8fT804Ulnc"
   }
 ]
