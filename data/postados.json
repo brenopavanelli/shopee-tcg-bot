@@ -1,27 +1,5 @@
 [
   {
-    "item_id": 45563969587,
-    "shop_id": 464326997,
-    "title": "BOOSTER BOX MEGAEVOLUÇÃO ESCURIDÃO ABSOLUTA ME05 COPAG POKÉMON TCG CARTAS DISPLAY MEGA DARKRAI EX",
-    "normalized_title": "booster box megaevolucao escuridao absoluta me05 copag pokemon tcg cartas display mega darkrai ex",
-    "published_at": "2026-10-11T16:45:55.878645+00:00",
-    "price": 439.99,
-    "discount_rate": 58,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/9zyPxGHOom"
-  },
-  {
-    "item_id": 58254862841,
-    "shop_id": 1720086046,
-    "title": "Álbum para Cards Pokémon TCG 240 Cartas Coleção Segura com Capas Sortidas",
-    "normalized_title": "album para cards pokemon tcg 240 cartas colecao segura com capas sortidas",
-    "published_at": "2026-10-11T17:01:35.675111+00:00",
-    "price": 34.99,
-    "discount_rate": 56,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/4B0czYbv0J"
-  },
-  {
     "item_id": 47210827756,
     "shop_id": 1557676975,
     "title": "Álbum Pokémon TCG Porta Cartas Fichário Coleção Cards 6 Modelos",
@@ -504,5 +482,16 @@
     "discount_rate": 50,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/8KqHbSW2Te"
+  },
+  {
+    "item_id": 58250835038,
+    "shop_id": 1082038328,
+    "title": "Fichário Álbum TANDEMAUS e MAUSHOLD Grande Capa Dura para cartas Pokemon Pasta Cartas TCG",
+    "normalized_title": "fichario album tandemaus e maushold grande capa dura para cartas pokemon pasta cartas tcg",
+    "published_at": "2026-10-14T17:01:41.851164+00:00",
+    "price": 71.17,
+    "discount_rate": 25,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/AAHvmpP3l3"
   }
 ]
