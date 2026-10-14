@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58205056904,
-    "shop_id": 1679540190,
-    "title": "Álbum Pokémon TCG 240/400/540 Cartas Pikachu Eevee Charizard Pasta Premium Pronta Entrega Brasil",
-    "normalized_title": "album pokemon tcg 240 400 540 cartas pikachu eevee charizard pasta premium pronta entrega brasil",
-    "published_at": "2026-10-11T14:31:21.225313+00:00",
-    "price": 39.99,
-    "discount_rate": 50,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/4VdTOAaeKL"
-  },
-  {
     "item_id": 40601233643,
     "shop_id": 1495203153,
     "title": "[Pokémon] Cartão Scarlet & Violet Heat Wave Arena Booster Box sv9a 1Box/Selado/Coreano",
@@ -504,5 +493,16 @@
     "discount_rate": 45,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/1LgWR3cO1l"
+  },
+  {
+    "item_id": 58205056904,
+    "shop_id": 1679540190,
+    "title": "Álbum Pokémon TCG 240/400/540 Cartas Pikachu Eevee Charizard Pasta Premium Pronta Entrega Brasil",
+    "normalized_title": "album pokemon tcg 240 400 540 cartas pikachu eevee charizard pasta premium pronta entrega brasil",
+    "published_at": "2026-10-14T15:01:42.719800+00:00",
+    "price": 39.99,
+    "discount_rate": 50,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/1gJMpfb7Lr"
   }
 ]
