@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58259311650,
-    "shop_id": 1674805831,
-    "title": "Álbum Pokémon TCG 240 Cartas – Pikachu Eevee Charizard – Pasta Premium Pronta Entrega Brasil",
-    "normalized_title": "album pokemon tcg 240 cartas pikachu eevee charizard pasta premium pronta entrega brasil",
-    "published_at": "2026-10-11T20:45:52.853748+00:00",
-    "price": 32.9,
-    "discount_rate": 53,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/2gBpCnhd2s"
-  },
-  {
     "item_id": 23798217575,
     "shop_id": 256080800,
     "title": "Sleeve Central Shield 63 x 88mm Padrão Básico Protetor de Cartas Transparente Pokémon Magic TCG - ED",
@@ -482,5 +471,16 @@
     "discount_rate": 14,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/6q1SeZ9ebM"
+  },
+  {
+    "item_id": 58259311650,
+    "shop_id": 1674805831,
+    "title": "Álbum Pokémon TCG 240 Cartas – Pikachu Eevee Charizard – Pasta Premium Pronta Entrega Brasil",
+    "normalized_title": "album pokemon tcg 240 cartas pikachu eevee charizard pasta premium pronta entrega brasil",
+    "published_at": "2026-10-14T20:45:57.019522+00:00",
+    "price": 32.9,
+    "discount_rate": 53,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/W7PRWfYiU"
   }
 ]
