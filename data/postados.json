@@ -1,27 +1,5 @@
 [
   {
-    "item_id": 23295179408,
-    "shop_id": 1186084572,
-    "title": "Caixa Estojo para Cartas Pokémon | Deck box Pokemon TCG | Card Gaming Pokemon",
-    "normalized_title": "caixa estojo para cartas pokemon deck box pokemon tcg card gaming pokemon",
-    "published_at": "2026-10-11T18:01:35.387393+00:00",
-    "price": 23.99,
-    "discount_rate": 37,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/8pmTXwCCHW"
-  },
-  {
-    "item_id": 54462676693,
-    "shop_id": 1808245596,
-    "title": "100% Original Pokémon TCG Coleção  Caixa Surpresa 151 [151C] - Chinês (Simplificado) - 15 Pacotes",
-    "normalized_title": "100 original pokemon tcg colecao caixa surpresa 151 151c chines simplificado 15 pacotes",
-    "published_at": "2026-10-11T18:15:57.050172+00:00",
-    "price": 104.52,
-    "discount_rate": 53,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/8fT3LdCpcV"
-  },
-  {
     "item_id": 58215696428,
     "shop_id": 454657733,
     "title": "Box Coleção Ilustração Parceiro Inicial Série 3 - Pokémon TCG",
@@ -526,5 +504,16 @@
     "discount_rate": 58,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/9APNQr0lre"
+  },
+  {
+    "item_id": 58258990463,
+    "shop_id": 479251059,
+    "title": "Protetor de Cartas Sleeve Central Shield 63 x 88mm Padrão Básico Transparente Pokémon Magic TCG",
+    "normalized_title": "protetor de cartas sleeve central shield 63 x 88mm padrao basico transparente pokemon magic tcg",
+    "published_at": "2026-10-14T18:15:58.004134+00:00",
+    "price": 16.68,
+    "discount_rate": 33,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/9Kinxl7vn3"
   }
 ]
