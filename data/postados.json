@@ -1,71 +1,5 @@
 [
   {
-    "item_id": 58215696428,
-    "shop_id": 454657733,
-    "title": "Box Coleção Ilustração Parceiro Inicial Série 3 - Pokémon TCG",
-    "normalized_title": "box colecao ilustracao parceiro inicial serie 3 pokemon tcg",
-    "published_at": "2026-10-11T18:31:21.370288+00:00",
-    "price": 149.9,
-    "discount_rate": 0,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/70KpMZJB0D"
-  },
-  {
-    "item_id": 58215808712,
-    "shop_id": 1549181086,
-    "title": "Pasta Binder 360 Slots Álbum Para Cards TCG Pokémon Magic Yu-Gi-Oh / 360 Cards Porta Cartas com Elástico",
-    "normalized_title": "pasta binder 360 slots album para cards tcg pokemon magic yu gi oh 360 cards porta cartas com elastico",
-    "published_at": "2026-10-11T18:45:55.519955+00:00",
-    "price": 69.9,
-    "discount_rate": 30,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/6q1PAGJoLC"
-  },
-  {
-    "item_id": 22399675408,
-    "shop_id": 1561524075,
-    "title": "Growlithe 078/076 AR [m6] Storm Emeralda Pokemon Card Game TCG [Genuine Japanese]",
-    "normalized_title": "growlithe 078 076 ar m6 storm emeralda pokemon card game tcg genuine japanese",
-    "published_at": "2026-10-11T19:01:32.937605+00:00",
-    "price": 39.36,
-    "discount_rate": 0,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/7faW9nGdeP"
-  },
-  {
-    "item_id": 58216553093,
-    "shop_id": 444494850,
-    "title": "Case Box premium - capacidade 100 Cards Porta Deck Rígido para Pokémon TCG MTG Impressão 3D",
-    "normalized_title": "case box premium capacidade 100 cards porta deck rigido para pokemon tcg mtg impressao 3d",
-    "published_at": "2026-10-11T19:15:55.413738+00:00",
-    "price": 26.9,
-    "discount_rate": 0,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/7VH5xUHGzO"
-  },
-  {
-    "item_id": 58217678437,
-    "shop_id": 1776253370,
-    "title": "Kit 3 Box Pokémon Coleção Mega Forças Zeraora Dragonite e Darkrai Ex Copag Escuridão e Mega Evolução TCG 8 Boosters",
-    "normalized_title": "kit 3 box pokemon colecao mega forcas zeraora dragonite e darkrai ex copag escuridao e mega evolucao tcg 8 boosters",
-    "published_at": "2026-10-11T19:31:19.391580+00:00",
-    "price": 137.98,
-    "discount_rate": 31,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/8KqByCNkCY"
-  },
-  {
-    "item_id": 58264087090,
-    "shop_id": 486900728,
-    "title": "Booster Box Pokémon TCG Megaevolução - Caixa com 4 - ME01 - ME05",
-    "normalized_title": "booster box pokemon tcg megaevolucao caixa com 4 me01 me05",
-    "published_at": "2026-10-11T19:45:56.143501+00:00",
-    "price": 434.0,
-    "discount_rate": 4,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/8V9cAVN6rb"
-  },
-  {
     "item_id": 58208632798,
     "shop_id": 1732438108,
     "title": "Booster box Combo de booster Coleções Pokémon TCG cartras - Copag",
@@ -526,5 +460,16 @@
     "discount_rate": 56,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/2BFdQaZDKq"
+  },
+  {
+    "item_id": 58217678437,
+    "shop_id": 1776253370,
+    "title": "Kit 3 Box Pokémon Coleção Mega Forças Zeraora Dragonite e Darkrai Ex Copag Escuridão e Mega Evolução TCG 8 Boosters",
+    "normalized_title": "kit 3 box pokemon colecao mega forcas zeraora dragonite e darkrai ex copag escuridao e mega evolucao tcg 8 boosters",
+    "published_at": "2026-10-14T19:46:03.815479+00:00",
+    "price": 137.98,
+    "discount_rate": 31,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/7KxjFU7kaP"
   }
 ]

@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "offer": {
+      "item_id": 58207582082,
+      "shop_id": 464326997,
+      "title": "BOOSTER BOX MEGAEVOLUÇÃO EQUILÍBRIO PERFEITO ME3 COPAG POKÉMON TCG CARTA DISPLAY MEGA ZYGARDE EX",
+      "price": 439.99,
+      "rating": 5.0,
+      "sales": 12,
+      "shop_type": [
+        1
+      ],
+      "image_url": "https://cf.shopee.com.br/file/br-11134207-820lj-mmuqf01z52ptbc",
+      "product_link": "https://shopee.com.br/product/464326997/58207582082",
+      "offer_link": "https://s.shopee.com.br/7AeJ3B8NvS",
+      "discount_rate": 58
+    },
+    "keyword": "Pokemon booster box",
+    "queued_at": "2026-10-14T19:46:02.574767+00:00"
+  }
+]
