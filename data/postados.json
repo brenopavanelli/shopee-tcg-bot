@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58254431532,
-    "shop_id": 1549181086,
-    "title": "Sleeve Central Shields Básico 63mm x 88mm 100 Protetor de Carta Transparente Tamanho Padrão Pokemon Magic TCG",
-    "normalized_title": "sleeve central shields basico 63mm x 88mm 100 protetor de carta transparente tamanho padrao pokemon magic tcg",
-    "published_at": "2026-10-12T17:45:54.511748+00:00",
-    "price": 16.9,
-    "discount_rate": 58,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/6fhxy9SOvX"
-  },
-  {
     "item_id": 22094058133,
     "shop_id": 1455674925,
     "title": "Porta Cartas Caixa Deck Box para Pokémon TCG - Vários personagens (200 cartas)",
@@ -449,5 +438,16 @@
     "discount_rate": 56,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/7VHC8hJviN"
+  },
+  {
+    "item_id": 58254431532,
+    "shop_id": 1549181086,
+    "title": "Sleeve Central Shields Básico 63mm x 88mm 100 Protetor de Carta Transparente Tamanho Padrão Pokemon Magic TCG",
+    "normalized_title": "sleeve central shields basico 63mm x 88mm 100 protetor de carta transparente tamanho padrao pokemon magic tcg",
+    "published_at": "2026-10-15T17:45:58.867367+00:00",
+    "price": 16.9,
+    "discount_rate": 58,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/4B0jO6IxfG"
   }
 ]
