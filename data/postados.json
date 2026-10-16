@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58210763106,
-    "shop_id": 464326997,
-    "title": "BOX COLEÇÃO TREINADOR AVANÇADO ETB MEGA GRENINJA EX CAOS ASCENDENTE ME04 POKÉMON TCG BOOSTERS CARTAS",
-    "normalized_title": "box colecao treinador avancado etb mega greninja ex caos ascendente me04 pokemon tcg boosters cartas",
-    "published_at": "2026-10-13T10:45:59.822346+00:00",
-    "price": 389.99,
-    "discount_rate": 51,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/6L58ppDRkE"
-  },
-  {
     "item_id": 49168662818,
     "shop_id": 464326997,
     "title": "BOX COM FICHÁRIO PORTUGUÊS COLEÇÃO CELEBRAÇÃO 30 ANOS POKÉMON TCG BOOSTER CARTA CARD PASTA PT-BR",
@@ -449,5 +438,16 @@
     "discount_rate": 40,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/4qGQBKGQJS"
+  },
+  {
+    "item_id": 58210763106,
+    "shop_id": 464326997,
+    "title": "BOX COLEÇÃO TREINADOR AVANÇADO ETB MEGA GRENINJA EX CAOS ASCENDENTE ME04 POKÉMON TCG BOOSTERS CARTAS",
+    "normalized_title": "box colecao treinador avancado etb mega greninja ex caos ascendente me04 pokemon tcg boosters cartas",
+    "published_at": "2026-10-16T11:15:58.661005+00:00",
+    "price": 389.99,
+    "discount_rate": 51,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/8fT8jO8np0"
   }
 ]
