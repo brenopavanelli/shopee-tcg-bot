@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 21898020732,
-    "shop_id": 1456485786,
-    "title": "Deck Box Pokémon TCG  Estilo Game Boy Personalizável  para 60 cartas com Sleeves",
-    "normalized_title": "deck box pokemon tcg estilo game boy personalizavel para 60 cartas com sleeves",
-    "published_at": "2026-10-13T00:45:57.810595+00:00",
-    "price": 34.9,
-    "discount_rate": 13,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/40hCnFcYLG"
-  },
-  {
     "item_id": 22298099588,
     "shop_id": 263468055,
     "title": "Cartas Pokemon TCG Originais - Lotes com até 100 cartas sem repetidas - Cartas Brilhantes Garantidas",
@@ -449,5 +438,16 @@
     "discount_rate": 0,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/60SNZTBywi"
+  },
+  {
+    "item_id": 21898020732,
+    "shop_id": 1456485786,
+    "title": "Deck Box Pokémon TCG  Estilo Game Boy Personalizável  para 60 cartas com Sleeves",
+    "normalized_title": "deck box pokemon tcg estilo game boy personalizavel para 60 cartas com sleeves",
+    "published_at": "2026-10-16T01:01:33.758006+00:00",
+    "price": 29.9,
+    "discount_rate": 19,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/7Kxl9v6uF6"
   }
 ]
