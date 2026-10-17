@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 45055621702,
-    "shop_id": 223145265,
-    "title": "Kit de Cartas Pokémon TCG Originais com BRILHANTES COPAG Foil, Reverse Foil, Holografica, Brilhante",
-    "normalized_title": "kit de cartas pokemon tcg originais com brilhantes copag foil reverse foil holografica brilhante",
-    "published_at": "2026-10-14T10:31:21.644783+00:00",
-    "price": 17.9,
-    "discount_rate": 50,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/1BN6Ekd1MY"
-  },
-  {
     "item_id": 58267861838,
     "shop_id": 1903569870,
     "title": "BoraMix  Álbum Pokémon TCG Porta Cartas para Colecionadores–400 Cartas, Várias Opções",
@@ -449,5 +438,16 @@
     "discount_rate": 40,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/5LCgmFEWIe"
+  },
+  {
+    "item_id": 45055621702,
+    "shop_id": 223145265,
+    "title": "Kit de Cartas Pokémon TCG Originais com BRILHANTES COPAG Foil, Reverse Foil, Holografica, Brilhante",
+    "normalized_title": "kit de cartas pokemon tcg originais com brilhantes copag foil reverse foil holografica brilhante",
+    "published_at": "2026-10-17T10:45:54.722477+00:00",
+    "price": 17.9,
+    "discount_rate": 50,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/50ZqNdFmyT"
   }
 ]
