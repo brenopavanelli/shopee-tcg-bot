@@ -1,27 +1,5 @@
 [
   {
-    "item_id": 58267861838,
-    "shop_id": 1903569870,
-    "title": "BoraMix  Álbum Pokémon TCG Porta Cartas para Colecionadores–400 Cartas, Várias Opções",
-    "normalized_title": "boramix album pokemon tcg porta cartas para colecionadores 400 cartas varias opcoes",
-    "published_at": "2026-10-14T11:01:39.497216+00:00",
-    "price": 58.0,
-    "discount_rate": 42,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/2qVKikJ3XD"
-  },
-  {
-    "item_id": 58256232047,
-    "shop_id": 1679540190,
-    "title": "Álbum Fichário Pokémon Capa Dura Zíper 400 Cartas + 50 Folhas Porta Cards TCG Pronta Entrega",
-    "normalized_title": "album fichario pokemon capa dura ziper 400 cartas 50 folhas porta cards tcg pronta entrega",
-    "published_at": "2026-10-14T14:01:36.453549+00:00",
-    "price": 35.99,
-    "discount_rate": 45,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/1LgWR3cO1l"
-  },
-  {
     "item_id": 58205056904,
     "shop_id": 1679540190,
     "title": "Álbum Pokémon TCG 240/400/540 Cartas Pikachu Eevee Charizard Pasta Premium Pronta Entrega Brasil",
@@ -449,5 +427,16 @@
     "discount_rate": 50,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/50ZqNdFmyT"
+  },
+  {
+    "item_id": 58256232047,
+    "shop_id": 1679540190,
+    "title": "Álbum Fichário Pokémon Capa Dura Zíper 400 Cartas + 50 Folhas Porta Cards TCG Pronta Entrega",
+    "normalized_title": "album fichario pokemon capa dura ziper 400 cartas 50 folhas porta cards tcg pronta entrega",
+    "published_at": "2026-10-17T14:15:53.612873+00:00",
+    "price": 35.99,
+    "discount_rate": 45,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/Lo2vvc2u7"
   }
 ]
