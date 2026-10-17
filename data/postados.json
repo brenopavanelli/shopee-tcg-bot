@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58205056904,
-    "shop_id": 1679540190,
-    "title": "Álbum Pokémon TCG 240/400/540 Cartas Pikachu Eevee Charizard Pasta Premium Pronta Entrega Brasil",
-    "normalized_title": "album pokemon tcg 240 400 540 cartas pikachu eevee charizard pasta premium pronta entrega brasil",
-    "published_at": "2026-10-14T15:01:42.719800+00:00",
-    "price": 39.99,
-    "discount_rate": 50,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/1gJMpfb7Lr"
-  },
-  {
     "item_id": 58266878470,
     "shop_id": 1764302341,
     "title": "Booster Avulso Pokémon TCG Coreano Ninja Spinner / Electric Breaker. Original Lacrado",
@@ -438,5 +427,16 @@
     "discount_rate": 45,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/Lo2vvc2u7"
+  },
+  {
+    "item_id": 58205056904,
+    "shop_id": 1679540190,
+    "title": "Álbum Pokémon TCG 240/400/540 Cartas Pikachu Eevee Charizard Pasta Premium Pronta Entrega Brasil",
+    "normalized_title": "album pokemon tcg 240 400 540 cartas pikachu eevee charizard pasta premium pronta entrega brasil",
+    "published_at": "2026-10-17T15:15:53.901448+00:00",
+    "price": 39.0,
+    "discount_rate": 50,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/AAHye00bx2"
   }
 ]
