@@ -1,104 +1,5 @@
 [
   {
-    "item_id": 58266878470,
-    "shop_id": 1764302341,
-    "title": "Booster Avulso Pokémon TCG Coreano Ninja Spinner / Electric Breaker. Original Lacrado",
-    "normalized_title": "booster avulso pokemon tcg coreano ninja spinner electric breaker original lacrado",
-    "published_at": "2026-10-14T16:01:43.881251+00:00",
-    "price": 27.9,
-    "discount_rate": 0,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/8fT804Ulnc"
-  },
-  {
-    "item_id": 58210786717,
-    "shop_id": 1286523806,
-    "title": "Cartas Pokemon em Português Vmax Ex VStar Vastro TCG Brilhante Trading Card Game Pikachu Charizard Snorlax Mewtwo Brasil",
-    "normalized_title": "cartas pokemon em portugues vmax ex vstar vastro tcg brilhante trading card game pikachu charizard snorlax mewtwo brasil",
-    "published_at": "2026-10-14T16:15:55.754233+00:00",
-    "price": 17.91,
-    "discount_rate": 55,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/8pmYCNU8Sf"
-  },
-  {
-    "item_id": 27539757188,
-    "shop_id": 1475896048,
-    "title": "400 Cartas Caixa de Jogo de Cartas Pokémon TCG Charizard Vmax Gx Adequado para Crianças",
-    "normalized_title": "400 cartas caixa de jogo de cartas pokemon tcg charizard vmax gx adequado para criancas",
-    "published_at": "2026-10-14T16:31:21.333190+00:00",
-    "price": 33.94,
-    "discount_rate": 51,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/905yOgTV7i"
-  },
-  {
-    "item_id": 44481914493,
-    "shop_id": 1594832387,
-    "title": "Pokémon Zippered Binder for 440 Cards Hard Cover TCG Card Holder Ready for Delivery",
-    "normalized_title": "pokemon zippered binder for 440 cards hard cover tcg card holder ready for delivery",
-    "published_at": "2026-10-14T16:45:54.258151+00:00",
-    "price": 49.9,
-    "discount_rate": 50,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/8KqHbSW2Te"
-  },
-  {
-    "item_id": 58250835038,
-    "shop_id": 1082038328,
-    "title": "Fichário Álbum TANDEMAUS e MAUSHOLD Grande Capa Dura para cartas Pokemon Pasta Cartas TCG",
-    "normalized_title": "fichario album tandemaus e maushold grande capa dura para cartas pokemon pasta cartas tcg",
-    "published_at": "2026-10-14T17:01:41.851164+00:00",
-    "price": 71.17,
-    "discount_rate": 25,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/AAHvmpP3l3"
-  },
-  {
-    "item_id": 23598541177,
-    "shop_id": 1151997948,
-    "title": "Caixa para Cartas Pokémon Deck BOX Cards Case Game Boy 100 Cartas Pokemon TCG",
-    "normalized_title": "caixa para cartas pokemon deck box cards case game boy 100 cartas pokemon tcg",
-    "published_at": "2026-10-14T17:16:00.157693+00:00",
-    "price": 29.99,
-    "discount_rate": 57,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/9KionISERw"
-  },
-  {
-    "item_id": 23299433836,
-    "shop_id": 454657733,
-    "title": "Desafio Estratégico Amigos de Jornada EV9 - Pokémon TCG",
-    "normalized_title": "desafio estrategico amigos de jornada ev9 pokemon tcg",
-    "published_at": "2026-10-14T17:31:20.567699+00:00",
-    "price": 199.9,
-    "discount_rate": 0,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/9V2EzbRb6z"
-  },
-  {
-    "item_id": 23095035076,
-    "shop_id": 450761307,
-    "title": "Pokémon Booster Box Caixa Lacrada Escuridão Absoluta Copag",
-    "normalized_title": "pokemon booster box caixa lacrada escuridao absoluta copag",
-    "published_at": "2026-10-14T17:45:52.157500+00:00",
-    "price": 429.9,
-    "discount_rate": 0,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/905xEY1PCd"
-  },
-  {
-    "item_id": 45563969587,
-    "shop_id": 464326997,
-    "title": "BOOSTER BOX MEGAEVOLUÇÃO ESCURIDÃO ABSOLUTA ME05 COPAG POKÉMON TCG CARTAS DISPLAY MEGA DARKRAI EX",
-    "normalized_title": "booster box megaevolucao escuridao absoluta me05 copag pokemon tcg cartas display mega darkrai ex",
-    "published_at": "2026-10-14T18:01:33.485605+00:00",
-    "price": 439.99,
-    "discount_rate": 58,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/9APNQr0lre"
-  },
-  {
     "item_id": 58258990463,
     "shop_id": 479251059,
     "title": "Protetor de Cartas Sleeve Central Shield 63 x 88mm Padrão Básico Transparente Pokémon Magic TCG",
@@ -438,5 +339,16 @@
     "discount_rate": 50,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/AAHye00bx2"
+  },
+  {
+    "item_id": 45563969587,
+    "shop_id": 464326997,
+    "title": "BOOSTER BOX MEGAEVOLUÇÃO ESCURIDÃO ABSOLUTA ME05 COPAG POKÉMON TCG CARTAS DISPLAY MEGA DARKRAI EX",
+    "normalized_title": "booster box megaevolucao escuridao absoluta me05 copag pokemon tcg cartas display mega darkrai ex",
+    "published_at": "2026-10-17T18:15:57.751701+00:00",
+    "price": 439.99,
+    "discount_rate": 58,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/6VOeBREgme"
   }
 ]

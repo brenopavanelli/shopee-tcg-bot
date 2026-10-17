@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "offer": {
+      "item_id": 23095035076,
+      "shop_id": 450761307,
+      "title": "Pokémon Booster Box Caixa Lacrada Escuridão Absoluta Copag",
+      "price": 439.9,
+      "rating": 5.0,
+      "sales": 27,
+      "shop_type": [],
+      "image_url": "https://cf.shopee.com.br/file/sg-11134201-8259b-mqdjmgaa3xtt90",
+      "product_link": "https://shopee.com.br/product/450761307/23095035076",
+      "offer_link": "https://s.shopee.com.br/6L5Dz8FK7d",
+      "discount_rate": 0
+    },
+    "keyword": "Pokemon booster box",
+    "queued_at": "2026-10-17T18:15:55.873575+00:00"
+  }
+]
