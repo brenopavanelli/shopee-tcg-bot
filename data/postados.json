@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 22094058133,
-    "shop_id": 1455674925,
-    "title": "Porta Cartas Caixa Deck Box para Pokémon TCG - Vários personagens (200 cartas)",
-    "normalized_title": "porta cartas caixa deck box para pokemon tcg varios personagens 200 cartas",
-    "published_at": "2026-10-15T20:15:58.236159+00:00",
-    "price": 35.49,
-    "discount_rate": 23,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/7fabYX5dZC"
-  },
-  {
     "item_id": 53867976784,
     "shop_id": 359241540,
     "title": "Box Pokémon Mega Forças Ex Zeraora Dragonite Darkrai Copag Coleção TCG Cartas Booster",
@@ -284,5 +273,16 @@
     "discount_rate": 62,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/8fTDY5pp7M"
+  },
+  {
+    "item_id": 22094058133,
+    "shop_id": 1455674925,
+    "title": "Porta Cartas Caixa Deck Box para Pokémon TCG - Vários personagens (200 cartas)",
+    "normalized_title": "porta cartas caixa deck box para pokemon tcg varios personagens 200 cartas",
+    "published_at": "2026-10-18T20:31:13.746513+00:00",
+    "price": 35.49,
+    "discount_rate": 23,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/3LRhBF5W5k"
   }
 ]
