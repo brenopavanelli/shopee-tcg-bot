@@ -1,27 +1,5 @@
 [
   {
-    "item_id": 58210766113,
-    "shop_id": 464326997,
-    "title": "BOOSTER BOX MEGAEVOLUÇÃO CAOS ASCENDENTE ME04 COPAG POKÉMON TCG CARTAS CARD DISPLAY MEGA GRENINJA EX",
-    "normalized_title": "booster box megaevolucao caos ascendente me04 copag pokemon tcg cartas card display mega greninja ex",
-    "published_at": "2026-10-15T07:15:55.286354+00:00",
-    "price": 449.99,
-    "discount_rate": 57,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/20wF4bS15R"
-  },
-  {
-    "item_id": 58215951285,
-    "shop_id": 1704759227,
-    "title": "Álbum Pokémon Pikachu 240 Cartas Porta Cards TCG Pasta Colecionador Presente para Fãs Vários Modelos",
-    "normalized_title": "album pokemon pikachu 240 cartas porta cards tcg pasta colecionador presente para fas varios modelos",
-    "published_at": "2026-10-15T09:46:01.267404+00:00",
-    "price": 34.99,
-    "discount_rate": 50,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/4LK9aPIKKH"
-  },
-  {
     "item_id": 23995141735,
     "shop_id": 1758140429,
     "title": "Álbum Porta Cartas Pokémon 400 Espaços Couro PU Impermeável Com Zíper Alça Organizador De Cards TCG",
@@ -350,5 +328,16 @@
     "discount_rate": 56,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/AUurjSiqOd"
+  },
+  {
+    "item_id": 58215951285,
+    "shop_id": 1704759227,
+    "title": "Álbum Pokémon Pikachu 240 Cartas Porta Cards TCG Pasta Colecionador Presente para Fãs Vários Modelos",
+    "normalized_title": "album pokemon pikachu 240 cartas porta cards tcg pasta colecionador presente para fas varios modelos",
+    "published_at": "2026-10-18T10:01:33.351505+00:00",
+    "price": 34.99,
+    "discount_rate": 50,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/6L5Ikku605"
   }
 ]
