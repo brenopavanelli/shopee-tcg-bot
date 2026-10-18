@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58257797685,
-    "shop_id": 464326997,
-    "title": "BOX COLEÇÃO TREINADOR AVANÇADO ETB MEGA ZYGARDE EX EQUILÍBRIO PERFEITO ME3 POKÉMON TCG BOOSTER CARTA",
-    "normalized_title": "box colecao treinador avancado etb mega zygarde ex equilibrio perfeito me3 pokemon tcg booster carta",
-    "published_at": "2026-10-15T03:01:35.768409+00:00",
-    "price": 349.99,
-    "discount_rate": 56,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/1VzyCDa5Mg"
-  },
-  {
     "item_id": 58210766113,
     "shop_id": 464326997,
     "title": "BOOSTER BOX MEGAEVOLUÇÃO CAOS ASCENDENTE ME04 COPAG POKÉMON TCG CARTAS CARD DISPLAY MEGA GRENINJA EX",
@@ -350,5 +339,16 @@
     "discount_rate": 54,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/AKbOqIzyc7"
+  },
+  {
+    "item_id": 58257797685,
+    "shop_id": 464326997,
+    "title": "BOX COLEÇÃO TREINADOR AVANÇADO ETB MEGA ZYGARDE EX EQUILÍBRIO PERFEITO ME3 POKÉMON TCG BOOSTER CARTA",
+    "normalized_title": "box colecao treinador avancado etb mega zygarde ex equilibrio perfeito me3 pokemon tcg booster carta",
+    "published_at": "2026-10-18T03:31:11.553617+00:00",
+    "price": 349.99,
+    "discount_rate": 56,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/AUurjSiqOd"
   }
 ]
