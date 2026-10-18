@@ -1,60 +1,5 @@
 [
   {
-    "item_id": 58267082891,
-    "shop_id": 1209756667,
-    "title": "Porta Cartas Pokemon Magic TCG Caixa Organizadora MDF 8 Divisórias para Cards e Colecionáveis",
-    "normalized_title": "porta cartas pokemon magic tcg caixa organizadora mdf 8 divisorias para cards e colecionaveis",
-    "published_at": "2026-10-15T15:16:02.804302+00:00",
-    "price": 28.9,
-    "discount_rate": 28,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/5LChYiSB6s"
-  },
-  {
-    "item_id": 21699828567,
-    "shop_id": 1082038328,
-    "title": "Sleeve Pokémon Original Central Protetor de Cartas Shield TCG 63 x 88mm Padrão Transparente Magic",
-    "normalized_title": "sleeve pokemon original central protetor de cartas shield tcg 63 x 88mm padrao transparente magic",
-    "published_at": "2026-10-15T15:31:23.620716+00:00",
-    "price": 19.79,
-    "discount_rate": 33,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/7facL0JINM"
-  },
-  {
-    "item_id": 22598187669,
-    "shop_id": 479251059,
-    "title": "Fichário Álbum Pasta Pokémon P/ Cartas Pokémon Capa Dura TCG - Pikachu - Ash - Charizard - Eevee",
-    "normalized_title": "fichario album pasta pokemon p cartas pokemon capa dura tcg pikachu ash charizard eevee",
-    "published_at": "2026-10-15T15:45:56.676343+00:00",
-    "price": 58.73,
-    "discount_rate": 41,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/7pu2XJIf2P"
-  },
-  {
-    "item_id": 58205276525,
-    "shop_id": 1720086046,
-    "title": "Álbum Porta Cartas TCG 240 ou 400 Cartas para Cartas Pokémon Yu-Gi-Oh MTG Não Inclui Cartas",
-    "normalized_title": "album porta cartas tcg 240 ou 400 cartas para cartas pokemon yu gi oh mtg nao inclui cartas",
-    "published_at": "2026-10-15T16:01:42.388137+00:00",
-    "price": 34.99,
-    "discount_rate": 56,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/7VHC8hJviN"
-  },
-  {
-    "item_id": 58254431532,
-    "shop_id": 1549181086,
-    "title": "Sleeve Central Shields Básico 63mm x 88mm 100 Protetor de Carta Transparente Tamanho Padrão Pokemon Magic TCG",
-    "normalized_title": "sleeve central shields basico 63mm x 88mm 100 protetor de carta transparente tamanho padrao pokemon magic tcg",
-    "published_at": "2026-10-15T17:45:58.867367+00:00",
-    "price": 16.9,
-    "discount_rate": 58,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/4B0jO6IxfG"
-  },
-  {
     "item_id": 58212745907,
     "shop_id": 464326997,
     "title": "BOX POKÉMON COLEÇÃO ILUSTRAÇÃO PARCEIRO INICIAL SÉRIE 2 COPAG MEGA EVOLUÇÃO CARTAS BOOSTERS 30 ANOS",
@@ -328,5 +273,16 @@
     "discount_rate": 16,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/7fagzQFyrt"
+  },
+  {
+    "item_id": 58254431532,
+    "shop_id": 1549181086,
+    "title": "Sleeve Central Shields Básico 63mm x 88mm 100 Protetor de Carta Transparente Tamanho Padrão Pokemon Magic TCG",
+    "normalized_title": "sleeve central shields basico 63mm x 88mm 100 protetor de carta transparente tamanho padrao pokemon magic tcg",
+    "published_at": "2026-10-18T18:01:37.743633+00:00",
+    "price": 16.9,
+    "discount_rate": 58,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/6AlsYRujL4"
   }
 ]
