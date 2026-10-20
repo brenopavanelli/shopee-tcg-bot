@@ -1,27 +1,5 @@
 [
   {
-    "item_id": 58258990463,
-    "shop_id": 479251059,
-    "title": "Protetor de Cartas Sleeve Central Shield 63 x 88mm Padrão Básico Transparente Pokémon Magic TCG",
-    "normalized_title": "protetor de cartas sleeve central shield 63 x 88mm padrao basico transparente pokemon magic tcg",
-    "published_at": "2026-10-17T18:45:53.795010+00:00",
-    "price": 16.68,
-    "discount_rate": 33,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/4VdZmiHgzI"
-  },
-  {
-    "item_id": 58254862841,
-    "shop_id": 1720086046,
-    "title": "Álbum para Cards Pokémon TCG 240 Cartas Coleção Segura com Capas Sortidas",
-    "normalized_title": "album para cards pokemon tcg 240 cartas colecao segura com capas sortidas",
-    "published_at": "2026-10-17T19:01:26.472078+00:00",
-    "price": 34.99,
-    "discount_rate": 56,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/6L5Dy5AiGo"
-  },
-  {
     "item_id": 58207582082,
     "shop_id": 464326997,
     "title": "BOOSTER BOX MEGAEVOLUÇÃO EQUILÍBRIO PERFEITO ME3 COPAG POKÉMON TCG CARTA DISPLAY MEGA ZYGARDE EX",
@@ -394,5 +372,16 @@
     "discount_rate": 58,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/2gC46lALJr"
+  },
+  {
+    "item_id": 23095035076,
+    "shop_id": 450761307,
+    "title": "Pokémon Booster Box Caixa Lacrada Escuridão Absoluta Copag",
+    "normalized_title": "pokemon booster box caixa lacrada escuridao absoluta copag",
+    "published_at": "2026-10-20T19:01:31.101995+00:00",
+    "price": 439.9,
+    "discount_rate": 0,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/3LRktz7ny3"
   }
 ]
