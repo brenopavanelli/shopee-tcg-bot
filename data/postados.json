@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 53666400287,
-    "shop_id": 464326997,
-    "title": "BOX POKÉMON COLEÇÃO MEGA FORÇAS ZERAORA DRAGONITE DARKRAI EX COPAG EVOLUÇÃO CARTAS BOOSTERS TCG CARD",
-    "normalized_title": "box pokemon colecao mega forcas zeraora dragonite darkrai ex copag evolucao cartas boosters tcg card",
-    "published_at": "2026-10-18T01:15:53.321259+00:00",
-    "price": 137.99,
-    "discount_rate": 54,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/AKbOqIzyc7"
-  },
-  {
     "item_id": 58257797685,
     "shop_id": 464326997,
     "title": "BOX COLEÇÃO TREINADOR AVANÇADO ETB MEGA ZYGARDE EX EQUILÍBRIO PERFEITO ME3 POKÉMON TCG BOOSTER CARTA",
@@ -438,5 +427,16 @@
     "discount_rate": 50,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/7VHGn7GcCs"
+  },
+  {
+    "item_id": 58202416813,
+    "shop_id": 1561524075,
+    "title": "Cynthia's Spiritomb 208/193 AR [M2a] MEGA Dream ex Pokemon Card Game TCG [Genuine Japanese]",
+    "normalized_title": "cynthia s spiritomb 208 193 ar m2a mega dream ex pokemon card game tcg genuine japanese",
+    "published_at": "2026-10-21T01:15:55.584112+00:00",
+    "price": 31.9,
+    "discount_rate": 0,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/80DbOFWcuw"
   }
 ]

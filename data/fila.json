@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "offer": {
+      "item_id": 58207047211,
+      "shop_id": 1561524075,
+      "title": "Froakie 086/083 AR [M4] Ninja Spinner Pokemon Card Game TCG [Genuine Japanese]",
+      "price": 26.83,
+      "rating": 5.0,
+      "sales": 21,
+      "shop_type": [
+        2
+      ],
+      "image_url": "https://cf.shopee.com.br/file/sg-11134201-8258d-ms4s3bow4avbf5",
+      "product_link": "https://shopee.com.br/product/1561524075/58207047211",
+      "offer_link": "https://s.shopee.com.br/9068a5SotA",
+      "discount_rate": 0
+    },
+    "keyword": "Pokemon TCG",
+    "queued_at": "2026-10-21T01:15:53.293991+00:00"
+  }
+]
