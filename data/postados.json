@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 23798217575,
-    "shop_id": 256080800,
-    "title": "Sleeve Central Shield 63 x 88mm Padrão Básico Protetor de Cartas Transparente Pokémon Magic TCG - ED",
-    "normalized_title": "sleeve central shield 63 x 88mm padrao basico protetor de cartas transparente pokemon magic tcg ed",
-    "published_at": "2026-10-18T15:15:55.174137+00:00",
-    "price": 16.99,
-    "discount_rate": 16,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/7fagzQFyrt"
-  },
-  {
     "item_id": 58254431532,
     "shop_id": 1549181086,
     "title": "Sleeve Central Shields Básico 63mm x 88mm 100 Protetor de Carta Transparente Tamanho Padrão Pokemon Magic TCG",
@@ -471,5 +460,16 @@
     "discount_rate": 13,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/gR1REz4cR"
+  },
+  {
+    "item_id": 23798217575,
+    "shop_id": 256080800,
+    "title": "Sleeve Central Shield 63 x 88mm Padrão Básico Protetor de Cartas Transparente Pokémon Magic TCG - ED",
+    "normalized_title": "sleeve central shield 63 x 88mm padrao basico protetor de cartas transparente pokemon magic tcg ed",
+    "published_at": "2026-10-21T15:16:00.393844+00:00",
+    "price": 16.99,
+    "discount_rate": 16,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/8AX0fvksjK"
   }
 ]
