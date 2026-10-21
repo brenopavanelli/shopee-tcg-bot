@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58254431532,
-    "shop_id": 1549181086,
-    "title": "Sleeve Central Shields Básico 63mm x 88mm 100 Protetor de Carta Transparente Tamanho Padrão Pokemon Magic TCG",
-    "normalized_title": "sleeve central shields basico 63mm x 88mm 100 protetor de carta transparente tamanho padrao pokemon magic tcg",
-    "published_at": "2026-10-18T18:01:37.743633+00:00",
-    "price": 16.9,
-    "discount_rate": 58,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/6AlsYRujL4"
-  },
-  {
     "item_id": 58212745907,
     "shop_id": 464326997,
     "title": "BOX POKÉMON COLEÇÃO ILUSTRAÇÃO PARCEIRO INICIAL SÉRIE 2 COPAG MEGA EVOLUÇÃO CARTAS BOOSTERS 30 ANOS",
@@ -471,5 +460,16 @@
     "discount_rate": 16,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/8AX0fvksjK"
+  },
+  {
+    "item_id": 58254431532,
+    "shop_id": 1549181086,
+    "title": "Sleeve Central Shields Básico 63mm x 88mm 100 Protetor de Carta Transparente Tamanho Padrão Pokemon Magic TCG",
+    "normalized_title": "sleeve central shields basico 63mm x 88mm 100 protetor de carta transparente tamanho padrao pokemon magic tcg",
+    "published_at": "2026-10-21T18:15:57.913740+00:00",
+    "price": 16.9,
+    "discount_rate": 58,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/5LCpIivfTX"
   }
 ]
