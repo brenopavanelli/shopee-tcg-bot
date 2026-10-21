@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58257797685,
-    "shop_id": 464326997,
-    "title": "BOX COLEÇÃO TREINADOR AVANÇADO ETB MEGA ZYGARDE EX EQUILÍBRIO PERFEITO ME3 POKÉMON TCG BOOSTER CARTA",
-    "normalized_title": "box colecao treinador avancado etb mega zygarde ex equilibrio perfeito me3 pokemon tcg booster carta",
-    "published_at": "2026-10-18T03:31:11.553617+00:00",
-    "price": 349.99,
-    "discount_rate": 56,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/AUurjSiqOd"
-  },
-  {
     "item_id": 58215951285,
     "shop_id": 1704759227,
     "title": "Álbum Pokémon Pikachu 240 Cartas Porta Cards TCG Pasta Colecionador Presente para Fãs Vários Modelos",
@@ -460,5 +449,16 @@
     "discount_rate": 54,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/8KqQsEkFOL"
+  },
+  {
+    "item_id": 58257797685,
+    "shop_id": 464326997,
+    "title": "BOX COLEÇÃO TREINADOR AVANÇADO ETB MEGA ZYGARDE EX EQUILÍBRIO PERFEITO ME3 POKÉMON TCG BOOSTER CARTA",
+    "normalized_title": "box colecao treinador avancado etb mega zygarde ex equilibrio perfeito me3 pokemon tcg booster carta",
+    "published_at": "2026-10-21T03:31:14.471700+00:00",
+    "price": 389.99,
+    "discount_rate": 51,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/7VHKwchqEP"
   }
 ]
