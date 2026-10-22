@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 28635139159,
-    "shop_id": 1495203153,
-    "title": "[Pokémon] Cartão \" Super Electric Breaker \" sv8 Booster Box (30 Pacotes) Caixa Selada Versão Coreana",
-    "normalized_title": "pokemon cartao super electric breaker sv8 booster box 30 pacotes caixa selada versao coreana",
-    "published_at": "2026-10-19T12:01:33.552416+00:00",
-    "price": 315.0,
-    "discount_rate": 26,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/70KzZ1wAV8"
-  },
-  {
     "item_id": 22095225243,
     "shop_id": 1907548914,
     "title": "Deck Box TCG - POKEMON MODELO POKEBOLA 400 CARTAS COM SLEEVES booster setup gamer",
@@ -350,5 +339,16 @@
     "discount_rate": 0,
     "keyword": "Pokemon Elite Trainer Box",
     "offer_link": "https://s.shopee.com.br/60SYjhsJjn"
+  },
+  {
+    "item_id": 28635139159,
+    "shop_id": 1495203153,
+    "title": "[Pokémon] Cartão \" Super Electric Breaker \" sv8 Booster Box (30 Pacotes) Caixa Selada Versão Coreana",
+    "normalized_title": "pokemon cartao super electric breaker sv8 booster box 30 pacotes caixa selada versao coreana",
+    "published_at": "2026-10-22T12:01:38.423559+00:00",
+    "price": 315.0,
+    "discount_rate": 26,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/30ox9CkFIZ"
   }
 ]
