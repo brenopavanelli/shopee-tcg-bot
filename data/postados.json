@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 22298099588,
-    "shop_id": 263468055,
-    "title": "Cartas Pokemon TCG Originais - Lotes com até 100 cartas sem repetidas - Cartas Brilhantes Garantidas",
-    "normalized_title": "cartas pokemon tcg originais lotes com ate 100 cartas sem repetidas cartas brilhantes garantidas",
-    "published_at": "2026-10-19T04:45:50.298752+00:00",
-    "price": 9.99,
-    "discount_rate": 50,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/4LKEN51i3m"
-  },
-  {
     "item_id": 22099407991,
     "shop_id": 502301086,
     "title": "Box Em Acrílico Para Elite Trainer Box ETB Pokémon US (19,5x9,5x17,5cm) - PPKB-ETB-US-OPEN",
@@ -350,5 +339,16 @@
     "discount_rate": 0,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/6fiCtAqalv"
+  },
+  {
+    "item_id": 22298099588,
+    "shop_id": 263468055,
+    "title": "Cartas Pokemon TCG Originais - Lotes com até 100 cartas sem repetidas - Cartas Brilhantes Garantidas",
+    "normalized_title": "cartas pokemon tcg originais lotes com ate 100 cartas sem repetidas cartas brilhantes garantidas",
+    "published_at": "2026-10-22T05:01:32.617909+00:00",
+    "price": 9.99,
+    "discount_rate": 50,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/3VlDk7moFH"
   }
 ]
