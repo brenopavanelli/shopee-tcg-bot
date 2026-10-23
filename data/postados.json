@@ -1,38 +1,5 @@
 [
   {
-    "item_id": 45563969587,
-    "shop_id": 464326997,
-    "title": "BOOSTER BOX MEGAEVOLUÇÃO ESCURIDÃO ABSOLUTA ME05 COPAG POKÉMON TCG CARTAS DISPLAY MEGA DARKRAI EX",
-    "normalized_title": "booster box megaevolucao escuridao absoluta me05 copag pokemon tcg cartas display mega darkrai ex",
-    "published_at": "2026-10-20T18:45:53.365187+00:00",
-    "price": 439.99,
-    "discount_rate": 58,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/2gC46lALJr"
-  },
-  {
-    "item_id": 23095035076,
-    "shop_id": 450761307,
-    "title": "Pokémon Booster Box Caixa Lacrada Escuridão Absoluta Copag",
-    "normalized_title": "pokemon booster box caixa lacrada escuridao absoluta copag",
-    "published_at": "2026-10-20T19:01:31.101995+00:00",
-    "price": 439.9,
-    "discount_rate": 0,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/3LRktz7ny3"
-  },
-  {
-    "item_id": 58256232047,
-    "shop_id": 1679540190,
-    "title": "Álbum Fichário Pokémon Capa Dura Zíper 400 Cartas + 50 Folhas Porta Cards TCG Pronta Entrega",
-    "normalized_title": "album fichario pokemon capa dura ziper 400 cartas 50 folhas porta cards tcg pronta entrega",
-    "published_at": "2026-10-20T19:15:52.396040+00:00",
-    "price": 35.99,
-    "discount_rate": 45,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/7KxtgOo3Q7"
-  },
-  {
     "item_id": 58267861838,
     "shop_id": 1903569870,
     "title": "BoraMix  Álbum Pokémon TCG Porta Cartas para Colecionadores–400 Cartas, Várias Opções",
@@ -504,5 +471,16 @@
     "discount_rate": 54,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/9Kj2ohfigs"
+  },
+  {
+    "item_id": 58256232047,
+    "shop_id": 1679540190,
+    "title": "Álbum Fichário Pokémon Capa Dura Zíper 400 Cartas + 50 Folhas Porta Cards TCG Pronta Entrega",
+    "normalized_title": "album fichario pokemon capa dura ziper 400 cartas 50 folhas porta cards tcg pronta entrega",
+    "published_at": "2026-10-23T19:15:57.400850+00:00",
+    "price": 35.99,
+    "discount_rate": 45,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/1qczl3t9d7"
   }
 ]
