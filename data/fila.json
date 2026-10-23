@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "offer": {
+      "item_id": 58267496047,
+      "shop_id": 502301086,
+      "title": "Box Em Acrílico Para Mini Booster Box 18 Pacotes Pokémon BR (8,1x13x6,1cm) - PKB-01A",
+      "price": 48.9,
+      "rating": 5.0,
+      "sales": 13,
+      "shop_type": [],
+      "image_url": "https://cf.shopee.com.br/file/br-11134207-820lx-mso8tkmg8wsm7f",
+      "product_link": "https://shopee.com.br/product/502301086/58267496047",
+      "offer_link": "https://s.shopee.com.br/7VHNu0VCaf",
+      "discount_rate": 0
+    },
+    "keyword": "Pokemon booster box",
+    "queued_at": "2026-10-23T00:01:33.186089+00:00"
+  }
+]
