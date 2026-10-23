@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "offer": {
+      "item_id": 58254862841,
+      "shop_id": 1720086046,
+      "title": "Álbum para Cards Pokémon TCG 240 Cartas Coleção Segura com Capas Sortidas",
+      "price": 34.99,
+      "rating": 4.8,
+      "sales": 365,
+      "shop_type": [],
+      "image_url": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkhx5mnj9f5u15",
+      "product_link": "https://shopee.com.br/product/1720086046/58254862841",
+      "offer_link": "https://s.shopee.com.br/2qVWwtpLbD",
+      "discount_rate": 56
+    },
+    "keyword": "Pokemon TCG",
+    "queued_at": "2026-10-23T20:01:27.498510+00:00"
+  }
+]
