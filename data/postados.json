@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58267861838,
-    "shop_id": 1903569870,
-    "title": "BoraMix  Álbum Pokémon TCG Porta Cartas para Colecionadores–400 Cartas, Várias Opções",
-    "normalized_title": "boramix album pokemon tcg porta cartas para colecionadores 400 cartas varias opcoes",
-    "published_at": "2026-10-20T19:31:13.352954+00:00",
-    "price": 68.0,
-    "discount_rate": 32,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/qkQQIMFH0"
-  },
-  {
     "item_id": 58258990463,
     "shop_id": 479251059,
     "title": "Protetor de Cartas Sleeve Central Shield 63 x 88mm Padrão Básico Transparente Pokémon Magic TCG",
@@ -482,5 +471,16 @@
     "discount_rate": 45,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/1qczl3t9d7"
+  },
+  {
+    "item_id": 45563969587,
+    "shop_id": 464326997,
+    "title": "BOOSTER BOX MEGAEVOLUÇÃO ESCURIDÃO ABSOLUTA ME05 COPAG POKÉMON TCG CARTAS DISPLAY MEGA DARKRAI EX",
+    "normalized_title": "booster box megaevolucao escuridao absoluta me05 copag pokemon tcg cartas display mega darkrai ex",
+    "published_at": "2026-10-23T19:31:16.279680+00:00",
+    "price": 439.99,
+    "discount_rate": 58,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/9V2T10f5Lv"
   }
 ]
