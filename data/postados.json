@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 23995141735,
-    "shop_id": 1758140429,
-    "title": "Álbum Porta Cartas Pokémon 400 Espaços Couro PU Impermeável Com Zíper Alça Organizador De Cards TCG",
-    "normalized_title": "album porta cartas pokemon 400 espacos couro pu impermeavel com ziper alca organizador de cards tcg",
-    "published_at": "2026-10-20T11:31:22.807077+00:00",
-    "price": 68.99,
-    "discount_rate": 0,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/5q95tdtlSa"
-  },
-  {
     "item_id": 45563969587,
     "shop_id": 464326997,
     "title": "BOOSTER BOX MEGAEVOLUÇÃO ESCURIDÃO ABSOLUTA ME05 COPAG POKÉMON TCG CARTAS DISPLAY MEGA DARKRAI EX",
@@ -504,5 +493,16 @@
     "discount_rate": 50,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/8pmmDmhchj"
+  },
+  {
+    "item_id": 23699466714,
+    "shop_id": 464326997,
+    "title": "BOX POKÉMON COLEÇÃO MEGA LUAR GENGAR CLEFABLE EX COPAG CAOS ASCENDENTE EVOLUÇÃO TCG CARTAS BOOSTERS",
+    "normalized_title": "box pokemon colecao mega luar gengar clefable ex copag caos ascendente evolucao tcg cartas boosters",
+    "published_at": "2026-10-23T11:45:53.655064+00:00",
+    "price": 137.99,
+    "discount_rate": 54,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/9Kj2ohfigs"
   }
 ]
