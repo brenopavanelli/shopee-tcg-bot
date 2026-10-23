@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58207582082,
-    "shop_id": 464326997,
-    "title": "BOOSTER BOX MEGAEVOLUÇÃO EQUILÍBRIO PERFEITO ME3 COPAG POKÉMON TCG CARTA DISPLAY MEGA ZYGARDE EX",
-    "normalized_title": "booster box megaevolucao equilibrio perfeito me3 copag pokemon tcg carta display mega zygarde ex",
-    "published_at": "2026-10-20T20:45:52.668927+00:00",
-    "price": 439.99,
-    "discount_rate": 58,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/W7ZWmIaie"
-  },
-  {
     "item_id": 58208632798,
     "shop_id": 1732438108,
     "title": "Booster box Combo de booster Coleções Pokémon TCG cartras - Copag",
@@ -493,5 +482,16 @@
     "discount_rate": 56,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/2qVWwtpLbD"
+  },
+  {
+    "item_id": 58207582082,
+    "shop_id": 464326997,
+    "title": "BOOSTER BOX MEGAEVOLUÇÃO EQUILÍBRIO PERFEITO ME3 COPAG POKÉMON TCG CARTA DISPLAY MEGA ZYGARDE EX",
+    "normalized_title": "booster box megaevolucao equilibrio perfeito me3 copag pokemon tcg carta display mega zygarde ex",
+    "published_at": "2026-10-23T20:45:57.172391+00:00",
+    "price": 439.99,
+    "discount_rate": 58,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/gR4UmCiHP"
   }
 ]
