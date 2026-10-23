@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 22095225243,
-    "shop_id": 1907548914,
-    "title": "Deck Box TCG - POKEMON MODELO POKEBOLA 400 CARTAS COM SLEEVES booster setup gamer",
-    "normalized_title": "deck box tcg pokemon modelo pokebola 400 cartas com sleeves booster setup gamer",
-    "published_at": "2026-10-20T02:45:49.536277+00:00",
-    "price": 24.99,
-    "discount_rate": 38,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/8pmdkOpBmP"
-  },
-  {
     "item_id": 58267314384,
     "shop_id": 1643050727,
     "title": "Protetor de Cartas Sleeve Shield Central - Pokémon Magic Photocard TCG - Transparente 63mm x 88mm",
@@ -504,5 +493,16 @@
     "discount_rate": 0,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/7VHNu0VCaf"
+  },
+  {
+    "item_id": 22095225243,
+    "shop_id": 1907548914,
+    "title": "Deck Box TCG - POKEMON MODELO POKEBOLA 400 CARTAS COM SLEEVES booster setup gamer",
+    "normalized_title": "deck box tcg pokemon modelo pokebola 400 cartas com sleeves booster setup gamer",
+    "published_at": "2026-10-23T03:15:54.335973+00:00",
+    "price": 24.99,
+    "discount_rate": 38,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/4LKKjefAah"
   }
 ]
