@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58215951285,
-    "shop_id": 1704759227,
-    "title": "Álbum Pokémon Pikachu 240 Cartas Porta Cards TCG Pasta Colecionador Presente para Fãs Vários Modelos",
-    "normalized_title": "album pokemon pikachu 240 cartas porta cards tcg pasta colecionador presente para fas varios modelos",
-    "published_at": "2026-10-21T10:01:37.877094+00:00",
-    "price": 34.99,
-    "discount_rate": 50,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/5fpfhKuOnZ"
-  },
-  {
     "item_id": 21898020732,
     "shop_id": 1456485786,
     "title": "Deck Box Pokémon TCG  Estilo Game Boy Personalizável  para 60 cartas com Sleeves",
@@ -460,5 +449,16 @@
     "discount_rate": 56,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/9pfJPcdofx"
+  },
+  {
+    "item_id": 58215951285,
+    "shop_id": 1704759227,
+    "title": "Álbum Pokémon Pikachu 240 Cartas Porta Cards TCG Pasta Colecionador Presente para Fãs Vários Modelos",
+    "normalized_title": "album pokemon pikachu 240 cartas porta cards tcg pasta colecionador presente para fas varios modelos",
+    "published_at": "2026-10-24T10:15:54.056268+00:00",
+    "price": 34.99,
+    "discount_rate": 50,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/40hUL2kuEI"
   }
 ]
