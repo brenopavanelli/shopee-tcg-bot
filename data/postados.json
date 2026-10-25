@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 28635139159,
-    "shop_id": 1495203153,
-    "title": "[Pokémon] Cartão \" Super Electric Breaker \" sv8 Booster Box (30 Pacotes) Caixa Selada Versão Coreana",
-    "normalized_title": "pokemon cartao super electric breaker sv8 booster box 30 pacotes caixa selada versao coreana",
-    "published_at": "2026-10-22T12:01:38.423559+00:00",
-    "price": 315.0,
-    "discount_rate": 26,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/30ox9CkFIZ"
-  },
-  {
     "item_id": 58267542317,
     "shop_id": 1927383025,
     "title": "Sleeve Transparente Shield Básico 63x88mm – 100 Unidades | Central Acessórios | Pokemon Magic Yu-Gi-Ho! One Piece TCG",
@@ -449,5 +438,16 @@
     "discount_rate": 0,
     "keyword": "Pokemon Elite Trainer Box",
     "offer_link": "https://s.shopee.com.br/8V9yjOAACO"
+  },
+  {
+    "item_id": 28635139159,
+    "shop_id": 1495203153,
+    "title": "[Pokémon] Cartão \" Super Electric Breaker \" sv8 Booster Box (30 Pacotes) Caixa Selada Versão Coreana",
+    "normalized_title": "pokemon cartao super electric breaker sv8 booster box 30 pacotes caixa selada versao coreana",
+    "published_at": "2026-10-25T12:15:51.430787+00:00",
+    "price": 315.0,
+    "discount_rate": 26,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/4fxGET4wPO"
   }
 ]
