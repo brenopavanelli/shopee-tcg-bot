@@ -1,60 +1,5 @@
 [
   {
-    "item_id": 19278035622,
-    "shop_id": 565538714,
-    "title": "50 Cartas Pokémon + 10 Brilhantes - Pokémon TCG COPAG ORIGINAIS SEM REPETIÇÃO",
-    "normalized_title": "50 cartas pokemon 10 brilhantes pokemon tcg copag originais sem repeticao",
-    "published_at": "2026-10-22T21:31:17.983798+00:00",
-    "price": 34.9,
-    "discount_rate": 30,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/6Am057jpkP"
-  },
-  {
-    "item_id": 53964025927,
-    "shop_id": 464326997,
-    "title": "COMBO DE BOOSTER MINI DISPLAY ESCURIDÃO ABSOLUTA MEGA EVOLUÇÃO COPAG CARTAS POKÉMON TCG",
-    "normalized_title": "combo de booster mini display escuridao absoluta mega evolucao copag cartas pokemon tcg",
-    "published_at": "2026-10-22T21:45:53.119970+00:00",
-    "price": 243.99,
-    "discount_rate": 53,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/6L5QHQjCPS"
-  },
-  {
-    "item_id": 52712272901,
-    "shop_id": 493157013,
-    "title": "DADOS CONTADORES DE DANO, MARCADORES DE AÇÃO, HABILIDADE E CONDIÇÃO - ACESSÓRIO TCG POKEMON",
-    "normalized_title": "dados contadores de dano marcadores de acao habilidade e condicao acessorio tcg pokemon",
-    "published_at": "2026-10-22T22:01:34.579206+00:00",
-    "price": 15.12,
-    "discount_rate": 20,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/6VOqTjiZ4V"
-  },
-  {
-    "item_id": 58256475856,
-    "shop_id": 1730115687,
-    "title": "Álbum Pokémon Porta Cartas TCG 240 ou 400 Cartas Organizador para Cartas Yu-Gi-Oh MTG",
-    "normalized_title": "album pokemon porta cartas tcg 240 ou 400 cartas organizador para cartas yu gi oh mtg",
-    "published_at": "2026-10-22T22:15:54.963468+00:00",
-    "price": 34.99,
-    "discount_rate": 56,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/5LCt5an0RI"
-  },
-  {
-    "item_id": 58218840339,
-    "shop_id": 1916146761,
-    "title": "70 Cartas Pokémon tcg Com 10 Brilhantes E 1 Ultra Rara Copag",
-    "normalized_title": "70 cartas pokemon tcg com 10 brilhantes e 1 ultra rara copag",
-    "published_at": "2026-10-22T22:31:14.441994+00:00",
-    "price": 39.0,
-    "discount_rate": 0,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/5VWJHtmN6L"
-  },
-  {
     "item_id": 58218208105,
     "shop_id": 1561524075,
     "title": "Meowth 120/103 AR [M6a] 30th CELEBRATION Pokemon Card Game TCG [Genuine Japanese]",
@@ -537,5 +482,16 @@
     "discount_rate": 11,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/4qGgMeOBtK"
+  },
+  {
+    "item_id": 58205276525,
+    "shop_id": 1720086046,
+    "title": "Álbum Porta Cartas TCG 240 ou 400 Cartas para Cartas Pokémon Yu-Gi-Oh MTG Não Inclui Cartas",
+    "normalized_title": "album porta cartas tcg 240 ou 400 cartas para cartas pokemon yu gi oh mtg nao inclui cartas",
+    "published_at": "2026-10-25T22:31:16.332217+00:00",
+    "price": 34.99,
+    "discount_rate": 56,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/20wW2N1Nn8"
   }
 ]
