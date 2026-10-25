@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58267542317,
-    "shop_id": 1927383025,
-    "title": "Sleeve Transparente Shield Básico 63x88mm – 100 Unidades | Central Acessórios | Pokemon Magic Yu-Gi-Ho! One Piece TCG",
-    "normalized_title": "sleeve transparente shield basico 63x88mm 100 unidades central acessorios pokemon magic yu gi ho one piece tcg",
-    "published_at": "2026-10-22T20:31:27.294031+00:00",
-    "price": 13.5,
-    "discount_rate": 11,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/9Kj1qwXmJw"
-  },
-  {
     "item_id": 58208854626,
     "shop_id": 1549181086,
     "title": "Protetor de Carta Transparente Sleeve Central Shields Básico Tamanho 63mm x 88mm Padrão Pokemon Magic One Piece TCG",
@@ -537,5 +526,16 @@
     "discount_rate": 38,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/6q1lYqa8D2"
+  },
+  {
+    "item_id": 47814156489,
+    "shop_id": 332601056,
+    "title": "Booster Pokémon Original Mega evolução Escuridão Absoluta ME05 Cartas TCG Lacrado Copag",
+    "normalized_title": "booster pokemon original mega evolucao escuridao absoluta me05 cartas tcg lacrado copag",
+    "published_at": "2026-10-25T20:45:59.742251+00:00",
+    "price": 18.92,
+    "discount_rate": 24,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/6fiLMXalY1"
   }
 ]
