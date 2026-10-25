@@ -1,49 +1,5 @@
 [
   {
-    "item_id": 58254431532,
-    "shop_id": 1549181086,
-    "title": "Sleeve Central Shields Básico 63mm x 88mm 100 Protetor de Carta Transparente Tamanho Padrão Pokemon Magic TCG",
-    "normalized_title": "sleeve central shields basico 63mm x 88mm 100 protetor de carta transparente tamanho padrao pokemon magic tcg",
-    "published_at": "2026-10-21T18:15:57.913740+00:00",
-    "price": 16.9,
-    "discount_rate": 58,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/5LCpIivfTX"
-  },
-  {
-    "item_id": 58212745907,
-    "shop_id": 464326997,
-    "title": "BOX POKÉMON COLEÇÃO ILUSTRAÇÃO PARCEIRO INICIAL SÉRIE 2 COPAG MEGA EVOLUÇÃO CARTAS BOOSTERS 30 ANOS",
-    "normalized_title": "box pokemon colecao ilustracao parceiro inicial serie 2 copag mega evolucao cartas boosters 30 anos",
-    "published_at": "2026-10-21T19:45:57.620270+00:00",
-    "price": 199.99,
-    "discount_rate": 57,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/5q96xYoBcB"
-  },
-  {
-    "item_id": 22094058133,
-    "shop_id": 1455674925,
-    "title": "Porta Cartas Caixa Deck Box para Pokémon TCG - Vários personagens (200 cartas)",
-    "normalized_title": "porta cartas caixa deck box para pokemon tcg varios personagens 200 cartas",
-    "published_at": "2026-10-21T20:31:22.246180+00:00",
-    "price": 35.5,
-    "discount_rate": 22,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/80DaTclW4J"
-  },
-  {
-    "item_id": 53867976784,
-    "shop_id": 359241540,
-    "title": "Box Pokémon Mega Forças Ex Zeraora Dragonite Darkrai Copag Coleção TCG Cartas Booster",
-    "normalized_title": "box pokemon mega forcas ex zeraora dragonite darkrai copag colecao tcg cartas booster",
-    "published_at": "2026-10-21T21:01:36.476702+00:00",
-    "price": 165.98,
-    "discount_rate": 13,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/7puBLEgZYV"
-  },
-  {
     "item_id": 28743217032,
     "shop_id": 445721324,
     "title": "Blister Unitário Pokémon Pacote Individual Cartas Oficiais TCG Coleções Megaevolução Copag",
@@ -449,5 +405,16 @@
     "discount_rate": 16,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/9Kj3ufKB1b"
+  },
+  {
+    "item_id": 53867976784,
+    "shop_id": 359241540,
+    "title": "Box Pokémon Mega Forças Ex Zeraora Dragonite Darkrai Copag Coleção TCG Cartas Booster",
+    "normalized_title": "box pokemon mega forcas ex zeraora dragonite darkrai copag colecao tcg cartas booster",
+    "published_at": "2026-10-25T00:01:38.554533+00:00",
+    "price": 165.98,
+    "discount_rate": 13,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/AKba0Xbuf6"
   }
 ]
