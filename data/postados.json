@@ -1,27 +1,5 @@
 [
   {
-    "item_id": 58267082891,
-    "shop_id": 1209756667,
-    "title": "Porta Cartas Pokemon Magic TCG Caixa Organizadora MDF 8 Divisórias para Cards e Colecionáveis",
-    "normalized_title": "porta cartas pokemon magic tcg caixa organizadora mdf 8 divisorias para cards e colecionaveis",
-    "published_at": "2026-10-22T21:01:35.852203+00:00",
-    "price": 28.9,
-    "discount_rate": 28,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/9pfIRrVsJ5"
-  },
-  {
-    "item_id": 58267787476,
-    "shop_id": 1679540190,
-    "title": "Fichário Álbum Pokémon Tcg 900 Cartas Zíper Chega Hoje Rápido",
-    "normalized_title": "fichario album pokemon tcg 900 cartas ziper chega hoje rapido",
-    "published_at": "2026-10-22T21:15:51.187605+00:00",
-    "price": 179.99,
-    "discount_rate": 40,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/60SZsokT5M"
-  },
-  {
     "item_id": 19278035622,
     "shop_id": 565538714,
     "title": "50 Cartas Pokémon + 10 Brilhantes - Pokémon TCG COPAG ORIGINAIS SEM REPETIÇÃO",
@@ -537,5 +515,16 @@
     "discount_rate": 56,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/7AebxSYrX8"
+  },
+  {
+    "item_id": 58260598751,
+    "shop_id": 450761307,
+    "title": "Pokémon Box 36 Boosters Caos Ascendente - Greninja- Copag",
+    "normalized_title": "pokemon box 36 boosters caos ascendente greninja copag",
+    "published_at": "2026-10-25T21:15:53.250120+00:00",
+    "price": 429.9,
+    "discount_rate": 0,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/5q9Dcc0V2g"
   }
 ]
