@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "offer": {
+      "item_id": 58258990463,
+      "shop_id": 479251059,
+      "title": "Protetor de Cartas Sleeve Central Shield 63 x 88mm Padrão Básico Transparente Pokémon Magic TCG",
+      "price": 16.68,
+      "rating": 5.0,
+      "sales": 1053,
+      "shop_type": [
+        2
+      ],
+      "image_url": "https://cf.shopee.com.br/file/sg-11134201-81zvs-mn4ly6cgem8823",
+      "product_link": "https://shopee.com.br/product/479251059/58258990463",
+      "offer_link": "https://s.shopee.com.br/20wUzRYydX",
+      "discount_rate": 33
+    },
+    "keyword": "Pokemon TCG",
+    "queued_at": "2026-10-26T20:01:32.343788+00:00"
+  }
+]

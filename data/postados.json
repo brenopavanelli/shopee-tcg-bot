@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58258990463,
-    "shop_id": 479251059,
-    "title": "Protetor de Cartas Sleeve Central Shield 63 x 88mm Padrão Básico Transparente Pokémon Magic TCG",
-    "normalized_title": "protetor de cartas sleeve central shield 63 x 88mm padrao basico transparente pokemon magic tcg",
-    "published_at": "2026-10-23T20:01:29.587334+00:00",
-    "price": 16.68,
-    "discount_rate": 33,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/4B0uXLkGtL"
-  },
-  {
     "item_id": 58254862841,
     "shop_id": 1720086046,
     "title": "Álbum para Cards Pokémon TCG 240 Cartas Coleção Segura com Capas Sortidas",
@@ -405,5 +394,16 @@
     "discount_rate": 58,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/7puJpbS26K"
+  },
+  {
+    "item_id": 23095035076,
+    "shop_id": 450761307,
+    "title": "Pokémon Booster Box Caixa Lacrada Escuridão Absoluta Copag",
+    "normalized_title": "pokemon booster box caixa lacrada escuridao absoluta copag",
+    "published_at": "2026-10-26T20:01:32.956179+00:00",
+    "price": 439.9,
+    "discount_rate": 0,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/6VOwF9X6oC"
   }
 ]
