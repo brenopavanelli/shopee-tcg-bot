@@ -1,27 +1,5 @@
 [
   {
-    "item_id": 45055621702,
-    "shop_id": 223145265,
-    "title": "Kit de Cartas Pokémon TCG Originais com BRILHANTES COPAG Foil, Reverse Foil, Holografica, Brilhante",
-    "normalized_title": "kit de cartas pokemon tcg originais com brilhantes copag foil reverse foil holografica brilhante",
-    "published_at": "2026-10-23T11:01:36.771900+00:00",
-    "price": 17.9,
-    "discount_rate": 50,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/30ox9CoiGC"
-  },
-  {
-    "item_id": 58210763106,
-    "shop_id": 464326997,
-    "title": "BOX COLEÇÃO TREINADOR AVANÇADO ETB MEGA GRENINJA EX CAOS ASCENDENTE ME04 POKÉMON TCG BOOSTERS CARTAS",
-    "normalized_title": "box colecao treinador avancado etb mega greninja ex caos ascendente me04 pokemon tcg boosters cartas",
-    "published_at": "2026-10-23T11:15:53.941065+00:00",
-    "price": 399.99,
-    "discount_rate": 50,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/8pmmDmhchj"
-  },
-  {
     "item_id": 23699466714,
     "shop_id": 464326997,
     "title": "BOX POKÉMON COLEÇÃO MEGA LUAR GENGAR CLEFABLE EX COPAG CAOS ASCENDENTE EVOLUÇÃO TCG CARTAS BOOSTERS",
@@ -438,5 +416,16 @@
     "discount_rate": 40,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/4LKPljQ5uH"
+  },
+  {
+    "item_id": 45055621702,
+    "shop_id": 223145265,
+    "title": "Kit de Cartas Pokémon TCG Originais com BRILHANTES COPAG Foil, Reverse Foil, Holografica, Brilhante",
+    "normalized_title": "kit de cartas pokemon tcg originais com brilhantes copag foil reverse foil holografica brilhante",
+    "published_at": "2026-10-26T11:15:56.521261+00:00",
+    "price": 17.9,
+    "discount_rate": 50,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/1LgoCDbVzT"
   }
 ]
