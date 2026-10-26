@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58254862841,
-    "shop_id": 1720086046,
-    "title": "Álbum para Cards Pokémon TCG 240 Cartas Coleção Segura com Capas Sortidas",
-    "normalized_title": "album para cards pokemon tcg 240 cartas colecao segura com capas sortidas",
-    "published_at": "2026-10-23T20:15:54.989510+00:00",
-    "price": 34.99,
-    "discount_rate": 56,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/2qVWwtpLbD"
-  },
-  {
     "item_id": 58207582082,
     "shop_id": 464326997,
     "title": "BOOSTER BOX MEGAEVOLUÇÃO EQUILÍBRIO PERFEITO ME3 COPAG POKÉMON TCG CARTA DISPLAY MEGA ZYGARDE EX",
@@ -416,5 +405,16 @@
     "discount_rate": 33,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/20wUzRYydX"
+  },
+  {
+    "item_id": 58254862841,
+    "shop_id": 1720086046,
+    "title": "Álbum para Cards Pokémon TCG 240 Cartas Coleção Segura com Capas Sortidas",
+    "normalized_title": "album para cards pokemon tcg 240 cartas colecao segura com capas sortidas",
+    "published_at": "2026-10-26T20:45:56.919715+00:00",
+    "price": 34.99,
+    "discount_rate": 56,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/gR7Oze3LP"
   }
 ]
