@@ -1,71 +1,5 @@
 [
   {
-    "item_id": 58218208105,
-    "shop_id": 1561524075,
-    "title": "Meowth 120/103 AR [M6a] 30th CELEBRATION Pokemon Card Game TCG [Genuine Japanese]",
-    "normalized_title": "meowth 120 103 ar m6a 30th celebration pokemon card game tcg genuine japanese",
-    "published_at": "2026-10-22T22:45:53.169838+00:00",
-    "price": 31.76,
-    "discount_rate": 0,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/5fpjUCljlO"
-  },
-  {
-    "item_id": 9766993322,
-    "shop_id": 464326997,
-    "title": "Protetor de Cartas Sleeve Central 63x88mm Padrão Básico Transparente Pokémon Magic Shield Games TCG",
-    "normalized_title": "protetor de cartas sleeve central 63x88mm padrao basico transparente pokemon magic shield games tcg",
-    "published_at": "2026-10-22T23:01:30.298100+00:00",
-    "price": 18.99,
-    "discount_rate": 34,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/5q99gVl6QR"
-  },
-  {
-    "item_id": 58218211602,
-    "shop_id": 1561524075,
-    "title": "Sylveon ex 059/103 RR [M6a] 30th CELEBRATION Pokemon Card Game TCG [Genuine Japanese]",
-    "normalized_title": "sylveon ex 059 103 rr m6a 30th celebration pokemon card game tcg genuine japanese",
-    "published_at": "2026-10-22T23:15:56.625813+00:00",
-    "price": 14.66,
-    "discount_rate": 0,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/7KxxTGfONk"
-  },
-  {
-    "item_id": 29285491690,
-    "shop_id": 1495203153,
-    "title": "[Pokémon] Card Battle Partners Scarlet & Violet Booster 1 Caixa/Versão Coreana Selada ./30 Pacotes De Reforço",
-    "normalized_title": "pokemon card battle partners scarlet violet booster 1 caixa versao coreana selada 30 pacotes de reforco",
-    "published_at": "2026-10-23T00:01:34.204476+00:00",
-    "price": 265.0,
-    "discount_rate": 41,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/5q99uwbXyJ"
-  },
-  {
-    "item_id": 58267496047,
-    "shop_id": 502301086,
-    "title": "Box Em Acrílico Para Mini Booster Box 18 Pacotes Pokémon BR (8,1x13x6,1cm) - PKB-01A",
-    "normalized_title": "box em acrilico para mini booster box 18 pacotes pokemon br 8 1x13x6 1cm pkb 01a",
-    "published_at": "2026-10-23T00:15:51.664125+00:00",
-    "price": 48.9,
-    "discount_rate": 0,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/7VHNu0VCaf"
-  },
-  {
-    "item_id": 22095225243,
-    "shop_id": 1907548914,
-    "title": "Deck Box TCG - POKEMON MODELO POKEBOLA 400 CARTAS COM SLEEVES booster setup gamer",
-    "normalized_title": "deck box tcg pokemon modelo pokebola 400 cartas com sleeves booster setup gamer",
-    "published_at": "2026-10-23T03:15:54.335973+00:00",
-    "price": 24.99,
-    "discount_rate": 38,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/4LKKjefAah"
-  },
-  {
     "item_id": 58267314384,
     "shop_id": 1643050727,
     "title": "Protetor de Cartas Sleeve Shield Central - Pokémon Magic Photocard TCG - Transparente 63mm x 88mm",
@@ -493,5 +427,16 @@
     "discount_rate": 56,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/20wW2N1Nn8"
+  },
+  {
+    "item_id": 22095225243,
+    "shop_id": 1907548914,
+    "title": "Deck Box TCG - POKEMON MODELO POKEBOLA 400 CARTAS COM SLEEVES booster setup gamer",
+    "normalized_title": "deck box tcg pokemon modelo pokebola 400 cartas com sleeves booster setup gamer",
+    "published_at": "2026-10-26T03:15:56.582240+00:00",
+    "price": 24.99,
+    "discount_rate": 38,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/AUv0CqbHK9"
   }
 ]
