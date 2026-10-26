@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 23095035076,
-    "shop_id": 450761307,
-    "title": "Pokémon Booster Box Caixa Lacrada Escuridão Absoluta Copag",
-    "normalized_title": "pokemon booster box caixa lacrada escuridao absoluta copag",
-    "published_at": "2026-10-23T19:45:51.971700+00:00",
-    "price": 439.9,
-    "discount_rate": 0,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/AAI9oEcY07"
-  },
-  {
     "item_id": 58258990463,
     "shop_id": 479251059,
     "title": "Protetor de Cartas Sleeve Central Shield 63 x 88mm Padrão Básico Transparente Pokémon Magic TCG",
@@ -405,5 +394,16 @@
     "discount_rate": 45,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/1BQblgahL"
+  },
+  {
+    "item_id": 45563969587,
+    "shop_id": 464326997,
+    "title": "BOOSTER BOX MEGAEVOLUÇÃO ESCURIDÃO ABSOLUTA ME05 COPAG POKÉMON TCG CARTAS DISPLAY MEGA DARKRAI EX",
+    "normalized_title": "booster box megaevolucao escuridao absoluta me05 copag pokemon tcg cartas display mega darkrai ex",
+    "published_at": "2026-10-26T19:45:52.458734+00:00",
+    "price": 439.99,
+    "discount_rate": 58,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/7puJpbS26K"
   }
 ]
