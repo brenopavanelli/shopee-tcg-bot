@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 23798217575,
-    "shop_id": 256080800,
-    "title": "Sleeve Central Shield 63 x 88mm Padrão Básico Protetor de Cartas Transparente Pokémon Magic TCG - ED",
-    "normalized_title": "sleeve central shield 63 x 88mm padrao basico protetor de cartas transparente pokemon magic tcg ed",
-    "published_at": "2026-10-24T15:31:14.001520+00:00",
-    "price": 16.99,
-    "discount_rate": 16,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/9Kj3ufKB1b"
-  },
-  {
     "item_id": 53867976784,
     "shop_id": 359241540,
     "title": "Box Pokémon Mega Forças Ex Zeraora Dragonite Darkrai Copag Coleção TCG Cartas Booster",
@@ -460,5 +449,16 @@
     "discount_rate": 22,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/4fxJuAquni"
+  },
+  {
+    "item_id": 23595170723,
+    "shop_id": 1927383025,
+    "title": "Toploader Rígido Cristal para TCG Pokemon Magic Yu-Gi-Ho! One Piece – 5/10/15/25 Unidades | 63mmx88mm | BRA | Top Loader",
+    "normalized_title": "toploader rigido cristal para tcg pokemon magic yu gi ho one piece 5 10 15 25 unidades 63mmx88mm bra top loader",
+    "published_at": "2026-10-27T15:31:20.536520+00:00",
+    "price": 14.75,
+    "discount_rate": 29,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/4qGk6TqHSl"
   }
 ]
