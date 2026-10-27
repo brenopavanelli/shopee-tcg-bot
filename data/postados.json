@@ -1,27 +1,5 @@
 [
   {
-    "item_id": 58259311650,
-    "shop_id": 1674805831,
-    "title": "Álbum Pokémon TCG 240 Cartas – Pikachu Eevee Charizard – Pasta Premium Pronta Entrega Brasil",
-    "normalized_title": "album pokemon tcg 240 cartas pikachu eevee charizard pasta premium pronta entrega brasil",
-    "published_at": "2026-10-24T03:31:15.686317+00:00",
-    "price": 32.9,
-    "discount_rate": 53,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/80DgKDPFjD"
-  },
-  {
-    "item_id": 58205056904,
-    "shop_id": 1679540190,
-    "title": "Álbum Pokémon TCG 240/400/540 Cartas Pikachu Eevee Charizard Pasta Premium Pronta Entrega Brasil",
-    "normalized_title": "album pokemon tcg 240 400 540 cartas pikachu eevee charizard pasta premium pronta entrega brasil",
-    "published_at": "2026-10-24T03:45:50.511715+00:00",
-    "price": 39.0,
-    "discount_rate": 50,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/qkVn2qXH1"
-  },
-  {
     "item_id": 58257797685,
     "shop_id": 464326997,
     "title": "BOX COLEÇÃO TREINADOR AVANÇADO ETB MEGA ZYGARDE EX EQUILÍBRIO PERFEITO ME3 POKÉMON TCG BOOSTER CARTA",
@@ -416,5 +394,16 @@
     "discount_rate": 54,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/LoH0NfK1N"
+  },
+  {
+    "item_id": 58259311650,
+    "shop_id": 1674805831,
+    "title": "Álbum Pokémon TCG 240 Cartas – Pikachu Eevee Charizard – Pasta Premium Pronta Entrega Brasil",
+    "normalized_title": "album pokemon tcg 240 cartas pikachu eevee charizard pasta premium pronta entrega brasil",
+    "published_at": "2026-10-27T03:45:52.021694+00:00",
+    "price": 32.99,
+    "discount_rate": 53,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/qkXbIdQ0Q"
   }
 ]
