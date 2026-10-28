@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 22099407991,
-    "shop_id": 502301086,
-    "title": "Box Em Acrílico Para Elite Trainer Box ETB Pokémon US (19,5x9,5x17,6) - PKB-ETB-US",
-    "normalized_title": "box em acrilico para elite trainer box etb pokemon us 19 5x9 5x17 6 pkb etb us",
-    "published_at": "2026-10-25T11:31:10.406476+00:00",
-    "price": 89.5,
-    "discount_rate": 0,
-    "keyword": "Pokemon Elite Trainer Box",
-    "offer_link": "https://s.shopee.com.br/8V9yjOAACO"
-  },
-  {
     "item_id": 28635139159,
     "shop_id": 1495203153,
     "title": "[Pokémon] Cartão \" Super Electric Breaker \" sv8 Booster Box (30 Pacotes) Caixa Selada Versão Coreana",
@@ -471,5 +460,16 @@
     "discount_rate": 0,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/7AefvcKYJG"
+  },
+  {
+    "item_id": 22099407991,
+    "shop_id": 502301086,
+    "title": "Box Em Acrílico Para Elite Trainer Box ETB Pokémon US (19,5x9,5x17,6) - PKB-ETB-US",
+    "normalized_title": "box em acrilico para elite trainer box etb pokemon us 19 5x9 5x17 6 pkb etb us",
+    "published_at": "2026-10-28T11:31:44.949917+00:00",
+    "price": 89.5,
+    "discount_rate": 0,
+    "keyword": "Pokemon Elite Trainer Box",
+    "offer_link": "https://s.shopee.com.br/6q1pY4qdGP"
   }
 ]
