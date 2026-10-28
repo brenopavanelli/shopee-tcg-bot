@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 22094058133,
-    "shop_id": 1455674925,
-    "title": "Porta Cartas Caixa Deck Box para Pokémon TCG - Vários personagens (200 cartas)",
-    "normalized_title": "porta cartas caixa deck box para pokemon tcg varios personagens 200 cartas",
-    "published_at": "2026-10-25T07:15:51.556981+00:00",
-    "price": 35.5,
-    "discount_rate": 22,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/5AtWlGMvDM"
-  },
-  {
     "item_id": 28743217032,
     "shop_id": 445721324,
     "title": "Blister Unitário Pokémon Pacote Individual Cartas Oficiais TCG Coleções Megaevolução Copag",
@@ -471,5 +460,16 @@
     "discount_rate": 50,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/AUv7tk7rXi"
+  },
+  {
+    "item_id": 22094058133,
+    "shop_id": 1455674925,
+    "title": "Porta Cartas Caixa Deck Box para Pokémon TCG - Vários personagens (200 cartas)",
+    "normalized_title": "porta cartas caixa deck box para pokemon tcg varios personagens 200 cartas",
+    "published_at": "2026-10-28T07:15:55.401913+00:00",
+    "price": 35.5,
+    "discount_rate": 22,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/9APkJICwFa"
   }
 ]
