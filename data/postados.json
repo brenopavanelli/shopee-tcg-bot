@@ -1,27 +1,5 @@
 [
   {
-    "item_id": 58256232047,
-    "shop_id": 1679540190,
-    "title": "Álbum Fichário Pokémon Capa Dura Zíper 400 Cartas + 50 Folhas Porta Cards TCG Pronta Entrega",
-    "normalized_title": "album fichario pokemon capa dura ziper 400 cartas 50 folhas porta cards tcg pronta entrega",
-    "published_at": "2026-10-26T19:31:21.016677+00:00",
-    "price": 35.99,
-    "discount_rate": 45,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/1BQblgahL"
-  },
-  {
-    "item_id": 45563969587,
-    "shop_id": 464326997,
-    "title": "BOOSTER BOX MEGAEVOLUÇÃO ESCURIDÃO ABSOLUTA ME05 COPAG POKÉMON TCG CARTAS DISPLAY MEGA DARKRAI EX",
-    "normalized_title": "booster box megaevolucao escuridao absoluta me05 copag pokemon tcg cartas display mega darkrai ex",
-    "published_at": "2026-10-26T19:45:52.458734+00:00",
-    "price": 439.99,
-    "discount_rate": 58,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/7puJpbS26K"
-  },
-  {
     "item_id": 23095035076,
     "shop_id": 450761307,
     "title": "Pokémon Booster Box Caixa Lacrada Escuridão Absoluta Copag",
@@ -361,5 +339,16 @@
     "discount_rate": 56,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/W7oKeawQu"
+  },
+  {
+    "item_id": 58256232047,
+    "shop_id": 1679540190,
+    "title": "Álbum Fichário Pokémon Capa Dura Zíper 400 Cartas + 50 Folhas Porta Cards TCG Pronta Entrega",
+    "normalized_title": "album fichario pokemon capa dura ziper 400 cartas 50 folhas porta cards tcg pronta entrega",
+    "published_at": "2026-10-29T19:45:56.397092+00:00",
+    "price": 35.99,
+    "discount_rate": 45,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/5VWTJ1aUJq"
   }
 ]
