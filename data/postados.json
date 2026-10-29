@@ -1,49 +1,5 @@
 [
   {
-    "item_id": 58260598751,
-    "shop_id": 450761307,
-    "title": "Pokémon Box 36 Boosters Caos Ascendente - Greninja- Copag",
-    "normalized_title": "pokemon box 36 boosters caos ascendente greninja copag",
-    "published_at": "2026-10-25T21:15:53.250120+00:00",
-    "price": 429.9,
-    "discount_rate": 0,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/5q9Dcc0V2g"
-  },
-  {
-    "item_id": 58267542317,
-    "shop_id": 1927383025,
-    "title": "Sleeve Transparente Shield Básico 63x88mm – 100 Unidades | Central Acessórios | Pokemon Magic Yu-Gi-Ho! One Piece TCG",
-    "normalized_title": "sleeve transparente shield basico 63x88mm 100 unidades central acessorios pokemon magic yu gi ho one piece tcg",
-    "published_at": "2026-10-25T21:31:14.032783+00:00",
-    "price": 13.5,
-    "discount_rate": 11,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/4qGgMeOBtK"
-  },
-  {
-    "item_id": 58205276525,
-    "shop_id": 1720086046,
-    "title": "Álbum Porta Cartas TCG 240 ou 400 Cartas para Cartas Pokémon Yu-Gi-Oh MTG Não Inclui Cartas",
-    "normalized_title": "album porta cartas tcg 240 ou 400 cartas para cartas pokemon yu gi oh mtg nao inclui cartas",
-    "published_at": "2026-10-25T22:31:16.332217+00:00",
-    "price": 34.99,
-    "discount_rate": 56,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/20wW2N1Nn8"
-  },
-  {
-    "item_id": 22095225243,
-    "shop_id": 1907548914,
-    "title": "Deck Box TCG - POKEMON MODELO POKEBOLA 400 CARTAS COM SLEEVES booster setup gamer",
-    "normalized_title": "deck box tcg pokemon modelo pokebola 400 cartas com sleeves booster setup gamer",
-    "published_at": "2026-10-26T03:15:56.582240+00:00",
-    "price": 24.99,
-    "discount_rate": 38,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/AUv0CqbHK9"
-  },
-  {
     "item_id": 58267314384,
     "shop_id": 1643050727,
     "title": "Protetor de Cartas Sleeve Shield Central - Pokémon Magic Photocard TCG - Transparente 63mm x 88mm",
@@ -372,5 +328,16 @@
     "discount_rate": 0,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/4B15Irh67O"
+  },
+  {
+    "item_id": 58267542317,
+    "shop_id": 1927383025,
+    "title": "Sleeve Transparente Shield Básico 63x88mm – 100 Unidades | Central Acessórios | Pokemon Magic Yu-Gi-Ho! One Piece TCG",
+    "normalized_title": "sleeve transparente shield basico 63x88mm 100 unidades central acessorios pokemon magic yu gi ho one piece tcg",
+    "published_at": "2026-10-29T03:15:56.967868+00:00",
+    "price": 13.5,
+    "discount_rate": 11,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/6AmA6FXwxu"
   }
 ]
