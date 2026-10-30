@@ -1,82 +1,5 @@
 [
   {
-    "item_id": 58257797685,
-    "shop_id": 464326997,
-    "title": "BOX COLEÇÃO TREINADOR AVANÇADO ETB MEGA ZYGARDE EX EQUILÍBRIO PERFEITO ME3 POKÉMON TCG BOOSTER CARTA",
-    "normalized_title": "box colecao treinador avancado etb mega zygarde ex equilibrio perfeito me3 pokemon tcg booster carta",
-    "published_at": "2026-10-27T11:31:18.944537+00:00",
-    "price": 389.99,
-    "discount_rate": 51,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/2qVfUMPJb0"
-  },
-  {
-    "item_id": 22794443745,
-    "shop_id": 464326997,
-    "title": "BLISTER QUÁDRUPLO MEGA EVOLUÇÃO ME01 COPAG POKÉMON TCG BOOSTER CARTAS LUCARIO GARDEVOIR EX QUAD PACK",
-    "normalized_title": "blister quadruplo mega evolucao me01 copag pokemon tcg booster cartas lucario gardevoir ex quad pack",
-    "published_at": "2026-10-27T14:31:22.600261+00:00",
-    "price": 56.99,
-    "discount_rate": 51,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/30p5t25Eaq"
-  },
-  {
-    "item_id": 40880601200,
-    "shop_id": 1651121464,
-    "title": "Álbum de Cartas TCG – Para Pokémon, Magic e Outros Jogos, Protege e Organiza, 240/540 Cartas",
-    "normalized_title": "album de cartas tcg para pokemon magic e outros jogos protege e organiza 240 540 cartas",
-    "published_at": "2026-10-27T14:45:57.440914+00:00",
-    "price": 35.9,
-    "discount_rate": 28,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/2gCFUQ6VGo"
-  },
-  {
-    "item_id": 58269097844,
-    "shop_id": 454657733,
-    "title": "Box Coleção com Pôster Celabração 30 Anos - Pokémon TCG",
-    "normalized_title": "box colecao com poster celabracao 30 anos pokemon tcg",
-    "published_at": "2026-10-27T15:01:40.256790+00:00",
-    "price": 169.9,
-    "discount_rate": 0,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/2qVfinxtWJ"
-  },
-  {
-    "item_id": 58262936496,
-    "shop_id": 346314669,
-    "title": "Sleeve Transparante Bra Para Cards Tcg Pokemon, Magic, One Piece e outros",
-    "normalized_title": "sleeve transparante bra para cards tcg pokemon magic one piece e outros",
-    "published_at": "2026-10-27T15:15:58.931646+00:00",
-    "price": 19.59,
-    "discount_rate": 22,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/4fxJuAquni"
-  },
-  {
-    "item_id": 23595170723,
-    "shop_id": 1927383025,
-    "title": "Toploader Rígido Cristal para TCG Pokemon Magic Yu-Gi-Ho! One Piece – 5/10/15/25 Unidades | 63mmx88mm | BRA | Top Loader",
-    "normalized_title": "toploader rigido cristal para tcg pokemon magic yu gi ho one piece 5 10 15 25 unidades 63mmx88mm bra top loader",
-    "published_at": "2026-10-27T15:31:20.536520+00:00",
-    "price": 14.75,
-    "discount_rate": 29,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/4qGk6TqHSl"
-  },
-  {
-    "item_id": 23798217575,
-    "shop_id": 256080800,
-    "title": "Sleeve Central Shield 63 x 88mm Padrão Básico Protetor de Cartas Transparente Pokémon Magic TCG - ED",
-    "normalized_title": "sleeve central shield 63 x 88mm padrao basico protetor de cartas transparente pokemon magic tcg ed",
-    "published_at": "2026-10-27T15:46:00.061760+00:00",
-    "price": 16.99,
-    "discount_rate": 5,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/4Vdpy2PSZI"
-  },
-  {
     "item_id": 53867976784,
     "shop_id": 359241540,
     "title": "Box Pokémon Mega Forças Ex Zeraora Dragonite Darkrai Copag Coleção TCG Cartas Booster",
@@ -372,5 +295,16 @@
     "discount_rate": 50,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/8pmxQ3UKI3"
+  },
+  {
+    "item_id": 23798217575,
+    "shop_id": 256080800,
+    "title": "Sleeve Central Shield 63 x 88mm Padrão Básico Protetor de Cartas Transparente Pokémon Magic TCG - ED",
+    "normalized_title": "sleeve central shield 63 x 88mm padrao basico protetor de cartas transparente pokemon magic tcg ed",
+    "published_at": "2026-10-30T16:01:31.082336+00:00",
+    "price": 16.99,
+    "discount_rate": 5,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/5fptVKZqyr"
   }
 ]
