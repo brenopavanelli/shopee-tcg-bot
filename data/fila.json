@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "offer": {
+      "item_id": 58212745907,
+      "shop_id": 464326997,
+      "title": "BOX POKÉMON COLEÇÃO ILUSTRAÇÃO PARCEIRO INICIAL SÉRIE 2 COPAG MEGA EVOLUÇÃO CARTAS BOOSTERS 30 ANOS",
+      "price": 179.99,
+      "rating": 4.9,
+      "sales": 14,
+      "shop_type": [
+        1
+      ],
+      "image_url": "https://cf.shopee.com.br/file/sg-11134201-824ga-mplsbwm7gidda7",
+      "product_link": "https://shopee.com.br/product/464326997/58212745907",
+      "offer_link": "https://s.shopee.com.br/5q9LqXfkNd",
+      "discount_rate": 62
+    },
+    "keyword": "Pokemon booster box",
+    "queued_at": "2026-10-31T03:45:46.871163+00:00"
+  }
+]
