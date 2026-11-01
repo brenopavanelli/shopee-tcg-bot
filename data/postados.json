@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 45055621702,
-    "shop_id": 223145265,
-    "title": "Kit de Cartas Pokémon TCG Originais com BRILHANTES COPAG Foil, Reverse Foil, Holografica, Brilhante",
-    "normalized_title": "kit de cartas pokemon tcg originais com brilhantes copag foil reverse foil holografica brilhante",
-    "published_at": "2026-10-29T11:31:17.571764+00:00",
-    "price": 29.9,
-    "discount_rate": 40,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/AAIIrbIiqY"
-  },
-  {
     "item_id": 58205276525,
     "shop_id": 1720086046,
     "title": "Álbum Porta Cartas TCG 240 ou 400 Cartas para Cartas Pokémon Yu-Gi-Oh MTG Não Inclui Cartas",
@@ -361,5 +350,16 @@
     "discount_rate": 40,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/7Aem6oNkiD"
+  },
+  {
+    "item_id": 45055621702,
+    "shop_id": 223145265,
+    "title": "Kit de Cartas Pokémon TCG Originais com BRILHANTES COPAG Foil, Reverse Foil, Holografica, Brilhante",
+    "normalized_title": "kit de cartas pokemon tcg originais com brilhantes copag foil reverse foil holografica brilhante",
+    "published_at": "2026-11-01T11:45:48.568715+00:00",
+    "price": 17.9,
+    "discount_rate": 50,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/9KjGgnFVJO"
   }
 ]
