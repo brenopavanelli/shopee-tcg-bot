@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58267314384,
-    "shop_id": 1643050727,
-    "title": "Protetor de Cartas Sleeve Shield Central - Pokémon Magic Photocard TCG - Transparente 63mm x 88mm",
-    "normalized_title": "protetor de cartas sleeve shield central pokemon magic photocard tcg transparente 63mm x 88mm",
-    "published_at": "2026-10-29T04:15:54.262022+00:00",
-    "price": 14.99,
-    "discount_rate": 64,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/80DoHcQyF5"
-  },
-  {
     "item_id": 22299486739,
     "shop_id": 332601056,
     "title": "Sleeve Central Shield Matte Standard 100 un - Magic Pokémon Photocard Kpop TCG - Protetor de Cartas",
@@ -361,5 +350,16 @@
     "discount_rate": 11,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/80Dt6LKa1G"
+  },
+  {
+    "item_id": 58267314384,
+    "shop_id": 1643050727,
+    "title": "Protetor de Cartas Sleeve Shield Central - Pokémon Magic Photocard TCG - Transparente 63mm x 88mm",
+    "normalized_title": "protetor de cartas sleeve shield central pokemon magic photocard tcg transparente 63mm x 88mm",
+    "published_at": "2026-11-01T04:31:06.787295+00:00",
+    "price": 20.0,
+    "discount_rate": 50,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/AAINgKCKcV"
   }
 ]
