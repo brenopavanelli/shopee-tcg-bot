@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58218860308,
-    "shop_id": 1061459383,
-    "title": "Box Combo De Booster Heróis Excelsos, Evoluções Prismáticas, Megaevolução e Escuridão Absoluta, Caos  108 Cartas Pokémon",
-    "normalized_title": "box combo de booster herois excelsos evolucoes prismaticas megaevolucao e escuridao absoluta caos 108 cartas pokemon",
-    "published_at": "2026-10-30T19:31:13.627031+00:00",
-    "price": 259.0,
-    "discount_rate": 0,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/40hhfAmj6P"
-  },
-  {
     "item_id": 58267082891,
     "shop_id": 1209756667,
     "title": "Porta Cartas Pokemon Magic TCG Caixa Organizadora MDF 8 Divisórias para Cards e Colecionáveis",
@@ -383,5 +372,16 @@
     "discount_rate": 0,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/7puSu2LDMH"
+  },
+  {
+    "item_id": 58218860308,
+    "shop_id": 1061459383,
+    "title": "Box Combo De Booster Heróis Excelsos, Evoluções Prismáticas, Megaevolução e Escuridão Absoluta, Caos  108 Cartas Pokémon",
+    "normalized_title": "box combo de booster herois excelsos evolucoes prismaticas megaevolucao e escuridao absoluta caos 108 cartas pokemon",
+    "published_at": "2026-11-02T19:31:18.217736+00:00",
+    "price": 259.0,
+    "discount_rate": 0,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/1Lh0grZ0t9"
   }
 ]
