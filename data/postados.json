@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58215951285,
-    "shop_id": 1704759227,
-    "title": "Álbum Pokémon Pikachu 240 Cartas Porta Cards TCG Pasta Colecionador Presente para Fãs Vários Modelos",
-    "normalized_title": "album pokemon pikachu 240 cartas porta cards tcg pasta colecionador presente para fas varios modelos",
-    "published_at": "2026-10-30T10:31:14.260149+00:00",
-    "price": 34.99,
-    "discount_rate": 50,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/8AXETvQKu6"
-  },
-  {
     "item_id": 58210763106,
     "shop_id": 464326997,
     "title": "BOX COLEÇÃO TREINADOR AVANÇADO ETB MEGA GRENINJA EX CAOS ASCENDENTE ME04 POKÉMON TCG BOOSTERS CARTAS",
@@ -372,5 +361,16 @@
     "discount_rate": 50,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/7VHcVQMU2F"
+  },
+  {
+    "item_id": 58215951285,
+    "shop_id": 1704759227,
+    "title": "Álbum Pokémon Pikachu 240 Cartas Porta Cards TCG Pasta Colecionador Presente para Fãs Vários Modelos",
+    "normalized_title": "album pokemon pikachu 240 cartas porta cards tcg pasta colecionador presente para fas varios modelos",
+    "published_at": "2026-11-02T10:31:21.910526+00:00",
+    "price": 34.99,
+    "discount_rate": 50,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/9zyxU1CxxS"
   }
 ]
