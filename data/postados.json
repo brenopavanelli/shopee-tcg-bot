@@ -1,27 +1,5 @@
 [
   {
-    "item_id": 58210766113,
-    "shop_id": 464326997,
-    "title": "BOOSTER BOX MEGAEVOLUÇÃO CAOS ASCENDENTE ME04 COPAG POKÉMON TCG CARTAS CARD DISPLAY MEGA GRENINJA EX",
-    "normalized_title": "booster box megaevolucao caos ascendente me04 copag pokemon tcg cartas card display mega greninja ex",
-    "published_at": "2026-10-31T16:01:23.645793+00:00",
-    "price": 439.99,
-    "discount_rate": 58,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/6AmE8b74pB"
-  },
-  {
-    "item_id": 58219740012,
-    "shop_id": 1182269567,
-    "title": "Box Coleção Com Fichário Pokémon Celebração 30 Anos - 5 Boosters +  Álbum - Português Original",
-    "normalized_title": "box colecao com fichario pokemon celebracao 30 anos 5 boosters album portugues original",
-    "published_at": "2026-10-31T19:45:49.877860+00:00",
-    "price": 419.9,
-    "discount_rate": 0,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/4B19RJQOG2"
-  },
-  {
     "item_id": 22095225243,
     "shop_id": 1907548914,
     "title": "Deck Box TCG - POKEMON MODELO POKEBOLA 400 CARTAS COM SLEEVES booster setup gamer",
@@ -339,5 +317,16 @@
     "discount_rate": 26,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/BV4eDKy1R"
+  },
+  {
+    "item_id": 58219740012,
+    "shop_id": 1182269567,
+    "title": "Box Coleção Com Fichário Pokémon Celebração 30 Anos - 5 Boosters +  Álbum - Português Original",
+    "normalized_title": "box colecao com fichario pokemon celebracao 30 anos 5 boosters album portugues original",
+    "published_at": "2026-11-03T19:46:05.829071+00:00",
+    "price": 419.9,
+    "discount_rate": 0,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/gRILqz1Rl"
   }
 ]
