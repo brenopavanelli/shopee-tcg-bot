@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 28635139159,
-    "shop_id": 1495203153,
-    "title": "[Pokémon] Cartão \" Super Electric Breaker \" sv8 Booster Box (30 Pacotes) Caixa Selada Versão Coreana",
-    "normalized_title": "pokemon cartao super electric breaker sv8 booster box 30 pacotes caixa selada versao coreana",
-    "published_at": "2026-10-31T12:31:05.645616+00:00",
-    "price": 315.0,
-    "discount_rate": 26,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/4qGqEXNquE"
-  },
-  {
     "item_id": 58210766113,
     "shop_id": 464326997,
     "title": "BOOSTER BOX MEGAEVOLUÇÃO CAOS ASCENDENTE ME04 COPAG POKÉMON TCG CARTAS CARD DISPLAY MEGA GRENINJA EX",
@@ -339,5 +328,16 @@
     "discount_rate": 0,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/70LLuVOO3A"
+  },
+  {
+    "item_id": 28635139159,
+    "shop_id": 1495203153,
+    "title": "[Pokémon] Cartão \" Super Electric Breaker \" sv8 Booster Box (30 Pacotes) Caixa Selada Versão Coreana",
+    "normalized_title": "pokemon cartao super electric breaker sv8 booster box 30 pacotes caixa selada versao coreana",
+    "published_at": "2026-11-03T12:45:52.568732+00:00",
+    "price": 315.0,
+    "discount_rate": 26,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/BV4eDKy1R"
   }
 ]
