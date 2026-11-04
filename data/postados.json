@@ -1,38 +1,5 @@
 [
   {
-    "item_id": 58258990463,
-    "shop_id": 479251059,
-    "title": "Protetor de Cartas Sleeve Central Shield 63 x 88mm Padrão Básico Transparente Pokémon Magic TCG",
-    "normalized_title": "protetor de cartas sleeve central shield 63 x 88mm padrao basico transparente pokemon magic tcg",
-    "published_at": "2026-11-01T21:01:29.320472+00:00",
-    "price": 16.68,
-    "discount_rate": 33,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/9fM75PEEdQ"
-  },
-  {
-    "item_id": 58205276525,
-    "shop_id": 1720086046,
-    "title": "Álbum Porta Cartas TCG 240 ou 400 Cartas para Cartas Pokémon Yu-Gi-Oh MTG Não Inclui Cartas",
-    "normalized_title": "album porta cartas tcg 240 ou 400 cartas para cartas pokemon yu gi oh mtg nao inclui cartas",
-    "published_at": "2026-11-01T21:15:46.827407+00:00",
-    "price": 39.9,
-    "discount_rate": 56,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/80DuFShjjE"
-  },
-  {
-    "item_id": 22794443745,
-    "shop_id": 464326997,
-    "title": "BLISTER QUÁDRUPLO MEGA EVOLUÇÃO ME01 COPAG POKÉMON TCG BOOSTER CARTAS LUCARIO GARDEVOIR EX QUAD PACK",
-    "normalized_title": "blister quadruplo mega evolucao me01 copag pokemon tcg booster cartas lucario gardevoir ex quad pack",
-    "published_at": "2026-11-01T21:31:08.372278+00:00",
-    "price": 52.99,
-    "discount_rate": 54,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/8AXKRlh6OH"
-  },
-  {
     "item_id": 58207582082,
     "shop_id": 464326997,
     "title": "BOOSTER BOX MEGAEVOLUÇÃO EQUILÍBRIO PERFEITO ME3 COPAG POKÉMON TCG CARTA DISPLAY MEGA ZYGARDE EX",
@@ -328,5 +295,16 @@
     "discount_rate": 0,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/2gCRXDTDUq"
+  },
+  {
+    "item_id": 58258990463,
+    "shop_id": 479251059,
+    "title": "Protetor de Cartas Sleeve Central Shield 63 x 88mm Padrão Básico Transparente Pokémon Magic TCG",
+    "normalized_title": "protetor de cartas sleeve central shield 63 x 88mm padrao basico transparente pokemon magic tcg",
+    "published_at": "2026-11-04T21:31:09.764016+00:00",
+    "price": 12.94,
+    "discount_rate": 48,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/2qVrjWO777"
   }
 ]
