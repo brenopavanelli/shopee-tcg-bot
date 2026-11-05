@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58210763106,
-    "shop_id": 464326997,
-    "title": "BOX COLEÇÃO TREINADOR AVANÇADO ETB MEGA GRENINJA EX CAOS ASCENDENTE ME04 POKÉMON TCG BOOSTERS CARTAS",
-    "normalized_title": "box colecao treinador avancado etb mega greninja ex caos ascendente me04 pokemon tcg boosters cartas",
-    "published_at": "2026-11-02T11:31:19.159169+00:00",
-    "price": 399.99,
-    "discount_rate": 50,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/4qGrJVj9zQ"
-  },
-  {
     "item_id": 22099407991,
     "shop_id": 502301086,
     "title": "Box Em Acrílico Para Elite Trainer Box ETB Pokémon US (19,5x9,5x17,6) - PKB-ETB-US",
@@ -306,5 +295,16 @@
     "discount_rate": 50,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/W7yV4UWDj"
+  },
+  {
+    "item_id": 58210763106,
+    "shop_id": 464326997,
+    "title": "BOX COLEÇÃO TREINADOR AVANÇADO ETB MEGA GRENINJA EX CAOS ASCENDENTE ME04 POKÉMON TCG BOOSTERS CARTAS",
+    "normalized_title": "box colecao treinador avancado etb mega greninja ex caos ascendente me04 pokemon tcg boosters cartas",
+    "published_at": "2026-11-05T11:45:53.642234+00:00",
+    "price": 399.99,
+    "discount_rate": 50,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/4qGxf29HPV"
   }
 ]
