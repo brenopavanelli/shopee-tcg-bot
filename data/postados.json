@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 22099407991,
-    "shop_id": 502301086,
-    "title": "Box Em Acrílico Para Elite Trainer Box ETB Pokémon US (19,5x9,5x17,6) - PKB-ETB-US",
-    "normalized_title": "box em acrilico para elite trainer box etb pokemon us 19 5x9 5x17 6 pkb etb us",
-    "published_at": "2026-11-02T11:46:01.946762+00:00",
-    "price": 89.5,
-    "discount_rate": 0,
-    "keyword": "Pokemon Elite Trainer Box",
-    "offer_link": "https://s.shopee.com.br/1qdHssOBtF"
-  },
-  {
     "item_id": 23798217575,
     "shop_id": 256080800,
     "title": "Sleeve Central Shield 63 x 88mm Padrão Básico Protetor de Cartas Transparente Pokémon Magic TCG - ED",
@@ -306,5 +295,16 @@
     "discount_rate": 50,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/4qGxf29HPV"
+  },
+  {
+    "item_id": 22099407991,
+    "shop_id": 502301086,
+    "title": "Box Em Acrílico Para Elite Trainer Box ETB Pokémon US (19,5x9,5x17,6) - PKB-ETB-US",
+    "normalized_title": "box em acrilico para elite trainer box etb pokemon us 19 5x9 5x17 6 pkb etb us",
+    "published_at": "2026-11-05T12:01:32.185609+00:00",
+    "price": 89.5,
+    "discount_rate": 0,
+    "keyword": "Pokemon Elite Trainer Box",
+    "offer_link": "https://s.shopee.com.br/W7yV4UetY"
   }
 ]
