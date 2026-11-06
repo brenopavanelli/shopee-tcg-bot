@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58212745907,
-    "shop_id": 464326997,
-    "title": "BOX POKÉMON COLEÇÃO ILUSTRAÇÃO PARCEIRO INICIAL SÉRIE 2 COPAG MEGA EVOLUÇÃO CARTAS BOOSTERS 30 ANOS",
-    "normalized_title": "box pokemon colecao ilustracao parceiro inicial serie 2 copag mega evolucao cartas boosters 30 anos",
-    "published_at": "2026-11-03T04:01:33.062238+00:00",
-    "price": 199.99,
-    "discount_rate": 57,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/1148kSxklr"
-  },
-  {
     "item_id": 58254431532,
     "shop_id": 1549181086,
     "title": "Sleeve Central Shields Básico 63mm x 88mm 100 Protetor de Carta Transparente Tamanho Padrão Pokemon Magic TCG",
@@ -306,5 +295,16 @@
     "discount_rate": 16,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/40hqfVCS6O"
+  },
+  {
+    "item_id": 58212745907,
+    "shop_id": 464326997,
+    "title": "BOX POKÉMON COLEÇÃO ILUSTRAÇÃO PARCEIRO INICIAL SÉRIE 2 COPAG MEGA EVOLUÇÃO CARTAS BOOSTERS 30 ANOS",
+    "normalized_title": "box pokemon colecao ilustracao parceiro inicial serie 2 copag mega evolucao cartas boosters 30 anos",
+    "published_at": "2026-11-06T04:15:53.924086+00:00",
+    "price": 199.99,
+    "discount_rate": 57,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/1BNfIINEqx"
   }
 ]
