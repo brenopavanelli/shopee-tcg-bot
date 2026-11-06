@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 53867976784,
-    "shop_id": 359241540,
-    "title": "Box Pokémon Mega Forças Ex Zeraora Dragonite Darkrai Copag Coleção TCG Cartas Booster",
-    "normalized_title": "box pokemon mega forcas ex zeraora dragonite darkrai copag colecao tcg cartas booster",
-    "published_at": "2026-11-03T03:45:53.280965+00:00",
-    "price": 165.98,
-    "discount_rate": 13,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/50aHVoiWeV"
-  },
-  {
     "item_id": 58212745907,
     "shop_id": 464326997,
     "title": "BOX POKÉMON COLEÇÃO ILUSTRAÇÃO PARCEIRO INICIAL SÉRIE 2 COPAG MEGA EVOLUÇÃO CARTAS BOOSTERS 30 ANOS",
@@ -306,5 +295,16 @@
     "discount_rate": 0,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/2Vt2skIA9L"
+  },
+  {
+    "item_id": 53867976784,
+    "shop_id": 359241540,
+    "title": "Box Pokémon Mega Forças Ex Zeraora Dragonite Darkrai Copag Coleção TCG Cartas Booster",
+    "normalized_title": "box pokemon mega forcas ex zeraora dragonite darkrai copag colecao tcg cartas booster",
+    "published_at": "2026-11-06T04:01:26.285337+00:00",
+    "price": 165.98,
+    "discount_rate": 16,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/40hqfVCS6O"
   }
 ]
