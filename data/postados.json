@@ -1,27 +1,5 @@
 [
   {
-    "item_id": 22094058133,
-    "shop_id": 1455674925,
-    "title": "Porta Cartas Caixa Deck Box para Pokémon TCG - Vários personagens (200 cartas)",
-    "normalized_title": "porta cartas caixa deck box para pokemon tcg varios personagens 200 cartas",
-    "published_at": "2026-11-03T08:01:34.947956+00:00",
-    "price": 35.49,
-    "discount_rate": 22,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/7fb2hjLqhE"
-  },
-  {
-    "item_id": 28743217032,
-    "shop_id": 445721324,
-    "title": "Blister Unitário Pokémon Pacote Individual Cartas Oficiais TCG Coleções Megaevolução Copag",
-    "normalized_title": "blister unitario pokemon pacote individual cartas oficiais tcg colecoes megaevolucao copag",
-    "published_at": "2026-11-03T08:15:52.725175+00:00",
-    "price": 21.9,
-    "discount_rate": 0,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/70LLuVOO3A"
-  },
-  {
     "item_id": 28635139159,
     "shop_id": 1495203153,
     "title": "[Pokémon] Cartão \" Super Electric Breaker \" sv8 Booster Box (30 Pacotes) Caixa Selada Versão Coreana",
@@ -306,5 +284,16 @@
     "discount_rate": 50,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/1W0VguQiC1"
+  },
+  {
+    "item_id": 22094058133,
+    "shop_id": 1455674925,
+    "title": "Porta Cartas Caixa Deck Box para Pokémon TCG - Vários personagens (200 cartas)",
+    "normalized_title": "porta cartas caixa deck box para pokemon tcg varios personagens 200 cartas",
+    "published_at": "2026-11-06T08:15:52.939704+00:00",
+    "price": 35.49,
+    "discount_rate": 22,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/2qVtHMLdUP"
   }
 ]
