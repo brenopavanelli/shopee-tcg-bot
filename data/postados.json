@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 53666400287,
-    "shop_id": 464326997,
-    "title": "BOX POKÉMON COLEÇÃO MEGA FORÇAS ZERAORA DRAGONITE DARKRAI EX COPAG EVOLUÇÃO CARTAS BOOSTERS TCG CARD",
-    "normalized_title": "box pokemon colecao mega forcas zeraora dragonite darkrai ex copag evolucao cartas boosters tcg card",
-    "published_at": "2026-11-05T06:31:09.534856+00:00",
-    "price": 137.99,
-    "discount_rate": 54,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/2LZcgRNXVG"
-  },
-  {
     "item_id": 58259311650,
     "shop_id": 1674805831,
     "title": "Álbum Pokémon TCG 240 Cartas – Pikachu Eevee Charizard – Pasta Premium Pronta Entrega Brasil",
@@ -306,5 +295,16 @@
     "discount_rate": 56,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/20wmHpOoBA"
+  },
+  {
+    "item_id": 53666400287,
+    "shop_id": 464326997,
+    "title": "BOX POKÉMON COLEÇÃO MEGA FORÇAS ZERAORA DRAGONITE DARKRAI EX COPAG EVOLUÇÃO CARTAS BOOSTERS TCG CARD",
+    "normalized_title": "box pokemon colecao mega forcas zeraora dragonite darkrai ex copag evolucao cartas boosters tcg card",
+    "published_at": "2026-11-08T06:31:16.672275+00:00",
+    "price": 139.99,
+    "discount_rate": 54,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/2BGHHnmypH"
   }
 ]
