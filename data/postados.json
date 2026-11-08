@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58218860308,
-    "shop_id": 1061459383,
-    "title": "Box Combo De Booster Heróis Excelsos, Evoluções Prismáticas, Megaevolução e Escuridão Absoluta, Caos  108 Cartas Pokémon",
-    "normalized_title": "box combo de booster herois excelsos evolucoes prismaticas megaevolucao e escuridao absoluta caos 108 cartas pokemon",
-    "published_at": "2026-11-05T20:01:33.167287+00:00",
-    "price": 259.0,
-    "discount_rate": 0,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/2Vt2skIA9L"
-  },
-  {
     "item_id": 53867976784,
     "shop_id": 359241540,
     "title": "Box Pokémon Mega Forças Ex Zeraora Dragonite Darkrai Copag Coleção TCG Cartas Booster",
@@ -295,5 +284,16 @@
     "discount_rate": 5,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/1W0aUZpWBD"
+  },
+  {
+    "item_id": 58218860308,
+    "shop_id": 1061459383,
+    "title": "Box Combo De Booster Heróis Excelsos, Evoluções Prismáticas, Megaevolução e Escuridão Absoluta, Caos  108 Cartas Pokémon",
+    "normalized_title": "box combo de booster herois excelsos evolucoes prismaticas megaevolucao e escuridao absoluta caos 108 cartas pokemon",
+    "published_at": "2026-11-08T20:31:19.780198+00:00",
+    "price": 259.0,
+    "discount_rate": 0,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/9fMICaaXKi"
   }
 ]
