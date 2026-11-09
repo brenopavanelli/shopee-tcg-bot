@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 28635139159,
-    "shop_id": 1495203153,
-    "title": "[Pokémon] Cartão \" Super Electric Breaker \" sv8 Booster Box (30 Pacotes) Caixa Selada Versão Coreana",
-    "normalized_title": "pokemon cartao super electric breaker sv8 booster box 30 pacotes caixa selada versao coreana",
-    "published_at": "2026-11-06T13:45:57.805647+00:00",
-    "price": 285.0,
-    "discount_rate": 33,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/W80i2s73G"
-  },
-  {
     "item_id": 58219740012,
     "shop_id": 1182269567,
     "title": "Box Coleção Com Fichário Pokémon Celebração 30 Anos - 5 Boosters +  Álbum - Português Original",
@@ -295,5 +284,16 @@
     "discount_rate": 0,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/3LSEfwiXSc"
+  },
+  {
+    "item_id": 28635139159,
+    "shop_id": 1495203153,
+    "title": "[Pokémon] Cartão \" Super Electric Breaker \" sv8 Booster Box (30 Pacotes) Caixa Selada Versão Coreana",
+    "normalized_title": "pokemon cartao super electric breaker sv8 booster box 30 pacotes caixa selada versao coreana",
+    "published_at": "2026-11-09T14:31:20.010820+00:00",
+    "price": 285.0,
+    "discount_rate": 33,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/80E4DWgsiI"
   }
 ]
