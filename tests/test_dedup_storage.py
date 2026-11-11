@@ -1,6 +1,7 @@
 from datetime import datetime, timedelta, timezone
-from tcgbot.dedup import normalize_title, is_duplicate
-from tcgbot.storage import prune_old, save_history, load_history
+
+from tcgbot.dedup import is_duplicate, normalize_title
+from tcgbot.storage import load_history, prune_old, save_history
 
 
 def test_normalize_title_strips_accents_emoji_punct():

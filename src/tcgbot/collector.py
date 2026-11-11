@@ -3,14 +3,14 @@ import os
 from pathlib import Path
 
 from tcgbot.config import config
+from tcgbot.dedup import is_duplicate, normalize_title
+from tcgbot.filters import evaluate_offer
+from tcgbot.keywords import next_keyword
 from tcgbot.logging_setup import setup_logging
 from tcgbot.models import Offer
-from tcgbot.filters import evaluate_offer
-from tcgbot.dedup import normalize_title, is_duplicate
-from tcgbot.storage import load_history, prune_old
-from tcgbot.keywords import next_keyword
+from tcgbot.queue_store import enqueue, load_queue, prune_expired, save_queue
 from tcgbot.shopee_client import search_offers
-from tcgbot.queue_store import load_queue, save_queue, prune_expired, enqueue
+from tcgbot.storage import load_history, prune_old
 
 logger = logging.getLogger(__name__)
 
@@ -18,6 +18,14 @@ DATA_DIR = Path(__file__).resolve().parents[2] / "data"
 HISTORY_PATH = DATA_DIR / "postados.json"
 QUEUE_PATH = DATA_DIR / "fila.json"
 KEYWORDS_STATE_PATH = DATA_DIR / "keywords_state.json"
+
+
+def main() -> int:
+    setup_logging()
+    dry = os.getenv("SHOPEE_DRY_RUN", "true").lower() != "false"
+    added = collect(shopee_dry_run=dry)
+    print(f"Coleta concluída: {added} oferta(s) adicionada(s) à fila.")
+    return 0
 
 
 def collect(shopee_dry_run: bool = True) -> int:
@@ -57,6 +65,4 @@ def collect(shopee_dry_run: bool = True) -> int:
 
 
 if __name__ == "__main__":
-    setup_logging()
-    dry = os.getenv("SHOPEE_DRY_RUN", "true").lower() != "false"
-    collect(shopee_dry_run=dry)
+    main()

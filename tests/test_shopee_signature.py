@@ -1,4 +1,4 @@
-from tcgbot.shopee_client import build_signature, build_auth_header
+from tcgbot.shopee_client import build_auth_header, build_signature
 
 
 def test_signature_is_deterministic():

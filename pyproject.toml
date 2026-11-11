@@ -1,11 +1,39 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
 [project]
 name = "tcgbot"
-version = "0.1.0"
+version = "0.2.0"
+description = "Bot que monitora ofertas de TCG na Shopee (Pokémon, Yu-Gi-Oh, One Piece) e publica no Telegram."
+readme = "README.md"
 requires-python = ">=3.10"
+license = { text = "MIT" }
+
+dependencies = [
+    "requests>=2.28",
+    "python-dotenv>=1.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+    "ruff>=0.4",
+]
+
+[project.scripts]
+tcgbot-collect = "tcgbot.collector:main"
+tcgbot-publish = "tcgbot.publisher:main"
 
 [tool.setuptools.packages.find]
 where = ["src"]
 
-[build-system]
-requires = ["setuptools>=61.0"]
-build-backend = "setuptools.build_meta"
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.lint]
+select = ["F", "E9", "I"]

@@ -1,6 +1,7 @@
 from dataclasses import dataclass
-from tcgbot.models import Offer
+
 from tcgbot.config import Config
+from tcgbot.models import Offer
 
 
 @dataclass(frozen=True)
