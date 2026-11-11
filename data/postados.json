@@ -1,27 +1,5 @@
 [
   {
-    "item_id": 23798217575,
-    "shop_id": 256080800,
-    "title": "Sleeve Central Shield 63 x 88mm Padrão Básico Protetor de Cartas Transparente Pokémon Magic TCG - ED",
-    "normalized_title": "sleeve central shield 63 x 88mm padrao basico protetor de cartas transparente pokemon magic tcg ed",
-    "published_at": "2026-11-08T16:31:23.290289+00:00",
-    "price": 16.99,
-    "discount_rate": 5,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/1W0aUZpWBD"
-  },
-  {
-    "item_id": 58218860308,
-    "shop_id": 1061459383,
-    "title": "Box Combo De Booster Heróis Excelsos, Evoluções Prismáticas, Megaevolução e Escuridão Absoluta, Caos  108 Cartas Pokémon",
-    "normalized_title": "box combo de booster herois excelsos evolucoes prismaticas megaevolucao e escuridao absoluta caos 108 cartas pokemon",
-    "published_at": "2026-11-08T20:31:19.780198+00:00",
-    "price": 259.0,
-    "discount_rate": 0,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/9fMICaaXKi"
-  },
-  {
     "item_id": 53867976784,
     "shop_id": 359241540,
     "title": "Box Pokémon Mega Forças Ex Zeraora Dragonite Darkrai Copag Coleção TCG Cartas Booster",
@@ -339,5 +317,16 @@
     "discount_rate": 43,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/60T4dWddCS"
+  },
+  {
+    "item_id": 58218860308,
+    "shop_id": 1061459383,
+    "title": "Box Combo De Booster Heróis Excelsos, Evoluções Prismáticas, Megaevolução e Escuridão Absoluta, Caos  108 Cartas Pokémon",
+    "normalized_title": "box combo de booster herois excelsos evolucoes prismaticas megaevolucao e escuridao absoluta caos 108 cartas pokemon",
+    "published_at": "2026-11-11T21:45:53.896521+00:00",
+    "price": 259.0,
+    "discount_rate": 0,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/3LSKF5AiN1"
   }
 ]
