@@ -1,27 +1,5 @@
 [
   {
-    "item_id": 58215951285,
-    "shop_id": 1704759227,
-    "title": "Álbum Pokémon Pikachu 240 Cartas Porta Cards TCG Pasta Colecionador Presente para Fãs Vários Modelos",
-    "normalized_title": "album pokemon pikachu 240 cartas porta cards tcg pasta colecionador presente para fas varios modelos",
-    "published_at": "2026-11-08T11:01:32.840082+00:00",
-    "price": 39.99,
-    "discount_rate": 43,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/114JterQBs"
-  },
-  {
-    "item_id": 22099407991,
-    "shop_id": 502301086,
-    "title": "Caixa em Acrílico para ETB Pokémon US (19,5x9,5x17,6) - PKB-ETB-US",
-    "normalized_title": "caixa em acrilico para etb pokemon us 19 5x9 5x17 6 pkb etb us",
-    "published_at": "2026-11-08T12:15:57.364253+00:00",
-    "price": 89.5,
-    "discount_rate": 0,
-    "keyword": "Pokemon Elite Trainer Box",
-    "offer_link": "https://s.shopee.com.br/4qH2Shq1oS"
-  },
-  {
     "item_id": 23798217575,
     "shop_id": 256080800,
     "title": "Sleeve Central Shield 63 x 88mm Padrão Básico Protetor de Cartas Transparente Pokémon Magic TCG - ED",
@@ -350,5 +328,16 @@
     "discount_rate": 50,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/8fTpoQTTnE"
+  },
+  {
+    "item_id": 58215951285,
+    "shop_id": 1704759227,
+    "title": "Álbum Pokémon Pikachu 240 Cartas Porta Cards TCG Pasta Colecionador Presente para Fãs Vários Modelos",
+    "normalized_title": "album pokemon pikachu 240 cartas porta cards tcg pasta colecionador presente para fas varios modelos",
+    "published_at": "2026-11-11T13:15:56.263639+00:00",
+    "price": 39.99,
+    "discount_rate": 43,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/60T4dWddCS"
   }
 ]
