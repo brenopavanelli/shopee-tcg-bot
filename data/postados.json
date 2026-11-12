@@ -1,49 +1,5 @@
 [
   {
-    "item_id": 53867976784,
-    "shop_id": 359241540,
-    "title": "Box Pokémon Mega Forças Ex Zeraora Dragonite Darkrai Copag Coleção TCG Cartas Booster",
-    "normalized_title": "box pokemon mega forcas ex zeraora dragonite darkrai copag colecao tcg cartas booster",
-    "published_at": "2026-11-09T04:15:56.862547+00:00",
-    "price": 165.92,
-    "discount_rate": 16,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/1qdQsC4MDx"
-  },
-  {
-    "item_id": 58212745907,
-    "shop_id": 464326997,
-    "title": "BOX POKÉMON COLEÇÃO ILUSTRAÇÃO PARCEIRO INICIAL SÉRIE 2 COPAG MEGA EVOLUÇÃO CARTAS BOOSTERS 30 ANOS",
-    "normalized_title": "box pokemon colecao ilustracao parceiro inicial serie 2 copag mega evolucao cartas boosters 30 anos",
-    "published_at": "2026-11-09T04:31:14.460844+00:00",
-    "price": 199.99,
-    "discount_rate": 57,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/8Kquc8fc2K"
-  },
-  {
-    "item_id": 58254431532,
-    "shop_id": 1549181086,
-    "title": "Sleeve Central Shields Básico 63mm x 88mm 100 Protetor de Carta Transparente Tamanho Padrão Pokemon Magic TCG",
-    "normalized_title": "sleeve central shields basico 63mm x 88mm 100 protetor de carta transparente tamanho padrao pokemon magic tcg",
-    "published_at": "2026-11-09T07:31:18.217856+00:00",
-    "price": 16.9,
-    "discount_rate": 58,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/qkthLs3Wt"
-  },
-  {
-    "item_id": 22298099588,
-    "shop_id": 263468055,
-    "title": "Cartas Pokemon TCG Originais - Lotes com até 100 cartas sem repetidas - Cartas Brilhantes Garantidas",
-    "normalized_title": "cartas pokemon tcg originais lotes com ate 100 cartas sem repetidas cartas brilhantes garantidas",
-    "published_at": "2026-11-09T08:15:59.906963+00:00",
-    "price": 12.0,
-    "discount_rate": 40,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/1BmhovEDm"
-  },
-  {
     "item_id": 22094058133,
     "shop_id": 1455674925,
     "title": "Porta Cartas Caixa Deck Box para Pokémon TCG - Vários personagens (200 cartas)",
@@ -328,5 +284,16 @@
     "discount_rate": 0,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/3LSKF5AiN1"
+  },
+  {
+    "item_id": 58254431532,
+    "shop_id": 1549181086,
+    "title": "Sleeve Central Shields Básico 63mm x 88mm 100 Protetor de Carta Transparente Tamanho Padrão Pokemon Magic TCG",
+    "normalized_title": "sleeve central shields basico 63mm x 88mm 100 protetor de carta transparente tamanho padrao pokemon magic tcg",
+    "published_at": "2026-11-12T08:16:03.187329+00:00",
+    "price": 16.9,
+    "discount_rate": 58,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/1W0guCRUls"
   }
 ]
