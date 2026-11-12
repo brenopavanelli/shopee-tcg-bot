@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58219740012,
-    "shop_id": 1182269567,
-    "title": "Box Coleção Com Fichário Pokémon Celebração 30 Anos - 5 Boosters +  Álbum - Português Original",
-    "normalized_title": "box colecao com fichario pokemon celebracao 30 anos 5 boosters album portugues original",
-    "published_at": "2026-11-09T20:31:19.080487+00:00",
-    "price": 419.9,
-    "discount_rate": 0,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/20wr4V3it4"
-  },
-  {
     "item_id": 58267542317,
     "shop_id": 1927383025,
     "title": "Sleeve Transparente Shield Básico 63x88mm – 100 Unidades | Central Acessórios | Pokemon Magic Yu-Gi-Ho! One Piece TCG",
@@ -306,5 +295,16 @@
     "discount_rate": 33,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/5q9gcCpoON"
+  },
+  {
+    "item_id": 58219740012,
+    "shop_id": 1182269567,
+    "title": "Box Coleção Com Fichário Pokémon Celebração 30 Anos - 5 Boosters +  Álbum - Português Original",
+    "normalized_title": "box colecao com fichario pokemon celebracao 30 anos 5 boosters album portugues original",
+    "published_at": "2026-11-12T22:16:01.300510+00:00",
+    "price": 419.9,
+    "discount_rate": 0,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/9pfpNYaaH1"
   }
 ]
