@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58254862841,
-    "shop_id": 1720086046,
-    "title": "Álbum para Cards Pokémon TCG 240 Cartas Coleção Segura com Capas Sortidas",
-    "normalized_title": "album para cards pokemon tcg 240 cartas colecao segura com capas sortidas",
-    "published_at": "2026-11-10T22:46:02.613606+00:00",
-    "price": 39.9,
-    "discount_rate": 56,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/6L5uJru4IE"
-  },
-  {
     "item_id": 53666400287,
     "shop_id": 464326997,
     "title": "BOX POKÉMON COLEÇÃO MEGA FORÇAS ZERAORA DRAGONITE DARKRAI EX COPAG EVOLUÇÃO CARTAS BOOSTERS TCG CARD",
@@ -295,5 +284,16 @@
     "discount_rate": 34,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/1BNqVaSlRm"
+  },
+  {
+    "item_id": 58256232047,
+    "shop_id": 1679540190,
+    "title": "Álbum Fichário Pokémon Capa Dura Zíper 400 Cartas + 50 Folhas Porta Cards TCG Pronta Entrega",
+    "normalized_title": "album fichario pokemon capa dura ziper 400 cartas 50 folhas porta cards tcg pronta entrega",
+    "published_at": "2026-11-13T23:01:26.288397+00:00",
+    "price": 35.99,
+    "discount_rate": 45,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/8pnHdfzZtX"
   }
 ]
