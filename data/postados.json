@@ -1,49 +1,5 @@
 [
   {
-    "item_id": 45055621702,
-    "shop_id": 223145265,
-    "title": "Kit de Cartas Pokémon TCG Originais com BRILHANTES COPAG Foil, Reverse Foil, Holografica, Brilhante",
-    "normalized_title": "kit de cartas pokemon tcg originais com brilhantes copag foil reverse foil holografica brilhante",
-    "published_at": "2026-11-10T14:45:59.594284+00:00",
-    "price": 17.9,
-    "discount_rate": 50,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/Lod6QtxXo"
-  },
-  {
-    "item_id": 58208481768,
-    "shop_id": 1766948313,
-    "title": "324 Pçs/Caixa Cartas de Pokémon Booster Box 36 Pacotes Brilhantes Pokemon Caixa de Exibição Booster Para Jogo de Batalha",
-    "normalized_title": "324 pcs caixa cartas de pokemon booster box 36 pacotes brilhantes pokemon caixa de exibicao booster para jogo de batalha",
-    "published_at": "2026-11-10T16:16:02.508204+00:00",
-    "price": 150.0,
-    "discount_rate": 70,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/40hzWWTCQS"
-  },
-  {
-    "item_id": 45719187196,
-    "shop_id": 1856293711,
-    "title": "Álbum Fichário Para Cartas Pokémon Com Zíper, Capacidade Para 400 Cartas, Porta Cartas TCG Com Alça",
-    "normalized_title": "album fichario para cartas pokemon com ziper capacidade para 400 cartas porta cartas tcg com alca",
-    "published_at": "2026-11-10T16:31:27.079103+00:00",
-    "price": 49.0,
-    "discount_rate": 51,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/60T3vFvKy8"
-  },
-  {
-    "item_id": 58205276525,
-    "shop_id": 1720086046,
-    "title": "Álbum Porta Cartas TCG 240 ou 400 Cartas para Cartas Pokémon Yu-Gi-Oh MTG Não Inclui Cartas",
-    "normalized_title": "album porta cartas tcg 240 ou 400 cartas para cartas pokemon yu gi oh mtg nao inclui cartas",
-    "published_at": "2026-11-10T16:45:53.610174+00:00",
-    "price": 39.9,
-    "discount_rate": 56,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/6VPKWAtQxH"
-  },
-  {
     "item_id": 21999649494,
     "shop_id": 1209802845,
     "title": "Fichário Álbum Pokémon Para Cartas TCG 400 Cartas 50 Folhas Com Zíper",
@@ -306,5 +262,16 @@
     "discount_rate": 40,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/AAIhHs2Yy7"
+  },
+  {
+    "item_id": 58208481768,
+    "shop_id": 1766948313,
+    "title": "324 Pçs/Caixa Cartas de Pokémon Booster Box 36 Pacotes Brilhantes Pokemon Caixa de Exibição Booster Para Jogo de Batalha",
+    "normalized_title": "324 pcs caixa cartas de pokemon booster box 36 pacotes brilhantes pokemon caixa de exibicao booster para jogo de batalha",
+    "published_at": "2026-11-13T16:45:56.706065+00:00",
+    "price": 150.0,
+    "discount_rate": 70,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/5VWqDar54H"
   }
 ]
