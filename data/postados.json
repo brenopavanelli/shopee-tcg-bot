@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58202822330,
-    "shop_id": 1651121464,
-    "title": "Álbum Pokémon TCG Porta Cartas para Colecionadores – 240 ou 400 Cartas, Várias Opções",
-    "normalized_title": "album pokemon tcg porta cartas para colecionadores 240 ou 400 cartas varias opcoes",
-    "published_at": "2026-11-10T09:46:00.514899+00:00",
-    "price": 35.9,
-    "discount_rate": 40,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/3VlesFhu7f"
-  },
-  {
     "item_id": 45055621702,
     "shop_id": 223145265,
     "title": "Kit de Cartas Pokémon TCG Originais com BRILHANTES COPAG Foil, Reverse Foil, Holografica, Brilhante",
@@ -306,5 +295,16 @@
     "discount_rate": 47,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/2BGNhQOxQ4"
+  },
+  {
+    "item_id": 44034252263,
+    "shop_id": 1651121464,
+    "title": "Álbum Porta Cards TCG 240 Cartas Pasta Porta Cartas Pokémon Magic Yu-Gi-Oh One Piece com Elástico",
+    "normalized_title": "album porta cards tcg 240 cartas pasta porta cartas pokemon magic yu gi oh one piece com elastico",
+    "published_at": "2026-11-13T10:46:07.190167+00:00",
+    "price": 35.89,
+    "discount_rate": 40,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/AAIhHs2Yy7"
   }
 ]
