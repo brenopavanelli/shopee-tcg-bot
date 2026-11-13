@@ -1,38 +1,5 @@
 [
   {
-    "item_id": 21999649494,
-    "shop_id": 1209802845,
-    "title": "Fichário Álbum Pokémon Para Cartas TCG 400 Cartas 50 Folhas Com Zíper",
-    "normalized_title": "fichario album pokemon para cartas tcg 400 cartas 50 folhas com ziper",
-    "published_at": "2026-11-10T17:01:32.195770+00:00",
-    "price": 68.59,
-    "discount_rate": 50,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/5fqDWdwbeA"
-  },
-  {
-    "item_id": 58267082891,
-    "shop_id": 1209756667,
-    "title": "Porta Cartas Pokemon Magic TCG Caixa Organizadora MDF 8 Divisórias para Cards e Colecionáveis",
-    "normalized_title": "porta cartas pokemon magic tcg caixa organizadora mdf 8 divisorias para cards e colecionaveis",
-    "published_at": "2026-11-10T17:15:54.538844+00:00",
-    "price": 28.9,
-    "discount_rate": 28,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/9zzCgbg6r2"
-  },
-  {
-    "item_id": 22794443745,
-    "shop_id": 464326997,
-    "title": "BLISTER QUÁDRUPLO MEGA EVOLUÇÃO ME01 COPAG POKÉMON TCG BOOSTER CARTAS LUCARIO GARDEVOIR EX QUAD PACK",
-    "normalized_title": "blister quadruplo mega evolucao me01 copag pokemon tcg booster cartas lucario gardevoir ex quad pack",
-    "published_at": "2026-11-10T17:31:16.820270+00:00",
-    "price": 52.99,
-    "discount_rate": 54,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/AAIcsufTW5"
-  },
-  {
     "item_id": 45563969587,
     "shop_id": 464326997,
     "title": "BOOSTER BOX MEGAEVOLUÇÃO ESCURIDÃO ABSOLUTA ME05 COPAG POKÉMON TCG CARTAS DISPLAY MEGA DARKRAI EX",
@@ -273,5 +240,16 @@
     "discount_rate": 70,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/5VWqDar54H"
+  },
+  {
+    "item_id": 45055621702,
+    "shop_id": 223145265,
+    "title": "Kit de Cartas Pokémon TCG Originais com BRILHANTES COPAG Foil, Reverse Foil, Holografica, Brilhante",
+    "normalized_title": "kit de cartas pokemon tcg originais com brilhantes copag foil reverse foil holografica brilhante",
+    "published_at": "2026-11-13T18:01:39.894598+00:00",
+    "price": 17.9,
+    "discount_rate": 50,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/1LhGhtS86r"
   }
 ]
