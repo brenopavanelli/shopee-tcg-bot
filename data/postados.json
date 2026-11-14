@@ -1,27 +1,5 @@
 [
   {
-    "item_id": 58259311650,
-    "shop_id": 1674805831,
-    "title": "Álbum Pokémon TCG 240 Cartas – Pikachu Eevee Charizard – Pasta Premium Pronta Entrega Brasil",
-    "normalized_title": "album pokemon tcg 240 cartas pikachu eevee charizard pasta premium pronta entrega brasil",
-    "published_at": "2026-11-11T08:01:36.101964+00:00",
-    "price": 33.9,
-    "discount_rate": 52,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/9V2wnxQJ6L"
-  },
-  {
-    "item_id": 58205056904,
-    "shop_id": 1679540190,
-    "title": "Álbum Pokémon TCG 240/400/540 Cartas Pikachu Eevee Charizard Pasta Premium Pronta Entrega Brasil",
-    "normalized_title": "album pokemon tcg 240 400 540 cartas pikachu eevee charizard pasta premium pronta entrega brasil",
-    "published_at": "2026-11-11T08:15:51.887750+00:00",
-    "price": 39.99,
-    "discount_rate": 50,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/8fTpoQTTnE"
-  },
-  {
     "item_id": 58215951285,
     "shop_id": 1704759227,
     "title": "Álbum Pokémon Pikachu 240 Cartas Porta Cards TCG Pasta Colecionador Presente para Fãs Vários Modelos",
@@ -317,5 +295,16 @@
     "discount_rate": 54,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/906hpyywYW"
+  },
+  {
+    "item_id": 58205056904,
+    "shop_id": 1679540190,
+    "title": "Álbum Pokémon TCG 240/400/540 Cartas Pikachu Eevee Charizard Pasta Premium Pronta Entrega Brasil",
+    "normalized_title": "album pokemon tcg 240 400 540 cartas pikachu eevee charizard pasta premium pronta entrega brasil",
+    "published_at": "2026-11-14T08:16:03.430547+00:00",
+    "price": 39.99,
+    "discount_rate": 50,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/8fTrRN0DEU"
   }
 ]
