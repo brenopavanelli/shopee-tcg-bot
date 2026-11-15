@@ -1,27 +1,5 @@
 [
   {
-    "item_id": 22298099588,
-    "shop_id": 263468055,
-    "title": "Cartas Pokemon TCG Originais - Lotes com até 100 cartas sem repetidas - Cartas Brilhantes Garantidas",
-    "normalized_title": "cartas pokemon tcg originais lotes com ate 100 cartas sem repetidas cartas brilhantes garantidas",
-    "published_at": "2026-11-12T08:31:18.158880+00:00",
-    "price": 12.0,
-    "discount_rate": 40,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/1gK76VQrQx"
-  },
-  {
-    "item_id": 22094058133,
-    "shop_id": 1455674925,
-    "title": "Porta Cartas Caixa Deck Box para Pokémon TCG - Vários personagens (200 cartas)",
-    "normalized_title": "porta cartas caixa deck box para pokemon tcg varios personagens 200 cartas",
-    "published_at": "2026-11-12T08:45:55.820802+00:00",
-    "price": 35.49,
-    "discount_rate": 22,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/80EAe92kaI"
-  },
-  {
     "item_id": 58257797685,
     "shop_id": 464326997,
     "title": "BOX COLEÇÃO TREINADOR AVANÇADO ETB MEGA ZYGARDE EX EQUILÍBRIO PERFEITO ME3 POKÉMON TCG BOOSTER CARTA",
@@ -306,5 +284,16 @@
     "discount_rate": 60,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/5LDUFveHZI"
+  },
+  {
+    "item_id": 22298099588,
+    "shop_id": 263468055,
+    "title": "Cartas Pokemon TCG Originais - Lotes com até 100 cartas sem repetidas - Cartas Brilhantes Garantidas",
+    "normalized_title": "cartas pokemon tcg originais lotes com ate 100 cartas sem repetidas cartas brilhantes garantidas",
+    "published_at": "2026-11-15T08:46:04.918019+00:00",
+    "price": 9.99,
+    "discount_rate": 50,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/60TB39bkDU"
   }
 ]
