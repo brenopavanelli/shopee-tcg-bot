@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 22299486739,
-    "shop_id": 332601056,
-    "title": "Sleeve Central Shield Matte Standard 100 un - Magic Pokémon Photocard Kpop TCG - Protetor de Cartas",
-    "normalized_title": "sleeve central shield matte standard 100 un magic pokemon photocard kpop tcg protetor de cartas",
-    "published_at": "2026-11-13T07:01:32.673940+00:00",
-    "price": 17.43,
-    "discount_rate": 47,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/2BGNhQOxQ4"
-  },
-  {
     "item_id": 44034252263,
     "shop_id": 1651121464,
     "title": "Álbum Porta Cards TCG 240 Cartas Pasta Porta Cartas Pokémon Magic Yu-Gi-Oh One Piece com Elástico",
@@ -295,5 +284,16 @@
     "discount_rate": 64,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/4fxnShgov7"
+  },
+  {
+    "item_id": 22299486739,
+    "shop_id": 332601056,
+    "title": "Sleeve Central Shield Matte Standard 100 un - Magic Pokémon Photocard Kpop TCG - Protetor de Cartas",
+    "normalized_title": "sleeve central shield matte standard 100 un magic pokemon photocard kpop tcg protetor de cartas",
+    "published_at": "2026-11-16T07:01:46.090630+00:00",
+    "price": 17.43,
+    "discount_rate": 47,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/6AmbFSb6sX"
   }
 ]
