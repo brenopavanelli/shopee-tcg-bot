@@ -1,38 +1,5 @@
 [
   {
-    "item_id": 58267082891,
-    "shop_id": 1209756667,
-    "title": "Porta Cartas Pokemon Magic TCG Caixa Organizadora MDF 8 Divisórias para Cards e Colecionáveis",
-    "normalized_title": "porta cartas pokemon magic tcg caixa organizadora mdf 8 divisorias para cards e colecionaveis",
-    "published_at": "2026-11-13T19:01:26.897125+00:00",
-    "price": 28.9,
-    "discount_rate": 28,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/8AXaqS27FL"
-  },
-  {
-    "item_id": 22794443745,
-    "shop_id": 464326997,
-    "title": "BLISTER QUÁDRUPLO MEGA EVOLUÇÃO ME01 COPAG POKÉMON TCG BOOSTER CARTAS LUCARIO GARDEVOIR EX QUAD PACK",
-    "normalized_title": "blister quadruplo mega evolucao me01 copag pokemon tcg booster cartas lucario gardevoir ex quad pack",
-    "published_at": "2026-11-13T19:15:51.630226+00:00",
-    "price": 52.99,
-    "discount_rate": 54,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/9AQ82HyJDZ"
-  },
-  {
-    "item_id": 58267843336,
-    "shop_id": 217963078,
-    "title": "Arte Expandida Para Binder 3x3 Extended Art Decoração para Fichário Pokémon TCG",
-    "normalized_title": "arte expandida para binder 3x3 extended art decoracao para fichario pokemon tcg",
-    "published_at": "2026-11-13T19:31:12.944713+00:00",
-    "price": 17.99,
-    "discount_rate": 0,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/5q9iboVIBX"
-  },
-  {
     "item_id": 58260598751,
     "shop_id": 450761307,
     "title": "Pokémon Box 36 Boosters Caos Ascendente - Greninja- Copag",
@@ -251,5 +218,16 @@
     "discount_rate": 70,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/3g5GFqenSK"
+  },
+  {
+    "item_id": 47321208377,
+    "shop_id": 464326997,
+    "title": "BOOSTER BOX PORTUGUÊS REINADO DELTA MEGA EVOLUÇÃO ME06 COPAG POKÉMON TCG CARTA DISPLAY MEGA RAYQUAZA",
+    "normalized_title": "booster box portugues reinado delta mega evolucao me06 copag pokemon tcg carta display mega rayquaza",
+    "published_at": "2026-11-16T19:46:04.640414+00:00",
+    "price": 448.99,
+    "discount_rate": 56,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/7fbP1CPZKz"
   }
 ]
