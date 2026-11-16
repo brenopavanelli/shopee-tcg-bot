@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 44034252263,
-    "shop_id": 1651121464,
-    "title": "Álbum Porta Cards TCG 240 Cartas Pasta Porta Cartas Pokémon Magic Yu-Gi-Oh One Piece com Elástico",
-    "normalized_title": "album porta cards tcg 240 cartas pasta porta cartas pokemon magic yu gi oh one piece com elastico",
-    "published_at": "2026-11-13T10:46:07.190167+00:00",
-    "price": 35.89,
-    "discount_rate": 40,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/AAIhHs2Yy7"
-  },
-  {
     "item_id": 58208481768,
     "shop_id": 1766948313,
     "title": "324 Pçs/Caixa Cartas de Pokémon Booster Box 36 Pacotes Brilhantes Pokemon Caixa de Exibição Booster Para Jogo de Batalha",
@@ -295,5 +284,16 @@
     "discount_rate": 47,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/6AmbFSb6sX"
+  },
+  {
+    "item_id": 44034252263,
+    "shop_id": 1651121464,
+    "title": "Álbum Porta Cards TCG 240 Cartas Pasta Porta Cartas Pokémon Magic Yu-Gi-Oh One Piece com Elástico",
+    "normalized_title": "album porta cards tcg 240 cartas pasta porta cartas pokemon magic yu gi oh one piece com elastico",
+    "published_at": "2026-11-16T13:46:24.201211+00:00",
+    "price": 35.89,
+    "discount_rate": 40,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/7fbRIKBHg0"
   }
 ]
