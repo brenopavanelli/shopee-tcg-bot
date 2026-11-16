@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58260598751,
-    "shop_id": 450761307,
-    "title": "Pokémon Box 36 Boosters Caos Ascendente - Greninja- Copag",
-    "normalized_title": "pokemon box 36 boosters caos ascendente greninja copag",
-    "published_at": "2026-11-13T21:01:29.560870+00:00",
-    "price": 429.9,
-    "discount_rate": 0,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/6VPNPQnH2R"
-  },
-  {
     "item_id": 58258990463,
     "shop_id": 479251059,
     "title": "Protetor de Cartas Sleeve Central Shield 63 x 88mm Padrão Básico Transparente Pokémon Magic TCG",
@@ -273,5 +262,16 @@
     "discount_rate": 56,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/6L61RlaTXa"
+  },
+  {
+    "item_id": 58267082891,
+    "shop_id": 1209756667,
+    "title": "Porta Cartas Pokemon Magic TCG Caixa Organizadora MDF 8 Divisórias para Cards e Colecionáveis",
+    "normalized_title": "porta cartas pokemon magic tcg caixa organizadora mdf 8 divisorias para cards e colecionaveis",
+    "published_at": "2026-11-16T21:01:33.070535+00:00",
+    "price": 28.9,
+    "discount_rate": 28,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/70LiEzXwBm"
   }
 ]
