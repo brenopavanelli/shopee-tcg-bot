@@ -1,38 +1,5 @@
 [
   {
-    "item_id": 58258990463,
-    "shop_id": 479251059,
-    "title": "Protetor de Cartas Sleeve Central Shield 63 x 88mm Padrão Básico Transparente Pokémon Magic TCG",
-    "normalized_title": "protetor de cartas sleeve central shield 63 x 88mm padrao basico transparente pokemon magic tcg",
-    "published_at": "2026-11-13T22:45:59.570404+00:00",
-    "price": 16.43,
-    "discount_rate": 34,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/1BNqVaSlRm"
-  },
-  {
-    "item_id": 58256232047,
-    "shop_id": 1679540190,
-    "title": "Álbum Fichário Pokémon Capa Dura Zíper 400 Cartas + 50 Folhas Porta Cards TCG Pronta Entrega",
-    "normalized_title": "album fichario pokemon capa dura ziper 400 cartas 50 folhas porta cards tcg pronta entrega",
-    "published_at": "2026-11-13T23:01:26.288397+00:00",
-    "price": 35.99,
-    "discount_rate": 45,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/8pnHdfzZtX"
-  },
-  {
-    "item_id": 45563969587,
-    "shop_id": 464326997,
-    "title": "BOOSTER BOX MEGAEVOLUÇÃO ESCURIDÃO ABSOLUTA ME05 COPAG POKÉMON TCG CARTAS DISPLAY MEGA DARKRAI EX",
-    "normalized_title": "booster box megaevolucao escuridao absoluta me05 copag pokemon tcg cartas display mega darkrai ex",
-    "published_at": "2026-11-13T23:31:24.249069+00:00",
-    "price": 439.99,
-    "discount_rate": 58,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/5fqHsYLNmT"
-  },
-  {
     "item_id": 58254862841,
     "shop_id": 1720086046,
     "title": "Álbum para Cards Pokémon TCG 240 Cartas Coleção Segura com Capas Sortidas",
@@ -284,5 +251,16 @@
     "discount_rate": 0,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/80EFQpU8A4"
+  },
+  {
+    "item_id": 58258990463,
+    "shop_id": 479251059,
+    "title": "Protetor de Cartas Sleeve Central Shield 63 x 88mm Padrão Básico Transparente Pokémon Magic TCG",
+    "normalized_title": "protetor de cartas sleeve central shield 63 x 88mm padrao basico transparente pokemon magic tcg",
+    "published_at": "2026-11-17T00:31:32.700315+00:00",
+    "price": 16.43,
+    "discount_rate": 34,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/5Au43ceuuE"
   }
 ]
