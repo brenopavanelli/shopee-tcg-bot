@@ -1,27 +1,5 @@
 [
   {
-    "item_id": 58219740012,
-    "shop_id": 1182269567,
-    "title": "Box Coleção Com Fichário Pokémon Celebração 30 Anos - 5 Boosters +  Álbum - Português Original",
-    "normalized_title": "box colecao com fichario pokemon celebracao 30 anos 5 boosters album portugues original",
-    "published_at": "2026-11-15T22:31:30.153399+00:00",
-    "price": 419.9,
-    "discount_rate": 0,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/7Af8QHRTLw"
-  },
-  {
-    "item_id": 58267542317,
-    "shop_id": 1927383025,
-    "title": "Sleeve Transparente Shield Básico 63x88mm – 100 Unidades | Central Acessórios | Pokemon Magic Yu-Gi-Ho! One Piece TCG",
-    "normalized_title": "sleeve transparente shield basico 63x88mm 100 unidades central acessorios pokemon magic yu gi ho one piece tcg",
-    "published_at": "2026-11-16T04:46:09.299539+00:00",
-    "price": 13.5,
-    "discount_rate": 11,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/5fqKeXd0tO"
-  },
-  {
     "item_id": 22095225243,
     "shop_id": 1907548914,
     "title": "Deck Box TCG - POKEMON MODELO POKEBOLA 400 CARTAS COM SLEEVES booster setup gamer",
@@ -284,5 +262,16 @@
     "discount_rate": 67,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/2BGXHrCqkZ"
+  },
+  {
+    "item_id": 58267542317,
+    "shop_id": 1927383025,
+    "title": "Sleeve Transparente Shield Básico 63x88mm – 100 Unidades | Central Acessórios | Pokemon Magic Yu-Gi-Ho! One Piece TCG",
+    "normalized_title": "sleeve transparente shield basico 63x88mm 100 unidades central acessorios pokemon magic yu gi ho one piece tcg",
+    "published_at": "2026-11-19T05:01:47.911387+00:00",
+    "price": 13.5,
+    "discount_rate": 11,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/906syA4Rzk"
   }
 ]
