@@ -1,71 +1,5 @@
 [
   {
-    "item_id": 47321208377,
-    "shop_id": 464326997,
-    "title": "BOOSTER BOX PORTUGUÊS REINADO DELTA MEGA EVOLUÇÃO ME06 COPAG POKÉMON TCG CARTA DISPLAY MEGA RAYQUAZA",
-    "normalized_title": "booster box portugues reinado delta mega evolucao me06 copag pokemon tcg carta display mega rayquaza",
-    "published_at": "2026-11-16T19:46:04.640414+00:00",
-    "price": 448.99,
-    "discount_rate": 56,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/7fbP1CPZKz"
-  },
-  {
-    "item_id": 45055621702,
-    "shop_id": 223145265,
-    "title": "Kit de Cartas Pokémon TCG Originais com BRILHANTES COPAG Foil, Reverse Foil, Holografica, Brilhante",
-    "normalized_title": "kit de cartas pokemon tcg originais com brilhantes copag foil reverse foil holografica brilhante",
-    "published_at": "2026-11-16T20:01:43.717581+00:00",
-    "price": 17.9,
-    "discount_rate": 50,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/5VWuSEdeEL"
-  },
-  {
-    "item_id": 45719187196,
-    "shop_id": 1856293711,
-    "title": "Álbum Fichário Para Cartas Pokémon Com Zíper, Capacidade Para 400 Cartas, Porta Cartas TCG Com Alça",
-    "normalized_title": "album fichario para cartas pokemon com ziper capacidade para 400 cartas porta cartas tcg com alca",
-    "published_at": "2026-11-16T20:15:59.964682+00:00",
-    "price": 49.0,
-    "discount_rate": 51,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/5q9kqqcNYR"
-  },
-  {
-    "item_id": 21999649494,
-    "shop_id": 1209802845,
-    "title": "Fichário Álbum Pokémon Para Cartas TCG 400 Cartas 50 Folhas Com Zíper",
-    "normalized_title": "fichario album pokemon para cartas tcg 400 cartas 50 folhas com ziper",
-    "published_at": "2026-11-16T20:31:22.097886+00:00",
-    "price": 68.59,
-    "discount_rate": 50,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/6VPRe4ZqCd"
-  },
-  {
-    "item_id": 58205276525,
-    "shop_id": 1720086046,
-    "title": "Álbum Porta Cartas TCG 240 ou 400 Cartas para Cartas Pokémon Yu-Gi-Oh MTG Não Inclui Cartas",
-    "normalized_title": "album porta cartas tcg 240 ou 400 cartas para cartas pokemon yu gi oh mtg nao inclui cartas",
-    "published_at": "2026-11-16T20:45:58.160574+00:00",
-    "price": 39.9,
-    "discount_rate": 56,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/6L61RlaTXa"
-  },
-  {
-    "item_id": 58267082891,
-    "shop_id": 1209756667,
-    "title": "Porta Cartas Pokemon Magic TCG Caixa Organizadora MDF 8 Divisórias para Cards e Colecionáveis",
-    "normalized_title": "porta cartas pokemon magic tcg caixa organizadora mdf 8 divisorias para cards e colecionaveis",
-    "published_at": "2026-11-16T21:01:33.070535+00:00",
-    "price": 28.9,
-    "discount_rate": 28,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/70LiEzXwBm"
-  },
-  {
     "item_id": 58267843336,
     "shop_id": 217963078,
     "title": "Arte Expandida Para Binder 3x3 Extended Art Decoração para Fichário Pokémon TCG",
@@ -262,5 +196,16 @@
     "discount_rate": 70,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/6VPXyZukSy"
+  },
+  {
+    "item_id": 45055621702,
+    "shop_id": 223145265,
+    "title": "Kit de Cartas Pokémon TCG Originais com BRILHANTES COPAG Foil, Reverse Foil, Holografica, Brilhante",
+    "normalized_title": "kit de cartas pokemon tcg originais com brilhantes copag foil reverse foil holografica brilhante",
+    "published_at": "2026-11-19T21:16:03.070262+00:00",
+    "price": 17.9,
+    "discount_rate": 50,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/1qdiQzVjXJ"
   }
 ]
