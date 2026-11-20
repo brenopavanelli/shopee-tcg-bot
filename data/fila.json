@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "offer": {
+      "item_id": 58254862841,
+      "shop_id": 1720086046,
+      "title": "Álbum para Cards Pokémon TCG 240 Cartas Coleção Segura com Capas Sortidas",
+      "price": 39.9,
+      "rating": 4.8,
+      "sales": 257,
+      "shop_type": [],
+      "image_url": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkhx5mnj9f5u15",
+      "product_link": "https://shopee.com.br/product/1720086046/58254862841",
+      "offer_link": "https://s.shopee.com.br/8KrCAw6zLg",
+      "discount_rate": 56
+    },
+    "keyword": "Pokemon TCG",
+    "queued_at": "2026-11-20T01:16:02.709814+00:00"
+  },
+  {
+    "offer": {
+      "item_id": 58256232047,
+      "shop_id": 1679540190,
+      "title": "Álbum Fichário Pokémon Capa Dura Zíper 400 Cartas + 50 Folhas Porta Cards TCG Pronta Entrega",
+      "price": 35.99,
+      "rating": 4.8,
+      "sales": 193,
+      "shop_type": [],
+      "image_url": "https://cf.shopee.com.br/file/br-11134201-820l9-mma5v4178e12f0",
+      "product_link": "https://shopee.com.br/product/1679540190/58256232047",
+      "offer_link": "https://s.shopee.com.br/9fMZlO1ue4",
+      "discount_rate": 43
+    },
+    "keyword": "Pokemon TCG",
+    "queued_at": "2026-11-20T01:16:02.709953+00:00"
+  }
+]
