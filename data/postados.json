@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 28635139159,
-    "shop_id": 1495203153,
-    "title": "[Pokémon] Cartão \" Super Electric Breaker \" sv8 Booster Box (30 Pacotes) Caixa Selada Versão Coreana",
-    "normalized_title": "pokemon cartao super electric breaker sv8 booster box 30 pacotes caixa selada versao coreana",
-    "published_at": "2026-11-18T16:01:34.073208+00:00",
-    "price": 285.0,
-    "discount_rate": 33,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/1W0rI44wnr"
-  },
-  {
     "item_id": 58258185496,
     "shop_id": 1766948313,
     "title": "Box 360 Cartas Pokémon TCG Fogo Branco Escarlate e Violeta Evoluções Prismáticas Booster Colecionáveis Raras",
@@ -262,5 +251,16 @@
     "discount_rate": 0,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/W8ObLMnKx"
+  },
+  {
+    "item_id": 28635139159,
+    "shop_id": 1495203153,
+    "title": "[Pokémon] Cartão \" Super Electric Breaker \" sv8 Booster Box (30 Pacotes) Caixa Selada Versão Coreana",
+    "normalized_title": "pokemon cartao super electric breaker sv8 booster box 30 pacotes caixa selada versao coreana",
+    "published_at": "2026-11-21T16:46:00.596249+00:00",
+    "price": 285.0,
+    "discount_rate": 33,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/8fU6KLrhlg"
   }
 ]
