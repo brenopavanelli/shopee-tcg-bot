@@ -1,27 +1,5 @@
 [
   {
-    "item_id": 58267082891,
-    "shop_id": 1209756667,
-    "title": "Porta Cartas Pokemon Magic TCG Caixa Organizadora MDF 8 Divisórias para Cards e Colecionáveis",
-    "normalized_title": "porta cartas pokemon magic tcg caixa organizadora mdf 8 divisorias para cards e colecionaveis",
-    "published_at": "2026-11-19T22:16:07.697871+00:00",
-    "price": 28.9,
-    "discount_rate": 28,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/80ELmK8G1e"
-  },
-  {
-    "item_id": 58267843336,
-    "shop_id": 217963078,
-    "title": "Arte Expandida Para Binder 3x3 Extended Art Decoração para Fichário Pokémon TCG",
-    "normalized_title": "arte expandida para binder 3x3 extended art decoracao para fichario pokemon tcg",
-    "published_at": "2026-11-19T22:31:26.540520+00:00",
-    "price": 17.99,
-    "discount_rate": 0,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/9zzQA00dy6"
-  },
-  {
     "item_id": 47321208377,
     "shop_id": 464326997,
     "title": "BOOSTER BOX PORTUGUÊS REINADO DELTA MEGA EVOLUÇÃO ME06 COPAG POKÉMON TCG CARTA DISPLAY MEGA RAYQUAZA",
@@ -240,5 +218,16 @@
     "discount_rate": 50,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/5q9w0401qk"
+  },
+  {
+    "item_id": 58205276525,
+    "shop_id": 1720086046,
+    "title": "Álbum Porta Cartas TCG 240 ou 400 Cartas para Cartas Pokémon Yu-Gi-Oh MTG Não Inclui Cartas",
+    "normalized_title": "album porta cartas tcg 240 ou 400 cartas para cartas pokemon yu gi oh mtg nao inclui cartas",
+    "published_at": "2026-11-22T23:01:32.294408+00:00",
+    "price": 39.9,
+    "discount_rate": 56,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/6AmmOfylAq"
   }
 ]
