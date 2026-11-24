@@ -1,27 +1,5 @@
 [
   {
-    "item_id": 22298099588,
-    "shop_id": 263468055,
-    "title": "Cartas Pokemon TCG Originais - Lotes com até 100 cartas sem repetidas - Cartas Brilhantes Garantidas",
-    "normalized_title": "cartas pokemon tcg originais lotes com ate 100 cartas sem repetidas cartas brilhantes garantidas",
-    "published_at": "2026-11-21T09:31:22.490142+00:00",
-    "price": 9.99,
-    "discount_rate": 50,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/9AQJAT3oen"
-  },
-  {
-    "item_id": 22094058133,
-    "shop_id": 1455674925,
-    "title": "Porta Cartas Caixa Deck Box para Pokémon TCG - Vários personagens (200 cartas)",
-    "normalized_title": "porta cartas caixa deck box para pokemon tcg varios personagens 200 cartas",
-    "published_at": "2026-11-21T09:45:48.729811+00:00",
-    "price": 35.49,
-    "discount_rate": 22,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/8AXlyd7cgh"
-  },
-  {
     "item_id": 58219740012,
     "shop_id": 1182269567,
     "title": "Box Coleção Com Fichário Pokémon Celebração 30 Anos - 5 Boosters +  Álbum - Português Original",
@@ -251,5 +229,16 @@
     "discount_rate": 60,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/7KyjmouJnx"
+  },
+  {
+    "item_id": 22298099588,
+    "shop_id": 263468055,
+    "title": "Cartas Pokemon TCG Originais - Lotes com até 100 cartas sem repetidas - Cartas Brilhantes Garantidas",
+    "normalized_title": "cartas pokemon tcg originais lotes com ate 100 cartas sem repetidas cartas brilhantes garantidas",
+    "published_at": "2026-11-24T10:01:48.022711+00:00",
+    "price": 12.0,
+    "discount_rate": 40,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/5VX5bS1IWe"
   }
 ]
