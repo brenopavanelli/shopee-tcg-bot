@@ -1,27 +1,5 @@
 [
   {
-    "item_id": 45719187196,
-    "shop_id": 1856293711,
-    "title": "Álbum Fichário Para Cartas Pokémon Com Zíper, Capacidade Para 400 Cartas, Porta Cartas TCG Com Alça",
-    "normalized_title": "album fichario para cartas pokemon com ziper capacidade para 400 cartas porta cartas tcg com alca",
-    "published_at": "2026-11-22T22:01:26.789102+00:00",
-    "price": 49.0,
-    "discount_rate": 51,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/7pv0NjsPn4"
-  },
-  {
-    "item_id": 21999649494,
-    "shop_id": 1209802845,
-    "title": "Fichário Álbum Pokémon Para Cartas TCG 400 Cartas 50 Folhas Com Zíper",
-    "normalized_title": "fichario album pokemon para cartas tcg 400 cartas 50 folhas com ziper",
-    "published_at": "2026-11-22T22:15:49.213143+00:00",
-    "price": 68.59,
-    "discount_rate": 50,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/5q9w0401qk"
-  },
-  {
     "item_id": 58205276525,
     "shop_id": 1720086046,
     "title": "Álbum Porta Cartas TCG 240 ou 400 Cartas para Cartas Pokémon Yu-Gi-Oh MTG Não Inclui Cartas",
@@ -240,5 +218,16 @@
     "discount_rate": 50,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/AAIzxiYGaZ"
+  },
+  {
+    "item_id": 45719187196,
+    "shop_id": 1856293711,
+    "title": "Álbum Fichário Para Cartas Pokémon Com Zíper, Capacidade Para 400 Cartas, Porta Cartas TCG Com Alça",
+    "normalized_title": "album fichario para cartas pokemon com ziper capacidade para 400 cartas porta cartas tcg com alca",
+    "published_at": "2026-11-25T22:46:05.868489+00:00",
+    "price": 49.0,
+    "discount_rate": 51,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/9pg9Z6ZXGX"
   }
 ]
