@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 45055621702,
-    "shop_id": 223145265,
-    "title": "Kit de Cartas Pokémon TCG Originais com BRILHANTES COPAG Foil, Reverse Foil, Holografica, Brilhante",
-    "normalized_title": "kit de cartas pokemon tcg originais com brilhantes copag foil reverse foil holografica brilhante",
-    "published_at": "2026-11-22T21:31:20.920966+00:00",
-    "price": 17.9,
-    "discount_rate": 50,
-    "keyword": "Pokemon TCG",
-    "offer_link": "https://s.shopee.com.br/7VI9z7tgSy"
-  },
-  {
     "item_id": 45719187196,
     "shop_id": 1856293711,
     "title": "Álbum Fichário Para Cartas Pokémon Com Zíper, Capacidade Para 400 Cartas, Porta Cartas TCG Com Alça",
@@ -240,5 +229,16 @@
     "discount_rate": 70,
     "keyword": "Pokemon booster box",
     "offer_link": "https://s.shopee.com.br/Lp4EdD9LU"
+  },
+  {
+    "item_id": 45055621702,
+    "shop_id": 223145265,
+    "title": "Kit de Cartas Pokémon TCG Originais com BRILHANTES COPAG Foil, Reverse Foil, Holografica, Brilhante",
+    "normalized_title": "kit de cartas pokemon tcg originais com brilhantes copag foil reverse foil holografica brilhante",
+    "published_at": "2026-11-25T21:46:04.417660+00:00",
+    "price": 17.9,
+    "discount_rate": 50,
+    "keyword": "Pokemon TCG",
+    "offer_link": "https://s.shopee.com.br/AAIzxiYGaZ"
   }
 ]
