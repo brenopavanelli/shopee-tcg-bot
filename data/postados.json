@@ -1,16 +1,5 @@
 [
   {
-    "item_id": 58208481768,
-    "shop_id": 1766948313,
-    "title": "324 Pçs/Caixa Cartas de Pokémon Booster Box 36 Pacotes Brilhantes Pokemon Caixa de Exibição Booster Para Jogo de Batalha",
-    "normalized_title": "324 pcs caixa cartas de pokemon booster box 36 pacotes brilhantes pokemon caixa de exibicao booster para jogo de batalha",
-    "published_at": "2026-11-22T19:15:54.151347+00:00",
-    "price": 150.0,
-    "discount_rate": 70,
-    "keyword": "Pokemon booster box",
-    "offer_link": "https://s.shopee.com.br/8pnXYWbGdr"
-  },
-  {
     "item_id": 45055621702,
     "shop_id": 223145265,
     "title": "Kit de Cartas Pokémon TCG Originais com BRILHANTES COPAG Foil, Reverse Foil, Holografica, Brilhante",
@@ -240,5 +229,16 @@
     "discount_rate": 47,
     "keyword": "Pokemon TCG",
     "offer_link": "https://s.shopee.com.br/6L6HOfmrMu"
+  },
+  {
+    "item_id": 58208481768,
+    "shop_id": 1766948313,
+    "title": "324 Pçs/Caixa Cartas de Pokémon Booster Box 36 Pacotes Brilhantes Pokemon Caixa de Exibição Booster Para Jogo de Batalha",
+    "normalized_title": "324 pcs caixa cartas de pokemon booster box 36 pacotes brilhantes pokemon caixa de exibicao booster para jogo de batalha",
+    "published_at": "2026-11-25T19:16:08.653180+00:00",
+    "price": 150.0,
+    "discount_rate": 70,
+    "keyword": "Pokemon booster box",
+    "offer_link": "https://s.shopee.com.br/Lp4EdD9LU"
   }
 ]
